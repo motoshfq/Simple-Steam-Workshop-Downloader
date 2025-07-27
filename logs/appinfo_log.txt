@@ -1,0 +1,692 @@
+
+
+[2024-06-23 13:38:43] Client version: 1718904263
+[2024-06-23 13:38:43] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 13:38:43] Change number 0->24083699, apps: 0/0, packages: 0/0
+[2024-06-23 13:38:43] Requesting 1 apps, 1 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 13:38:44] Downloaded 1 apps via HTTP, 13 KB (3 KB compressed)
+[2024-06-23 13:38:44] Requesting 0 apps, 1 packages (full data, 1024 prev attempts, expected 29 KB)
+[2024-06-23 13:38:44] UpdatesJob: finished OK, apps updated 1 (13 KB), packages updated 1 (29 KB)
+[2024-06-23 13:38:44] Requesting 1198 apps, 0 packages (meta data, 1024 prev attempts, expected 56 KB)
+[2024-06-23 13:38:45] Requested 130 app access tokens, 53 received, 77 denied
+[2024-06-23 13:38:45] Updated SHAs with 53 new access tokens
+[2024-06-23 13:38:49] Downloaded 201 apps via HTTP, 4977 KB (1318 KB compressed)
+[2024-06-23 13:38:49] Requesting 997 apps, 0 packages (full data, 1024 prev attempts, expected 3205 KB)
+[2024-06-23 13:38:50] UpdatesJob: finished OK, apps updated 1198 (8135 KB), packages updated 0 (0 KB)
+[2024-06-23 13:38:50] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 13:38:50] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 13:38:50] Downloaded 1 apps via HTTP, 89 KB (26 KB compressed)
+[2024-06-23 13:38:50] UpdatesJob: finished OK, apps updated 1 (89 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 13:39:42] Client version: 1718904263
+[2024-06-23 13:39:42] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 13:39:43] Change number 24083699->24083704, apps: 0/5, packages: 0/2
+[2024-06-23 13:39:43] Requesting 78 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 13:39:43] Requested 77 app access tokens, 0 received, 77 denied
+[2024-06-23 13:39:43] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 13:39:43] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 13:39:43] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 13:39:44] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 13:49:40] Client version: 1718904263
+[2024-06-23 13:49:40] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 13:49:41] Packages changed: force all
+[2024-06-23 13:49:41] Apps changed: 322330=24083738,343050=24083708,
+[2024-06-23 13:49:41] Change number 24083704->24083749, apps: 2/33, packages: 0/0
+[2024-06-23 13:49:41] Requesting 80 apps, 1 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 13:49:41] Requested 77 app access tokens, 0 received, 77 denied
+[2024-06-23 13:49:42] Downloaded 2 apps via HTTP, 32 KB (10 KB compressed)
+[2024-06-23 13:49:42] UpdatesJob: finished OK, apps updated 2 (32 KB), packages updated 0 (0 KB)
+[2024-06-23 13:49:42] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 13:49:42] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 13:49:42] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 13:50:15] Client version: 1718904263
+[2024-06-23 13:50:15] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 13:50:15] Change number 24083749->24083752, apps: 0/3, packages: 0/0
+[2024-06-23 13:50:15] Requesting 78 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 13:50:17] Requested 77 app access tokens, 0 received, 77 denied
+[2024-06-23 13:50:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 13:50:17] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 13:50:17] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 13:50:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 13:52:01] Client version: 1718904263
+[2024-06-23 13:52:01] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 13:52:02] Change number 24083752->24083757, apps: 0/4, packages: 0/1
+[2024-06-23 13:52:02] Requesting 78 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 13:52:02] Requested 77 app access tokens, 0 received, 77 denied
+[2024-06-23 13:52:02] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 13:52:02] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 13:52:02] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 13:52:03] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 13:53:32] Client version: 1718904263
+[2024-06-23 13:53:32] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 13:53:32] Change number 24083757->24083760, apps: 0/3, packages: 0/0
+[2024-06-23 13:53:32] Requesting 78 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 13:53:33] Requested 77 app access tokens, 0 received, 77 denied
+[2024-06-23 13:53:33] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 13:53:33] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 13:53:33] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 13:53:34] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 13:56:02] Client version: 1718904263
+[2024-06-23 13:56:02] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 13:56:02] Change number 0->24083772, apps: 0/0, packages: 0/0
+[2024-06-23 13:56:02] Requesting 1200 apps, 76 packages (meta data, 1024 prev attempts, expected 59 KB)
+[2024-06-23 13:56:03] Requested 130 app access tokens, 12 received, 118 denied
+[2024-06-23 13:56:03] Updated SHAs with 12 new access tokens
+[2024-06-23 13:56:03] Requesting 0 apps, 75 packages (full data, 1024 prev attempts, expected 28 KB)
+[2024-06-23 13:56:03] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 75 (25 KB)
+[2024-06-23 13:56:03] Requesting 219 apps, 0 packages (meta data, 1024 prev attempts, expected 10 KB)
+[2024-06-23 13:56:04] Requested 45 app access tokens, 42 received, 3 denied
+[2024-06-23 13:56:04] Updated SHAs with 42 new access tokens
+[2024-06-23 13:56:05] Downloaded 26 apps via HTTP, 2029 KB (556 KB compressed)
+[2024-06-23 13:56:05] Requesting 192 apps, 0 packages (full data, 1024 prev attempts, expected 418 KB)
+[2024-06-23 13:56:05] UpdatesJob: finished OK, apps updated 218 (2438 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 13:56:13] Client version: 1718904263
+[2024-06-23 13:56:13] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 13:56:13] Change number 24083760->24083774, apps: 0/13, packages: 0/1
+[2024-06-23 13:56:13] Requesting 78 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 13:56:13] Requested 77 app access tokens, 0 received, 77 denied
+[2024-06-23 13:56:13] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 13:56:14] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 13:56:14] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 13:56:14] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 13:58:02] Client version: 1718904263
+[2024-06-23 13:58:02] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 13:58:03] Change number 24083772->24083781, apps: 0/7, packages: 0/0
+[2024-06-23 13:58:03] Requesting 296 apps, 0 packages (meta data, 1024 prev attempts, expected 13 KB)
+[2024-06-23 13:58:03] Requested 121 app access tokens, 42 received, 79 denied
+[2024-06-23 13:58:04] Updated SHAs with 42 new access tokens
+[2024-06-23 13:58:04] Downloaded 26 apps via HTTP, 2029 KB (556 KB compressed)
+[2024-06-23 13:58:04] Requesting 192 apps, 0 packages (full data, 1024 prev attempts, expected 418 KB)
+[2024-06-23 13:58:04] UpdatesJob: finished OK, apps updated 218 (2438 KB), packages updated 0 (0 KB)
+[2024-06-23 13:58:05] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 13:58:05] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 13:58:05] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 14:04:27] Client version: 1718904263
+[2024-06-23 14:04:27] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 14:04:27] Apps changed: 616720=24083807,2082470=24083794,
+[2024-06-23 14:04:27] Change number 24083781->24083811, apps: 2/17, packages: 0/5
+[2024-06-23 14:04:27] Requesting 82 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 14:04:28] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 14:04:28] Requesting 2 apps, 0 packages (full data, 1024 prev attempts, expected 11 KB)
+[2024-06-23 14:04:28] UpdatesJob: finished OK, apps updated 2 (11 KB), packages updated 0 (0 KB)
+[2024-06-23 14:04:28] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 14:04:28] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 14:04:28] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 14:09:34] Client version: 1718904263
+[2024-06-23 14:09:34] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 14:09:34] Apps changed: 445220=24083824,
+[2024-06-23 14:09:34] Change number 24083774->24083834, apps: 1/110, packages: 0/8
+[2024-06-23 14:09:34] Requesting 81 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 14:09:35] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 14:09:35] Downloaded 1 apps via HTTP, 17 KB (4 KB compressed)
+[2024-06-23 14:09:35] UpdatesJob: finished OK, apps updated 1 (17 KB), packages updated 0 (0 KB)
+[2024-06-23 14:09:35] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 14:09:35] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 14:09:35] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 14:10:29] Client version: 1718904263
+[2024-06-23 14:10:29] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 14:10:30] Change number 24083834->24083844, apps: 0/51, packages: 0/1
+[2024-06-23 14:10:30] Requesting 80 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 14:10:30] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 14:10:30] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 14:10:30] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 14:10:31] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 14:10:31] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 14:16:57] Client version: 1718904263
+[2024-06-23 14:16:57] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 14:16:58] Apps changed: 445400=24083873,
+[2024-06-23 14:16:58] Change number 24083811->24083880, apps: 1/165, packages: 0/7
+[2024-06-23 14:16:58] Requesting 81 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 14:16:58] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 14:16:58] Requesting 1 apps, 0 packages (full data, 1024 prev attempts, expected 2 KB)
+[2024-06-23 14:16:59] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-06-23 14:16:59] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 14:16:59] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 14:16:59] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 14:17:06] Starting async write C:\Users\motosh\Simple Steam Workshop Downloader/appcache/appinfo.vdf (7536 KB)
+
+
+[2024-06-23 14:47:40] Client version: 1718904263
+[2024-06-23 14:47:40] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 14:47:40] Apps changed: 494840=24083902,2684970=24083892,407530=24083889,
+[2024-06-23 14:47:40] Change number 24083880->24084000, apps: 3/76, packages: 0/19
+[2024-06-23 14:47:40] Requesting 83 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 14:47:40] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 14:47:41] Downloaded 2 apps via HTTP, 381 KB (85 KB compressed)
+[2024-06-23 14:47:41] Requesting 1 apps, 0 packages (full data, 1024 prev attempts, expected 2 KB)
+[2024-06-23 14:47:41] UpdatesJob: finished OK, apps updated 3 (384 KB), packages updated 0 (0 KB)
+[2024-06-23 14:47:41] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 14:47:41] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 14:47:41] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 14:47:43] Starting async write C:\Users\motosh\Simple Steam Workshop Downloader/appcache/appinfo.vdf (7536 KB)
+
+
+[2024-06-23 14:49:07] Client version: 1718904263
+[2024-06-23 14:49:07] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 14:49:07] Change number 24084000->24084005, apps: 0/4, packages: 0/1
+[2024-06-23 14:49:07] Requesting 80 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 14:49:08] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 14:49:08] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 14:49:08] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 14:49:08] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 14:49:08] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 14:49:21] Client version: 1718904263
+[2024-06-23 14:49:21] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 14:49:22] Change number 24084005->24084006, apps: 0/1, packages: 0/0
+[2024-06-23 14:49:22] Requesting 80 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 14:49:22] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 14:49:22] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 14:49:22] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 14:49:22] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 14:49:23] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 20:01:51] Client version: 1718904263
+[2024-06-23 20:01:51] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 20:01:52] Packages changed: force all
+[2024-06-23 20:01:52] Apps changed: 1670340=24085575,660470=24085567,1970580=24085492,293030=24085434,2407300=24085427,238430=24085418,1519140=24085401,541200=24085309,1652070=24085273,494840=24085199,2138290=24084958,1617130=24084847,1324780=24084841,2923300=24084826,1440670=24084799,
+[2024-06-23 20:01:52] Change number 24084006->24085586, apps: 22/1146, packages: 0/0
+[2024-06-23 20:01:52] Requesting 101 apps, 78 packages (meta data, 1024 prev attempts, expected 8 KB)
+[2024-06-23 20:01:52] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 20:01:53] Downloaded 7 apps via HTTP, 439 KB (101 KB compressed)
+[2024-06-23 20:01:53] Requesting 14 apps, 2 packages (full data, 1024 prev attempts, expected 59 KB)
+[2024-06-23 20:01:53] UpdatesJob: finished OK, apps updated 21 (497 KB), packages updated 2 (0 KB)
+[2024-06-23 20:01:53] Requesting 2 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 20:01:53] Requesting 2 apps, 0 packages (full data, 1024 prev attempts, expected 11 KB)
+[2024-06-23 20:01:54] UpdatesJob: finished OK, apps updated 2 (10 KB), packages updated 0 (0 KB)
+[2024-06-23 20:01:54] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 20:01:54] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 20:01:55] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 20:02:01] Client version: 1718904263
+[2024-06-23 20:02:01] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 20:02:01] Change number 24085586->24085587, apps: 0/1, packages: 0/0
+[2024-06-23 20:02:01] Requesting 80 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 20:02:02] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 20:02:02] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 20:02:02] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 20:02:02] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 20:02:02] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 20:02:08] Client version: 1718904263
+[2024-06-23 20:02:08] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 20:02:09] Change number 24085587->24085587, apps: 0/0, packages: 0/0
+[2024-06-23 20:02:09] Requesting 80 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 20:02:09] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 20:02:09] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 20:02:09] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 20:02:09] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 20:02:10] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 20:02:16] Client version: 1718904263
+[2024-06-23 20:02:16] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 20:02:16] Change number 24085587->24085587, apps: 0/0, packages: 0/0
+[2024-06-23 20:02:16] Requesting 80 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 20:02:17] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 20:02:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 20:02:17] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 20:02:17] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 20:02:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 20:02:24] Client version: 1718904263
+[2024-06-23 20:02:24] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 20:02:24] Change number 24085587->24085587, apps: 0/0, packages: 0/0
+[2024-06-23 20:02:24] Requesting 80 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 20:02:25] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 20:02:25] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 20:02:25] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 20:02:25] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 20:02:25] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 20:02:32] Client version: 1718904263
+[2024-06-23 20:02:32] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 20:02:33] Change number 24085587->24085587, apps: 0/0, packages: 0/0
+[2024-06-23 20:02:33] Requesting 80 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 20:02:33] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 20:02:33] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 20:02:34] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 20:02:34] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 20:02:34] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 20:05:57] Client version: 1718904263
+[2024-06-23 20:05:57] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 20:05:57] Change number 24085587->24085599, apps: 0/10, packages: 0/1
+[2024-06-23 20:05:57] Requesting 80 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 20:05:58] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 20:05:58] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 20:05:58] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 20:05:58] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 20:05:58] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 20:06:01] Client version: 1718904263
+[2024-06-23 20:06:01] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 20:06:02] Change number 24085599->24085600, apps: 0/1, packages: 0/0
+[2024-06-23 20:06:02] Requesting 80 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 20:06:02] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 20:06:02] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 20:06:02] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 20:06:02] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 20:06:03] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 20:06:06] Client version: 1718904263
+[2024-06-23 20:06:06] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 20:06:06] Change number 24085600->24085600, apps: 0/0, packages: 0/0
+[2024-06-23 20:06:06] Requesting 80 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 20:06:07] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 20:06:07] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 20:06:07] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 20:06:07] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 20:06:07] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 20:06:11] Client version: 1718904263
+[2024-06-23 20:06:11] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 20:06:11] Change number 24085600->24085601, apps: 0/1, packages: 0/0
+[2024-06-23 20:06:11] Requesting 80 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 20:06:12] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 20:06:12] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 20:06:12] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 20:06:12] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 20:06:12] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-23 20:06:15] Client version: 1718904263
+[2024-06-23 20:06:15] RequestAppInfoUpdate: AppIDs 7
+[2024-06-23 20:06:16] Change number 24085601->24085602, apps: 0/1, packages: 0/3
+[2024-06-23 20:06:16] Requesting 80 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-23 20:06:16] Requested 79 app access tokens, 0 received, 79 denied
+[2024-06-23 20:06:16] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-23 20:06:16] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-23 20:06:16] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-23 20:06:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 19:44:04] Client version: 1718904263
+[2024-06-24 19:44:04] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 19:44:04] Packages changed: force all
+[2024-06-24 19:44:04] Apps changed: force all
+[2024-06-24 19:44:04] Change number 24085602->24097370, apps: 0/0, packages: 0/0
+[2024-06-24 19:44:04] Requesting 1420 apps, 78 packages (meta data, 1024 prev attempts, expected 70 KB)
+[2024-06-24 19:44:05] Requested 174 app access tokens, 54 received, 120 denied
+[2024-06-24 19:44:05] Updated SHAs with 54 new access tokens
+[2024-06-24 19:44:05] Downloaded 40 apps via HTTP, 1893 KB (485 KB compressed)
+[2024-06-24 19:44:05] Requesting 72 apps, 1 packages (full data, 1024 prev attempts, expected 352 KB)
+[2024-06-24 19:44:06] UpdatesJob: finished OK, apps updated 112 (2212 KB), packages updated 1 (29 KB)
+[2024-06-24 19:44:06] Requesting 118 apps, 0 packages (meta data, 1024 prev attempts, expected 5 KB)
+[2024-06-24 19:44:06] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-24 19:44:07] Requested 118 app access tokens, 0 received, 118 denied
+[2024-06-24 19:44:07] Requesting 1 apps, 0 packages (full data, 1024 prev attempts, expected 89 KB)
+[2024-06-24 19:44:07] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 19:44:07] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 19:44:12] Starting async write C:\Users\motosh\Simple Steam Workshop Downloader/appcache/appinfo.vdf (7512 KB)
+
+
+[2024-06-24 19:44:14] Client version: 1718904263
+[2024-06-24 19:44:14] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 19:44:15] Change number 24097370->24097371, apps: 0/1, packages: 0/0
+[2024-06-24 19:44:15] Requesting 85 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-24 19:44:15] Requested 84 app access tokens, 0 received, 84 denied
+[2024-06-24 19:44:15] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 19:44:15] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-24 19:44:16] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 19:44:16] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 19:44:22] Client version: 1718904263
+[2024-06-24 19:44:22] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 19:44:22] Change number 24097371->24097372, apps: 0/1, packages: 0/0
+[2024-06-24 19:44:22] Requesting 85 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-24 19:44:23] Requested 84 app access tokens, 0 received, 84 denied
+[2024-06-24 19:44:23] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 19:44:23] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-24 19:44:23] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 19:44:23] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 19:44:27] Client version: 1718904263
+[2024-06-24 19:44:27] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 19:44:27] Change number 24097372->24097373, apps: 0/0, packages: 0/1
+[2024-06-24 19:44:27] Requesting 85 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-24 19:44:28] Requested 84 app access tokens, 0 received, 84 denied
+[2024-06-24 19:44:28] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 19:44:28] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-24 19:44:28] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 19:44:28] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 19:44:31] Client version: 1718904263
+[2024-06-24 19:44:31] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 19:44:32] Change number 24097373->24097374, apps: 0/2, packages: 0/0
+[2024-06-24 19:44:32] Requesting 85 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-24 19:44:32] Requested 84 app access tokens, 0 received, 84 denied
+[2024-06-24 19:44:32] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 19:44:32] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-24 19:44:33] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 19:44:33] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 19:44:36] Client version: 1718904263
+[2024-06-24 19:44:36] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 19:44:36] Change number 24097374->24097374, apps: 0/0, packages: 0/0
+[2024-06-24 19:44:36] Requesting 85 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-24 19:44:37] Requested 84 app access tokens, 0 received, 84 denied
+[2024-06-24 19:44:37] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 19:44:37] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-24 19:44:37] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 19:44:37] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 19:46:21] Client version: 1718904263
+[2024-06-24 19:46:21] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 19:46:21] Apps changed: 882430=24097380,
+[2024-06-24 19:46:21] Change number 24097374->24097395, apps: 1/18, packages: 0/5
+[2024-06-24 19:46:21] Requesting 86 apps, 0 packages (meta data, 1024 prev attempts, expected 4 KB)
+[2024-06-24 19:46:22] Requested 84 app access tokens, 0 received, 84 denied
+[2024-06-24 19:46:22] Requesting 1 apps, 0 packages (full data, 1024 prev attempts, expected 4 KB)
+[2024-06-24 19:46:22] UpdatesJob: finished OK, apps updated 1 (4 KB), packages updated 0 (0 KB)
+[2024-06-24 19:46:22] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-24 19:46:22] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 19:46:23] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 19:46:29] Starting async write C:\Users\motosh\Simple Steam Workshop Downloader/appcache/appinfo.vdf (7512 KB)
+
+
+[2024-06-24 19:46:31] Client version: 1718904263
+[2024-06-24 19:46:31] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 19:46:32] Change number 24097395->24097397, apps: 0/2, packages: 0/0
+[2024-06-24 19:46:32] Requesting 85 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-24 19:46:32] Requested 84 app access tokens, 0 received, 84 denied
+[2024-06-24 19:46:32] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 19:46:32] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-24 19:46:32] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 19:46:33] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 19:47:23] Client version: 1718904263
+[2024-06-24 19:47:23] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 19:47:24] Change number 24097397->24097405, apps: 0/7, packages: 0/0
+[2024-06-24 19:47:24] Requesting 85 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-24 19:47:24] Requested 84 app access tokens, 0 received, 84 denied
+[2024-06-24 19:47:24] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 19:47:25] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-24 19:47:25] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 19:47:25] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 20:05:20] Client version: 1718904263
+[2024-06-24 20:05:20] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 20:05:21] Packages changed: force all
+[2024-06-24 20:05:21] Apps changed: 294420=24097544,1493710=24097484,424030=24097458,1424230=24097422,
+[2024-06-24 20:05:21] Change number 24097405->24097663, apps: 4/161, packages: 0/0
+[2024-06-24 20:05:21] Requesting 89 apps, 78 packages (meta data, 1024 prev attempts, expected 7 KB)
+[2024-06-24 20:05:21] Requested 84 app access tokens, 0 received, 84 denied
+[2024-06-24 20:05:21] Downloaded 1 apps via HTTP, 10 KB (3 KB compressed)
+[2024-06-24 20:05:21] Requesting 3 apps, 0 packages (full data, 1024 prev attempts, expected 12 KB)
+[2024-06-24 20:05:22] UpdatesJob: finished OK, apps updated 4 (23 KB), packages updated 0 (0 KB)
+[2024-06-24 20:05:22] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-24 20:05:22] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 20:05:22] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 20:05:28] Starting async write C:\Users\motosh\Simple Steam Workshop Downloader/appcache/appinfo.vdf (7512 KB)
+
+
+[2024-06-24 20:05:32] Client version: 1718904263
+[2024-06-24 20:05:32] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 20:05:32] Change number 24097663->24097667, apps: 0/3, packages: 0/1
+[2024-06-24 20:05:32] Requesting 85 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-24 20:05:33] Requested 84 app access tokens, 0 received, 84 denied
+[2024-06-24 20:05:33] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 20:05:33] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-24 20:05:33] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 20:05:33] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 20:05:37] Client version: 1718904263
+[2024-06-24 20:05:37] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 20:05:37] Change number 24097667->24097667, apps: 0/0, packages: 0/0
+[2024-06-24 20:05:37] Requesting 85 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-24 20:05:38] Requested 84 app access tokens, 0 received, 84 denied
+[2024-06-24 20:05:38] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 20:05:38] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-24 20:05:38] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 20:05:38] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 20:05:44] Client version: 1718904263
+[2024-06-24 20:05:44] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 20:05:45] Change number 24097667->24097668, apps: 0/1, packages: 0/0
+[2024-06-24 20:05:45] Requesting 85 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-24 20:05:45] Requested 84 app access tokens, 0 received, 84 denied
+[2024-06-24 20:05:45] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 20:05:46] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-24 20:05:46] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 20:05:46] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 20:05:51] Client version: 1718904263
+[2024-06-24 20:05:51] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 20:05:51] Change number 24097668->24097668, apps: 0/0, packages: 0/0
+[2024-06-24 20:05:51] Requesting 85 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-24 20:05:52] Requested 84 app access tokens, 0 received, 84 denied
+[2024-06-24 20:05:52] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 20:05:52] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-24 20:05:52] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 20:05:52] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 20:05:56] Client version: 1718904263
+[2024-06-24 20:05:56] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 20:05:56] Change number 24097668->24097669, apps: 0/0, packages: 0/0
+[2024-06-24 20:05:57] Requesting 85 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-06-24 20:05:57] Requested 84 app access tokens, 0 received, 84 denied
+[2024-06-24 20:05:57] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 20:05:57] RequestAppInfoUpdate: AppIDs 107410
+[2024-06-24 20:05:57] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 20:05:58] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 22:22:44] Client version: 1718904263
+[2024-06-24 22:22:44] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 22:22:45] Apps changed: 589290=24099247,1424230=24099243,2407300=24099234,1324780=24099227,1892930=24099082,544550=24099072,1239080=24099072,667530=24099065,996560=24099040,660470=24098928,714010=24098901,2089300=24098831,1158470=24098704,600760=24098703,380870=24098686,
+[2024-06-24 22:22:45] Change number 24097669->24099249, apps: 26/1051, packages: 0/196
+[2024-06-24 22:22:45] Requesting 108 apps, 0 packages (meta data, 1024 prev attempts, expected 5 KB)
+[2024-06-24 22:22:45] Requested 85 app access tokens, 0 received, 85 denied
+[2024-06-24 22:22:45] Downloaded 9 apps via HTTP, 132 KB (43 KB compressed)
+[2024-06-24 22:22:45] Requesting 14 apps, 0 packages (full data, 1024 prev attempts, expected 63 KB)
+[2024-06-24 22:22:46] UpdatesJob: finished OK, apps updated 23 (195 KB), packages updated 0 (0 KB)
+[2024-06-24 22:22:46] RequestAppInfoUpdate: AppIDs 1167630
+[2024-06-24 22:22:46] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 22:22:46] Downloaded 1 apps via HTTP, 9 KB (3 KB compressed)
+[2024-06-24 22:22:46] UpdatesJob: finished OK, apps updated 1 (9 KB), packages updated 0 (0 KB)
+[2024-06-24 22:22:47] Starting async write C:\Users\motosh\Simple Steam Workshop Downloader/appcache/appinfo.vdf (7515 KB)
+
+
+[2024-06-24 22:22:50] Client version: 1718904263
+[2024-06-24 22:22:50] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 22:22:50] Change number 24099249->24099250, apps: 0/1, packages: 0/0
+[2024-06-24 22:22:50] Requesting 86 apps, 0 packages (meta data, 1024 prev attempts, expected 4 KB)
+[2024-06-24 22:22:51] Requested 85 app access tokens, 0 received, 85 denied
+[2024-06-24 22:22:51] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 22:22:51] RequestAppInfoUpdate: AppIDs 1167630
+[2024-06-24 22:22:51] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 22:22:51] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 22:22:55] Client version: 1718904263
+[2024-06-24 22:22:55] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 22:22:55] Apps changed: 2635410=24099251,
+[2024-06-24 22:22:55] Change number 24099250->24099251, apps: 1/1, packages: 0/0
+[2024-06-24 22:22:55] Requesting 87 apps, 0 packages (meta data, 1024 prev attempts, expected 4 KB)
+[2024-06-24 22:22:56] Requested 85 app access tokens, 0 received, 85 denied
+[2024-06-24 22:22:56] Requesting 1 apps, 0 packages (full data, 1024 prev attempts, expected 2 KB)
+[2024-06-24 22:22:56] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2024-06-24 22:22:56] RequestAppInfoUpdate: AppIDs 1167630
+[2024-06-24 22:22:56] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 22:22:56] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 22:22:57] Starting async write C:\Users\motosh\Simple Steam Workshop Downloader/appcache/appinfo.vdf (7515 KB)
+
+
+[2024-06-24 22:23:00] Client version: 1718904263
+[2024-06-24 22:23:00] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 22:23:00] Change number 24099251->24099251, apps: 0/0, packages: 0/0
+[2024-06-24 22:23:00] Requesting 86 apps, 0 packages (meta data, 1024 prev attempts, expected 4 KB)
+[2024-06-24 22:23:01] Requested 85 app access tokens, 0 received, 85 denied
+[2024-06-24 22:23:01] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 22:23:01] RequestAppInfoUpdate: AppIDs 1167630
+[2024-06-24 22:23:01] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 22:23:01] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 22:23:05] Client version: 1718904263
+[2024-06-24 22:23:05] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 22:23:05] Change number 24099251->24099253, apps: 0/2, packages: 0/0
+[2024-06-24 22:23:05] Requesting 86 apps, 0 packages (meta data, 1024 prev attempts, expected 4 KB)
+[2024-06-24 22:23:06] Requested 85 app access tokens, 0 received, 85 denied
+[2024-06-24 22:23:06] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 22:23:06] RequestAppInfoUpdate: AppIDs 1167630
+[2024-06-24 22:23:06] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 22:23:06] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 22:23:10] Client version: 1718904263
+[2024-06-24 22:23:10] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 22:23:10] Change number 24099253->24099254, apps: 0/1, packages: 0/0
+[2024-06-24 22:23:10] Requesting 86 apps, 0 packages (meta data, 1024 prev attempts, expected 4 KB)
+[2024-06-24 22:23:11] Requested 85 app access tokens, 0 received, 85 denied
+[2024-06-24 22:23:11] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 22:23:11] RequestAppInfoUpdate: AppIDs 1167630
+[2024-06-24 22:23:11] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 22:23:11] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 22:23:16] Client version: 1718904263
+[2024-06-24 22:23:16] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 22:23:16] Change number 24099254->24099257, apps: 0/1, packages: 0/1
+[2024-06-24 22:23:16] Requesting 86 apps, 0 packages (meta data, 1024 prev attempts, expected 4 KB)
+[2024-06-24 22:23:17] Requested 85 app access tokens, 0 received, 85 denied
+[2024-06-24 22:23:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 22:23:17] RequestAppInfoUpdate: AppIDs 1167630
+[2024-06-24 22:23:17] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 22:23:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 22:23:21] Client version: 1718904263
+[2024-06-24 22:23:21] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 22:23:21] Change number 24099257->24099259, apps: 0/1, packages: 0/1
+[2024-06-24 22:23:21] Requesting 86 apps, 0 packages (meta data, 1024 prev attempts, expected 4 KB)
+[2024-06-24 22:23:22] Requested 85 app access tokens, 0 received, 85 denied
+[2024-06-24 22:23:22] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 22:23:22] RequestAppInfoUpdate: AppIDs 1167630
+[2024-06-24 22:23:22] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 22:23:22] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 22:23:26] Client version: 1718904263
+[2024-06-24 22:23:26] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 22:23:26] Change number 24099259->24099259, apps: 0/0, packages: 0/0
+[2024-06-24 22:23:26] Requesting 86 apps, 0 packages (meta data, 1024 prev attempts, expected 4 KB)
+[2024-06-24 22:23:27] Requested 85 app access tokens, 0 received, 85 denied
+[2024-06-24 22:23:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 22:23:27] RequestAppInfoUpdate: AppIDs 1167630
+[2024-06-24 22:23:27] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 22:23:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 22:23:31] Client version: 1718904263
+[2024-06-24 22:23:31] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 22:23:31] Change number 24099259->24099259, apps: 0/0, packages: 0/0
+[2024-06-24 22:23:31] Requesting 86 apps, 0 packages (meta data, 1024 prev attempts, expected 4 KB)
+[2024-06-24 22:23:32] Requested 85 app access tokens, 0 received, 85 denied
+[2024-06-24 22:23:32] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 22:23:32] RequestAppInfoUpdate: AppIDs 1167630
+[2024-06-24 22:23:32] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 22:23:32] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 22:23:36] Client version: 1718904263
+[2024-06-24 22:23:36] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 22:23:37] Apps changed: 2407300=24099262,
+[2024-06-24 22:23:37] Change number 24099259->24099262, apps: 1/3, packages: 0/0
+[2024-06-24 22:23:37] Requesting 87 apps, 0 packages (meta data, 1024 prev attempts, expected 4 KB)
+[2024-06-24 22:23:37] Requested 85 app access tokens, 0 received, 85 denied
+[2024-06-24 22:23:37] Requesting 1 apps, 0 packages (full data, 1024 prev attempts, expected 3 KB)
+[2024-06-24 22:23:38] UpdatesJob: finished OK, apps updated 1 (3 KB), packages updated 0 (0 KB)
+[2024-06-24 22:23:38] RequestAppInfoUpdate: AppIDs 1167630
+[2024-06-24 22:23:38] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 22:23:38] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 22:23:39] Starting async write C:\Users\motosh\Simple Steam Workshop Downloader/appcache/appinfo.vdf (7515 KB)
+
+
+[2024-06-24 22:23:41] Client version: 1718904263
+[2024-06-24 22:23:41] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 22:23:42] Change number 24099262->24099263, apps: 0/1, packages: 0/0
+[2024-06-24 22:23:42] Requesting 86 apps, 0 packages (meta data, 1024 prev attempts, expected 4 KB)
+[2024-06-24 22:23:42] Requested 85 app access tokens, 0 received, 85 denied
+[2024-06-24 22:23:42] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 22:23:42] RequestAppInfoUpdate: AppIDs 1167630
+[2024-06-24 22:23:42] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 22:23:43] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 22:23:47] Client version: 1718904263
+[2024-06-24 22:23:47] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 22:23:47] Change number 24099263->24099266, apps: 0/2, packages: 0/1
+[2024-06-24 22:23:47] Requesting 86 apps, 0 packages (meta data, 1024 prev attempts, expected 4 KB)
+[2024-06-24 22:23:48] Requested 85 app access tokens, 0 received, 85 denied
+[2024-06-24 22:23:48] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 22:23:48] RequestAppInfoUpdate: AppIDs 1167630
+[2024-06-24 22:23:48] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 22:23:48] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 22:23:51] Client version: 1718904263
+[2024-06-24 22:23:51] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 22:23:51] Change number 24099266->24099269, apps: 0/2, packages: 0/1
+[2024-06-24 22:23:51] Requesting 86 apps, 0 packages (meta data, 1024 prev attempts, expected 4 KB)
+[2024-06-24 22:23:52] Requested 85 app access tokens, 0 received, 85 denied
+[2024-06-24 22:23:52] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 22:23:52] RequestAppInfoUpdate: AppIDs 1167630
+[2024-06-24 22:23:52] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 22:23:52] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-06-24 22:23:56] Client version: 1718904263
+[2024-06-24 22:23:56] RequestAppInfoUpdate: AppIDs 7
+[2024-06-24 22:23:56] Change number 24099269->24099270, apps: 0/0, packages: 0/1
+[2024-06-24 22:23:56] Requesting 86 apps, 0 packages (meta data, 1024 prev attempts, expected 4 KB)
+[2024-06-24 22:23:57] Requested 85 app access tokens, 0 received, 85 denied
+[2024-06-24 22:23:57] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-06-24 22:23:57] RequestAppInfoUpdate: AppIDs 1167630
+[2024-06-24 22:23:57] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-06-24 22:23:57] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)

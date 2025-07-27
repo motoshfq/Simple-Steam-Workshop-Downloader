@@ -1,0 +1,26 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"steam"
+			{
+				"SurveyDate"		"2021-04-14"
+				"SurveyDateVersion"		"-8275933184398291724"
+				"StartMenuShortcutCheck"		"1"
+				"DesktopShortcutCheck"		"1"
+				"apps"
+				{
+					"289070"
+					{
+						"tags"
+						{
+							"0"		"ДОлбёжка в жопу"
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,1441 @@
+
+
+[2024-06-23 13:38:23] Client version: 1718904263
+[2024-06-23 13:38:23] Load failed: D:\Steamcmd\steamapps\libraryfolders.vdf.
+[2024-06-23 13:38:23] Load failed: D:\Steamcmd\config\libraryfolders.vdf.
+[2024-06-23 13:38:23] Steam library folders configuration will be reset.
+[2024-06-23 13:38:23] No install folder configuration files found.
+
+
+[2024-06-23 13:49:38] Client version: 1718904263
+[2024-06-23 13:49:38] Loaded Steam library folders configuration: D:\Steamcmd\steamapps\libraryfolders.vdf
+[2024-06-23 13:49:40] Loaded 0 apps from install folder "D:\Steamcmd\steamapps\appmanifest_*.acf".
+[2024-06-23 13:49:40] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 13:49:42] AppID 107410 scheduler update : Priority First, not played for 1719139782 seconds, update disabled for 0 seconds
+[2024-06-23 13:49:42] AppID 107410 update changed : Running Update,
+[2024-06-23 13:49:42] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 13:49:43] AppID 107410 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-23 13:49:43] AppID 107410 update changed : Running Update,Stopping,
+[2024-06-23 13:49:43] AppID 107410 update changed : None
+[2024-06-23 13:49:43] AppID 107410 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-23 13:50:13] Client version: 1718904263
+[2024-06-23 13:50:13] Loaded Steam library folders configuration: D:\Steamcmd\steamapps\libraryfolders.vdf
+[2024-06-23 13:50:15] Loaded 0 apps from install folder "D:\Steamcmd\steamapps\appmanifest_*.acf".
+[2024-06-23 13:50:15] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 13:50:17] AppID 107410 scheduler update : Priority First, not played for 1719139817 seconds, update disabled for 0 seconds
+[2024-06-23 13:50:17] AppID 107410 update changed : Running Update,
+[2024-06-23 13:50:17] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 13:50:18] AppID 107410 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-23 13:50:18] AppID 107410 update changed : Running Update,Stopping,
+[2024-06-23 13:50:18] AppID 107410 update changed : None
+[2024-06-23 13:50:18] AppID 107410 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-23 13:52:00] Client version: 1718904263
+[2024-06-23 13:52:00] Loaded Steam library folders configuration: D:\Steamcmd\steamapps\libraryfolders.vdf
+[2024-06-23 13:52:01] Loaded 0 apps from install folder "D:\Steamcmd\steamapps\appmanifest_*.acf".
+[2024-06-23 13:52:01] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 13:52:03] AppID 107410 scheduler update : Priority First, not played for 1719139923 seconds, update disabled for 0 seconds
+[2024-06-23 13:52:03] AppID 107410 update changed : Running Update,
+[2024-06-23 13:52:03] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 13:52:03] AppID 107410 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-23 13:52:03] AppID 107410 update changed : Running Update,Stopping,
+[2024-06-23 13:52:03] AppID 107410 update changed : None
+[2024-06-23 13:52:03] AppID 107410 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-23 13:53:30] Client version: 1718904263
+[2024-06-23 13:53:30] Loaded Steam library folders configuration: D:\Steamcmd\steamapps\libraryfolders.vdf
+[2024-06-23 13:53:32] Loaded 0 apps from install folder "D:\Steamcmd\steamapps\appmanifest_*.acf".
+[2024-06-23 13:53:32] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 13:53:34] AppID 107410 scheduler update : Priority First, not played for 1719140014 seconds, update disabled for 0 seconds
+[2024-06-23 13:53:34] AppID 107410 update changed : Running Update,
+[2024-06-23 13:53:34] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 13:53:34] AppID 107410 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-23 13:53:34] AppID 107410 update changed : Running Update,Stopping,
+[2024-06-23 13:53:34] AppID 107410 update changed : None
+[2024-06-23 13:53:34] AppID 107410 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-23 13:55:01] Client version: 1718904263
+[2024-06-23 13:55:01] Loaded Steam library folders configuration: D:\Steamcmd\steamapps\libraryfolders.vdf
+[2024-06-23 13:56:01] Loaded 0 apps from install folder "D:\Steamcmd\steamapps\appmanifest_*.acf".
+[2024-06-23 13:56:01] Triggered async write of Steam library folders configuration (1 libraries).
+
+
+[2024-06-23 13:56:11] Client version: 1718904263
+[2024-06-23 13:56:11] Loaded Steam library folders configuration: D:\Steamcmd\steamapps\libraryfolders.vdf
+[2024-06-23 13:56:13] Loaded 0 apps from install folder "D:\Steamcmd\steamapps\appmanifest_*.acf".
+[2024-06-23 13:56:13] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 13:56:14] AppID 107410 scheduler update : Priority First, not played for 1719140174 seconds, update disabled for 0 seconds
+[2024-06-23 13:56:14] AppID 107410 update changed : Running Update,
+[2024-06-23 13:56:14] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 13:56:15] AppID 107410 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-23 13:56:15] AppID 107410 update changed : Running Update,Stopping,
+[2024-06-23 13:56:15] AppID 107410 update changed : None
+[2024-06-23 13:56:15] AppID 107410 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-23 13:58:01] Client version: 1718904263
+[2024-06-23 13:58:01] Loaded Steam library folders configuration: D:\Steamcmd\steamapps\libraryfolders.vdf
+[2024-06-23 13:58:01] Loaded 0 apps from install folder "D:\Steamcmd\steamapps\appmanifest_*.acf".
+[2024-06-23 13:58:01] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 13:58:05] AppID 107410 scheduler update : Priority First, not played for 241405 seconds, update disabled for 0 seconds
+[2024-06-23 13:58:05] AppID 107410 update changed : Running Update,
+[2024-06-23 13:58:05] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 13:58:06] Got 28 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-23 13:58:06] Moving to source priority class '6'
+[2024-06-23 13:58:06] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-23 13:58:06] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-23 13:58:06] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-23 13:58:07] HTTP/2 available
+[2024-06-23 13:58:07] Created ipv4-only http client
+[2024-06-23 13:58:08] HTTPS (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 13:58:08] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): cache1-iev-klnk.steamcontent.com/depot/107410/manifest/1881240143358661751/5/6882106994441454497 - received 200 (OK) HTTP response
+[2024-06-23 13:58:08] AppID 107410 update changed : Running Update,
+[2024-06-23 13:58:08] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-23 13:58:08] AppID 107410 preallocated 1 files (5 MB) 
+[2024-06-23 13:58:08] AppID 107410 update changed : Running Update,
+[2024-06-23 13:58:08] AppID 107410 update started : download 0/2529664, store 0/0, reuse 0/0, delta 0/0, stage 0/5377625 
+[2024-06-23 13:58:08] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-23 13:58:08] Downloading 11 chunks from depot 107410
+[2024-06-23 13:58:09] HTTPS (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 13:58:09] HTTPS (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 13:58:10] AppID 107410 update changed : Running Update,
+[2024-06-23 13:58:10] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 13:58:10] AppID 107410 starting commit from "D:\Steamcmd\steamapps\workshop/downloads/107410" to "D:\Steamcmd\steamapps\workshop/content/107410" : 9 updated, 0 moved, 0 deleted files
+[2024-06-23 13:58:10] AppID 107410 update changed : Running Update,
+[2024-06-23 13:58:10] AppID 107410 update changed : None
+[2024-06-23 13:58:10] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-23 13:58:10] HTTP/2 (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 13:58:10] HTTP/2 (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 13:58:10] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-23 14:04:25] Client version: 1718904263
+[2024-06-23 14:04:25] Loaded Steam library folders configuration: D:\Steamcmd\steamapps\libraryfolders.vdf
+[2024-06-23 14:04:26] Loaded 0 apps from install folder "D:\Steamcmd\steamapps\appmanifest_*.acf".
+[2024-06-23 14:04:26] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 14:04:29] AppID 107410 scheduler update : Priority First, not played for 241789 seconds, update disabled for 0 seconds
+[2024-06-23 14:04:29] AppID 107410 update changed : Running Update,
+[2024-06-23 14:04:29] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 14:04:29] AppID 107410 update changed : Running Update,
+[2024-06-23 14:04:29] AppID 107410 update changed : Running Update,Validating,
+[2024-06-23 14:04:29] Validating active workshop item 785032464 ...
+[2024-06-23 14:04:29] AppID 107410 update changed : Running Update,
+[2024-06-23 14:04:29] AppID 107410 has no changes, 1 active: 107410 (1881240143358661751), 1 target: 107410 (1881240143358661751),
+[2024-06-23 14:04:29] AppID 107410 update changed : Running Update,Staging,
+[2024-06-23 14:04:29] AppID 107410 update changed : Running Update,
+[2024-06-23 14:04:29] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 14:04:29] AppID 107410 starting commit from "D:\Steamcmd\steamapps\workshop/downloads/107410" to "D:\Steamcmd\steamapps\workshop/content/107410" : 0 updated, 0 moved, 0 deleted files
+[2024-06-23 14:04:29] AppID 107410 update changed : Running Update,
+[2024-06-23 14:04:29] AppID 107410 update changed : None
+[2024-06-23 14:04:29] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+
+
+[2024-06-23 14:09:32] Client version: 1718904263
+[2024-06-23 14:09:32] Loaded Steam library folders configuration: D:\Steamcmd\steamapps\libraryfolders.vdf
+[2024-06-23 14:09:34] Loaded 0 apps from install folder "D:\Steamcmd\steamapps\appmanifest_*.acf".
+[2024-06-23 14:09:34] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 14:09:35] AppID 107410 scheduler update : Priority First, not played for 1719140975 seconds, update disabled for 0 seconds
+[2024-06-23 14:09:35] AppID 107410 update changed : Running Update,
+[2024-06-23 14:09:35] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 14:09:36] AppID 107410 update changed : Running Update,
+[2024-06-23 14:09:36] AppID 107410 update changed : Running Update,Validating,
+[2024-06-23 14:09:36] Validating active workshop item 785032464 ...
+[2024-06-23 14:09:36] AppID 107410 update changed : Running Update,
+[2024-06-23 14:09:36] AppID 107410 has no changes, 1 active: 107410 (1881240143358661751), 1 target: 107410 (1881240143358661751),
+[2024-06-23 14:09:36] AppID 107410 update changed : Running Update,Staging,
+[2024-06-23 14:09:36] AppID 107410 update changed : Running Update,
+[2024-06-23 14:09:36] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 14:09:36] AppID 107410 starting commit from "D:\Steamcmd\steamapps\workshop/downloads/107410" to "D:\Steamcmd\steamapps\workshop/content/107410" : 0 updated, 0 moved, 0 deleted files
+[2024-06-23 14:09:36] AppID 107410 update changed : Running Update,
+[2024-06-23 14:09:36] AppID 107410 update changed : None
+[2024-06-23 14:09:36] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+
+
+[2024-06-23 14:10:28] Client version: 1718904263
+[2024-06-23 14:10:28] Loaded Steam library folders configuration: D:\Steamcmd\steamapps\libraryfolders.vdf
+[2024-06-23 14:10:30] Loaded 0 apps from install folder "D:\Steamcmd\steamapps\appmanifest_*.acf".
+[2024-06-23 14:10:30] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 14:10:31] AppID 107410 scheduler update : Priority First, not played for 1719141031 seconds, update disabled for 0 seconds
+[2024-06-23 14:10:31] AppID 107410 update changed : Running Update,
+[2024-06-23 14:10:31] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 14:10:32] Got 28 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-23 14:10:32] Moving to source priority class '6'
+[2024-06-23 14:10:32] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-23 14:10:32] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-23 14:10:32] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-23 14:10:32] HTTP (SteamCache,392) - cache1-iev-klnk.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-iev-klnk.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:32] HTTP (SteamCache,392) - cache1-iev-klnk.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-iev-klnk.steamcontent.com): Closing connection
+[2024-06-23 14:10:32] Created download interface of type 'SteamCache' (7) to host cache3-iev-giga.steamcontent.com (cache3-iev-giga.steamcontent.com)
+[2024-06-23 14:10:32] HTTP (SteamCache,393) - cache3-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache3-iev-giga.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:32] HTTP (SteamCache,393) - cache3-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache3-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 14:10:32] Created download interface of type 'SteamCache' (7) to host cache1-iev-datl.steamcontent.com (cache1-iev-datl.steamcontent.com)
+[2024-06-23 14:10:33] HTTP (SteamCache,55) - cache1-iev-datl.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-iev-datl.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:33] HTTP (SteamCache,55) - cache1-iev-datl.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-iev-datl.steamcontent.com): Closing connection
+[2024-06-23 14:10:33] Created download interface of type 'SteamCache' (7) to host cache2-iev-datl.steamcontent.com (cache2-iev-datl.steamcontent.com)
+[2024-06-23 14:10:33] HTTP (SteamCache,56) - cache2-iev-datl.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache2-iev-datl.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:33] HTTP (SteamCache,56) - cache2-iev-datl.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache2-iev-datl.steamcontent.com): Closing connection
+[2024-06-23 14:10:33] Created download interface of type 'SteamCache' (7) to host cache2-iev-giga.steamcontent.com (cache2-iev-giga.steamcontent.com)
+[2024-06-23 14:10:33] HTTP (SteamCache,182) - cache2-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache2-iev-giga.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:33] HTTP (SteamCache,182) - cache2-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache2-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 14:10:33] Moving to source priority class '5'
+[2024-06-23 14:10:33] Created download interface of type 'SteamCache' (7) to host cache1-ods-retn.steamcontent.com (cache1-ods-retn.steamcontent.com)
+[2024-06-23 14:10:33] HTTP (SteamCache,3) - cache1-ods-retn.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-ods-retn.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:33] HTTP (SteamCache,3) - cache1-ods-retn.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-ods-retn.steamcontent.com): Closing connection
+[2024-06-23 14:10:33] Moving to source priority class '5'
+[2024-06-23 14:10:33] Created download interface of type 'SteamCache' (7) to host cache2-ods-retn.steamcontent.com (cache2-ods-retn.steamcontent.com)
+[2024-06-23 14:10:34] HTTP (SteamCache,4) - cache2-ods-retn.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache2-ods-retn.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:34] HTTP (SteamCache,4) - cache2-ods-retn.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache2-ods-retn.steamcontent.com): Closing connection
+[2024-06-23 14:10:34] Moving to source priority class '3'
+[2024-06-23 14:10:34] Created download interface of type 'SteamCache' (7) to host cache13-fra2.steamcontent.com (cache13-fra2.steamcontent.com)
+[2024-06-23 14:10:34] HTTP (SteamCache,238) - cache13-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache13-fra2.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:34] HTTP (SteamCache,238) - cache13-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache13-fra2.steamcontent.com): Closing connection
+[2024-06-23 14:10:34] Moving to source priority class '3'
+[2024-06-23 14:10:34] Created download interface of type 'SteamCache' (7) to host cache4-fra1.steamcontent.com (cache4-fra1.steamcontent.com)
+[2024-06-23 14:10:34] HTTP (SteamCache,244) - cache4-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-fra1.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:34] HTTP (SteamCache,244) - cache4-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-fra1.steamcontent.com): Closing connection
+[2024-06-23 14:10:34] Moving to source priority class '3'
+[2024-06-23 14:10:34] Created download interface of type 'SteamCache' (7) to host cache16-fra2.steamcontent.com (cache16-fra2.steamcontent.com)
+[2024-06-23 14:10:34] HTTP (SteamCache,254) - cache16-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache16-fra2.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:34] HTTP (SteamCache,254) - cache16-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache16-fra2.steamcontent.com): Closing connection
+[2024-06-23 14:10:34] Moving to source priority class '3'
+[2024-06-23 14:10:34] Created download interface of type 'SteamCache' (7) to host cache1-fra1.steamcontent.com (cache1-fra1.steamcontent.com)
+[2024-06-23 14:10:35] HTTP (SteamCache,241) - cache1-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-fra1.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:35] HTTP (SteamCache,241) - cache1-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-fra1.steamcontent.com): Closing connection
+[2024-06-23 14:10:35] Moving to source priority class '3'
+[2024-06-23 14:10:35] Created download interface of type 'SteamCache' (7) to host cache2-fra2.steamcontent.com (cache2-fra2.steamcontent.com)
+[2024-06-23 14:10:35] HTTP (SteamCache,152) - cache2-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache2-fra2.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:35] HTTP (SteamCache,152) - cache2-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache2-fra2.steamcontent.com): Closing connection
+[2024-06-23 14:10:35] Moving to source priority class '3'
+[2024-06-23 14:10:35] Created download interface of type 'SteamCache' (7) to host cache7-fra1.steamcontent.com (cache7-fra1.steamcontent.com)
+[2024-06-23 14:10:35] HTTP (SteamCache,81) - cache7-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache7-fra1.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:35] HTTP (SteamCache,81) - cache7-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache7-fra1.steamcontent.com): Closing connection
+[2024-06-23 14:10:35] Moving to source priority class '3'
+[2024-06-23 14:10:35] Created download interface of type 'SteamCache' (7) to host cache3-fra1.steamcontent.com (cache3-fra1.steamcontent.com)
+[2024-06-23 14:10:36] HTTP (SteamCache,243) - cache3-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache3-fra1.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:36] HTTP (SteamCache,243) - cache3-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache3-fra1.steamcontent.com): Closing connection
+[2024-06-23 14:10:36] Moving to source priority class '3'
+[2024-06-23 14:10:36] Created download interface of type 'SteamCache' (7) to host cache8-fra1.steamcontent.com (cache8-fra1.steamcontent.com)
+[2024-06-23 14:10:36] HTTP (SteamCache,82) - cache8-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache8-fra1.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:36] HTTP (SteamCache,82) - cache8-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache8-fra1.steamcontent.com): Closing connection
+[2024-06-23 14:10:36] Moving to source priority class '3'
+[2024-06-23 14:10:36] Created download interface of type 'SteamCache' (7) to host cache8-fra2.steamcontent.com (cache8-fra2.steamcontent.com)
+[2024-06-23 14:10:36] HTTP (SteamCache,248) - cache8-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache8-fra2.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:36] HTTP (SteamCache,248) - cache8-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache8-fra2.steamcontent.com): Closing connection
+[2024-06-23 14:10:36] Moving to source priority class '3'
+[2024-06-23 14:10:36] Created download interface of type 'SteamCache' (7) to host cache9-fra1.steamcontent.com (cache9-fra1.steamcontent.com)
+[2024-06-23 14:10:36] HTTP (SteamCache,249) - cache9-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache9-fra1.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:36] HTTP (SteamCache,249) - cache9-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache9-fra1.steamcontent.com): Closing connection
+[2024-06-23 14:10:36] Moving to source priority class '3'
+[2024-06-23 14:10:36] Created download interface of type 'SteamCache' (7) to host cache10-fra1.steamcontent.com (cache10-fra1.steamcontent.com)
+[2024-06-23 14:10:37] HTTP (SteamCache,83) - cache10-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache10-fra1.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:37] HTTP (SteamCache,83) - cache10-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache10-fra1.steamcontent.com): Closing connection
+[2024-06-23 14:10:37] Moving to source priority class '3'
+[2024-06-23 14:10:37] Created download interface of type 'SteamCache' (7) to host cache3-fra2.steamcontent.com (cache3-fra2.steamcontent.com)
+[2024-06-23 14:10:37] HTTP (SteamCache,153) - cache3-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache3-fra2.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:37] HTTP (SteamCache,153) - cache3-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache3-fra2.steamcontent.com): Closing connection
+[2024-06-23 14:10:37] Moving to source priority class '3'
+[2024-06-23 14:10:37] Created download interface of type 'SteamCache' (7) to host cache9-fra2.steamcontent.com (cache9-fra2.steamcontent.com)
+[2024-06-23 14:10:37] HTTP (SteamCache,150) - cache9-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache9-fra2.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:37] HTTP (SteamCache,150) - cache9-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache9-fra2.steamcontent.com): Closing connection
+[2024-06-23 14:10:37] Moving to source priority class '3'
+[2024-06-23 14:10:37] Created download interface of type 'SteamCache' (7) to host cache14-fra2.steamcontent.com (cache14-fra2.steamcontent.com)
+[2024-06-23 14:10:38] HTTP (SteamCache,239) - cache14-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache14-fra2.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:38] HTTP (SteamCache,239) - cache14-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache14-fra2.steamcontent.com): Closing connection
+[2024-06-23 14:10:38] Moving to source priority class '3'
+[2024-06-23 14:10:38] Created download interface of type 'SteamCache' (7) to host cache4-fra2.steamcontent.com (cache4-fra2.steamcontent.com)
+[2024-06-23 14:10:38] HTTP (SteamCache,154) - cache4-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-fra2.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:38] HTTP (SteamCache,154) - cache4-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-fra2.steamcontent.com): Closing connection
+[2024-06-23 14:10:38] Moving to source priority class '3'
+[2024-06-23 14:10:38] Created download interface of type 'SteamCache' (7) to host cache13-fra1.steamcontent.com (cache13-fra1.steamcontent.com)
+[2024-06-23 14:10:38] HTTP (SteamCache,156) - cache13-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache13-fra1.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:38] HTTP (SteamCache,156) - cache13-fra1.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache13-fra1.steamcontent.com): Closing connection
+[2024-06-23 14:10:38] Moving to source priority class '3'
+[2024-06-23 14:10:38] Created download interface of type 'SteamCache' (7) to host cache5-fra2.steamcontent.com (cache5-fra2.steamcontent.com)
+[2024-06-23 14:10:39] HTTP (SteamCache,155) - cache5-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache5-fra2.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:39] HTTP (SteamCache,155) - cache5-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache5-fra2.steamcontent.com): Closing connection
+[2024-06-23 14:10:39] Moving to source priority class '3'
+[2024-06-23 14:10:39] Created download interface of type 'SteamCache' (7) to host cache10-fra2.steamcontent.com (cache10-fra2.steamcontent.com)
+[2024-06-23 14:10:39] HTTP (SteamCache,151) - cache10-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache10-fra2.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:39] HTTP (SteamCache,151) - cache10-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache10-fra2.steamcontent.com): Closing connection
+[2024-06-23 14:10:39] Moving to source priority class '3'
+[2024-06-23 14:10:39] Created download interface of type 'SteamCache' (7) to host cache6-fra2.steamcontent.com (cache6-fra2.steamcontent.com)
+[2024-06-23 14:10:39] HTTP (SteamCache,242) - cache6-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache6-fra2.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:39] HTTP (SteamCache,242) - cache6-fra2.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache6-fra2.steamcontent.com): Closing connection
+[2024-06-23 14:10:40] HTTP (SteamCache,394) - cache4-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-iev-giga.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:40] HTTP (SteamCache,394) - cache4-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 14:10:40] HTTP (SteamCache,74) - cache1-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-iev-giga.steamcontent.com): Failed to get manifest request Code for depot 107410 manifest 7048853541890251635 - Access Denied (15) - failing download
+[2024-06-23 14:10:40] HTTP (SteamCache,74) - cache1-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 14:10:40] AppID 107410 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-23 14:10:40] AppID 107410 update changed : Running Update,Stopping,
+[2024-06-23 14:10:40] AppID 107410 update changed : None
+[2024-06-23 14:10:40] AppID 107410 scheduler finished : removed from schedule (result Manifest unavailable, state 0x0) 
+
+
+[2024-06-23 14:16:56] Client version: 1718904263
+[2024-06-23 14:16:56] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-23 14:16:56] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-23 14:16:56] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 14:16:59] AppID 107410 scheduler update : Priority First, not played for 242539 seconds, update disabled for 0 seconds
+[2024-06-23 14:16:59] AppID 107410 update changed : Running Update,
+[2024-06-23 14:16:59] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 14:17:00] Got 28 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-23 14:17:00] Moving to source priority class '6'
+[2024-06-23 14:17:00] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-23 14:17:00] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-23 14:17:00] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-23 14:17:00] HTTP/2 available
+[2024-06-23 14:17:00] Created ipv4-only http client
+[2024-06-23 14:17:01] HTTPS (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 14:17:01] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): cache1-iev-klnk.steamcontent.com/depot/107410/manifest/7048853541890251635/5/5898418327073558473 - received 200 (OK) HTTP response
+[2024-06-23 14:17:01] AppID 107410 update changed : Running Update,
+[2024-06-23 14:17:01] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-23 14:17:01] AppID 107410 preallocated 0 files (0 MB) 
+[2024-06-23 14:17:01] AppID 107410 update changed : Running Update,
+[2024-06-23 14:17:01] AppID 107410 update started : download 0/3088, store 0/0, reuse 0/0, delta 0/0, stage 0/24796 
+[2024-06-23 14:17:01] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-23 14:17:01] Downloading 2 chunks from depot 107410
+[2024-06-23 14:17:02] HTTPS (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 14:17:02] AppID 107410 update changed : Running Update,
+[2024-06-23 14:17:02] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 14:17:02] AppID 107410 starting commit from "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\workshop/downloads/107410" to "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\workshop/content/107410" : 3 updated, 0 moved, 0 deleted files
+[2024-06-23 14:17:02] AppID 107410 update changed : Running Update,
+[2024-06-23 14:17:02] AppID 107410 update changed : None
+[2024-06-23 14:17:02] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-23 14:17:02] HTTP/2 (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 14:17:02] HTTP (SteamCache,394) - cache4-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 14:17:02] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-23 14:47:38] Client version: 1718904263
+[2024-06-23 14:47:38] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-23 14:47:38] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-23 14:47:38] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 14:47:41] Loaded 0 apps from install folder "c:\mods\steamapps\appmanifest_*.acf".
+[2024-06-23 14:47:41] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 14:47:41] AppID 107410 scheduler update : Priority First, not played for 244381 seconds, update disabled for 0 seconds
+[2024-06-23 14:47:42] AppID 107410 update changed : Running Update,
+[2024-06-23 14:47:42] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 14:47:42] AppID 107410 update changed : Running Update,
+[2024-06-23 14:47:42] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-23 14:47:42] AppID 107410 preallocated 0 files (0 MB) 
+[2024-06-23 14:47:42] AppID 107410 update changed : Running Update,
+[2024-06-23 14:47:42] AppID 107410 update started : download 0/3088, store 0/0, reuse 0/0, delta 0/0, stage 0/24796 
+[2024-06-23 14:47:42] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-23 14:47:42] Got 26 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-23 14:47:42] Moving to source priority class '6'
+[2024-06-23 14:47:42] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-23 14:47:42] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-23 14:47:42] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-23 14:47:42] Downloading 2 chunks from depot 107410
+[2024-06-23 14:47:42] HTTP/2 available
+[2024-06-23 14:47:42] Created ipv4-only http client
+[2024-06-23 14:47:43] HTTPS (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 14:47:43] AppID 107410 update changed : Running Update,
+[2024-06-23 14:47:43] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 14:47:43] AppID 107410 starting commit from "c:\mods\steamapps\workshop/downloads/107410" to "c:\mods\steamapps\workshop/content/107410" : 3 updated, 0 moved, 0 deleted files
+[2024-06-23 14:47:43] AppID 107410 update changed : Running Update,
+[2024-06-23 14:47:43] AppID 107410 update changed : None
+[2024-06-23 14:47:43] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-23 14:47:43] HTTP/2 (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 14:47:43] HTTP (SteamCache,394) - cache4-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 14:47:43] HTTP (SteamCache,392) - cache1-iev-klnk.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-23 14:49:05] Client version: 1718904263
+[2024-06-23 14:49:05] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-23 14:49:06] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-23 14:49:06] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 14:49:08] Loaded 0 apps from install folder "c:\mods\steamapps\appmanifest_*.acf".
+[2024-06-23 14:49:08] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 14:49:08] AppID 107410 scheduler update : Priority First, not played for 244468 seconds, update disabled for 0 seconds
+[2024-06-23 14:49:08] AppID 107410 update changed : Running Update,
+[2024-06-23 14:49:08] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 14:49:09] AppID 107410 update changed : Running Update,
+[2024-06-23 14:49:09] AppID 107410 update changed : Running Update,Validating,
+[2024-06-23 14:49:09] Validating active workshop item 3183602715 ...
+[2024-06-23 14:49:09] AppID 107410 update changed : Running Update,
+[2024-06-23 14:49:09] AppID 107410 has no changes, 1 active: 107410 (7048853541890251635), 1 target: 107410 (7048853541890251635),
+[2024-06-23 14:49:09] AppID 107410 update changed : Running Update,Staging,
+[2024-06-23 14:49:09] AppID 107410 update changed : Running Update,
+[2024-06-23 14:49:09] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 14:49:09] AppID 107410 starting commit from "c:\mods\steamapps\workshop/downloads/107410" to "c:\mods\steamapps\workshop/content/107410" : 0 updated, 0 moved, 0 deleted files
+[2024-06-23 14:49:09] AppID 107410 update changed : Running Update,
+[2024-06-23 14:49:09] AppID 107410 update changed : None
+[2024-06-23 14:49:09] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+
+
+[2024-06-23 14:49:20] Client version: 1718904263
+[2024-06-23 14:49:20] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-23 14:49:20] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-23 14:49:20] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 14:49:22] Loaded 0 apps from install folder "c:\mods\steamapps\appmanifest_*.acf".
+[2024-06-23 14:49:22] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 14:49:23] AppID 107410 scheduler update : Priority First, not played for 244483 seconds, update disabled for 0 seconds
+[2024-06-23 14:49:23] AppID 107410 update changed : Running Update,
+[2024-06-23 14:49:23] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 14:49:23] AppID 107410 update changed : Running Update,
+[2024-06-23 14:49:23] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-23 14:49:23] AppID 107410 preallocated 1 files (5 MB) 
+[2024-06-23 14:49:23] AppID 107410 update changed : Running Update,
+[2024-06-23 14:49:23] AppID 107410 update started : download 0/2529664, store 0/0, reuse 0/0, delta 0/0, stage 0/5377625 
+[2024-06-23 14:49:23] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-23 14:49:24] Got 24 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-23 14:49:24] Moving to source priority class '6'
+[2024-06-23 14:49:24] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-23 14:49:24] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-23 14:49:24] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-23 14:49:24] Downloading 11 chunks from depot 107410
+[2024-06-23 14:49:24] HTTP/2 available
+[2024-06-23 14:49:24] Created ipv4-only http client
+[2024-06-23 14:49:24] HTTPS (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 14:49:24] HTTPS (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 14:49:24] HTTPS (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 14:49:25] AppID 107410 update changed : Running Update,
+[2024-06-23 14:49:25] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 14:49:25] AppID 107410 starting commit from "c:\mods\steamapps\workshop/downloads/107410" to "c:\mods\steamapps\workshop/content/107410" : 9 updated, 0 moved, 0 deleted files
+[2024-06-23 14:49:25] AppID 107410 update changed : Running Update,
+[2024-06-23 14:49:25] AppID 107410 update changed : None
+[2024-06-23 14:49:25] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-23 14:49:25] HTTP/2 (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 14:49:25] HTTP/2 (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 14:49:25] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-23 20:01:50] Client version: 1718904263
+[2024-06-23 20:01:50] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-23 20:01:50] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-23 20:01:50] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:01:54] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-23 20:01:54] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:01:55] AppID 107410 scheduler update : Priority First, not played for 263235 seconds, update disabled for 0 seconds
+[2024-06-23 20:01:55] AppID 107410 update changed : Running Update,
+[2024-06-23 20:01:55] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 20:01:55] Got 28 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-23 20:01:55] Moving to source priority class '6'
+[2024-06-23 20:01:55] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-23 20:01:55] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-23 20:01:55] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-23 20:01:56] HTTP/2 available
+[2024-06-23 20:01:56] Created ipv4-only http client
+[2024-06-23 20:01:56] HTTPS (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:01:56] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): cache1-iev-klnk.steamcontent.com/depot/107410/manifest/2281077165043462460/5/14907535334931413577 - received 200 (OK) HTTP response
+[2024-06-23 20:01:56] AppID 107410 update changed : Running Update,
+[2024-06-23 20:01:56] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-23 20:01:56] AppID 107410 preallocated 0 files (0 MB) 
+[2024-06-23 20:01:56] AppID 107410 update changed : Running Update,
+[2024-06-23 20:01:56] AppID 107410 update started : download 0/2000, store 0/0, reuse 0/0, delta 0/0, stage 0/17171 
+[2024-06-23 20:01:56] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-23 20:01:56] Downloading 2 chunks from depot 107410
+[2024-06-23 20:01:57] HTTPS (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:01:57] AppID 107410 update changed : Running Update,
+[2024-06-23 20:01:57] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 20:01:57] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 3 updated, 0 moved, 0 deleted files
+[2024-06-23 20:01:57] AppID 107410 update changed : Running Update,
+[2024-06-23 20:01:57] AppID 107410 update changed : None
+[2024-06-23 20:01:57] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-23 20:01:58] HTTP/2 (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 20:01:58] HTTP (SteamCache,394) - cache4-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 20:01:58] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-23 20:01:59] Client version: 1718904263
+[2024-06-23 20:01:59] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-23 20:01:59] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-23 20:01:59] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:02:02] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-23 20:02:02] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:02:02] AppID 107410 scheduler update : Priority First, not played for 263242 seconds, update disabled for 0 seconds
+[2024-06-23 20:02:02] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:02] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 20:02:03] Got 29 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-23 20:02:03] Moving to source priority class '6'
+[2024-06-23 20:02:03] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-23 20:02:03] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-23 20:02:03] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-23 20:02:03] HTTP/2 available
+[2024-06-23 20:02:03] Created ipv4-only http client
+[2024-06-23 20:02:04] HTTPS (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:02:04] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): cache1-iev-klnk.steamcontent.com/depot/107410/manifest/7627221832241609901/5/9390662357832961776 - received 200 (OK) HTTP response
+[2024-06-23 20:02:04] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:04] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-23 20:02:04] AppID 107410 preallocated 0 files (0 MB) 
+[2024-06-23 20:02:04] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:04] AppID 107410 update started : download 0/48528, store 0/0, reuse 0/0, delta 0/0, stage 0/140637 
+[2024-06-23 20:02:04] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-23 20:02:04] Downloading 6 chunks from depot 107410
+[2024-06-23 20:02:05] HTTPS (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:02:05] HTTPS (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:02:05] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:05] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 20:02:05] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 10 updated, 0 moved, 0 deleted files
+[2024-06-23 20:02:05] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:05] AppID 107410 update changed : None
+[2024-06-23 20:02:05] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-23 20:02:05] HTTP/2 (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 20:02:05] HTTP/2 (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 20:02:05] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-23 20:02:07] Client version: 1718904263
+[2024-06-23 20:02:07] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-23 20:02:07] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-23 20:02:07] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:02:09] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-23 20:02:09] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:02:10] AppID 107410 scheduler update : Priority First, not played for 263250 seconds, update disabled for 0 seconds
+[2024-06-23 20:02:10] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:10] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 20:02:10] Got 28 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-23 20:02:10] Moving to source priority class '6'
+[2024-06-23 20:02:10] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-23 20:02:10] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-23 20:02:10] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-23 20:02:11] HTTP/2 available
+[2024-06-23 20:02:11] Created ipv4-only http client
+[2024-06-23 20:02:11] HTTPS (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:02:11] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): cache1-iev-klnk.steamcontent.com/depot/107410/manifest/141530921262123755/5/9819500775153928642 - received 200 (OK) HTTP response
+[2024-06-23 20:02:12] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:12] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-23 20:02:12] AppID 107410 preallocated 1 files (14 MB) 
+[2024-06-23 20:02:12] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:12] AppID 107410 update started : download 0/10502416, store 0/0, reuse 0/0, delta 0/0, stage 0/15120757 
+[2024-06-23 20:02:12] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-23 20:02:12] Downloading 20 chunks from depot 107410
+[2024-06-23 20:02:12] HTTPS (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:02:12] HTTPS (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:02:13] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:13] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 20:02:13] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 8 updated, 0 moved, 0 deleted files
+[2024-06-23 20:02:13] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:13] AppID 107410 update changed : None
+[2024-06-23 20:02:13] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-23 20:02:13] HTTP/2 (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 20:02:13] HTTP/2 (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 20:02:13] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-23 20:02:14] Client version: 1718904263
+[2024-06-23 20:02:14] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-23 20:02:15] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-23 20:02:15] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:02:17] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-23 20:02:17] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:02:17] AppID 107410 scheduler update : Priority First, not played for 263257 seconds, update disabled for 0 seconds
+[2024-06-23 20:02:17] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:17] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 20:02:18] Got 28 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-23 20:02:18] Moving to source priority class '6'
+[2024-06-23 20:02:18] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-23 20:02:18] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-23 20:02:18] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-23 20:02:18] HTTP/2 available
+[2024-06-23 20:02:18] Created ipv4-only http client
+[2024-06-23 20:02:19] HTTPS (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:02:19] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): cache1-iev-klnk.steamcontent.com/depot/107410/manifest/205180247943600480/5/13940739478657490476 - received 200 (OK) HTTP response
+[2024-06-23 20:02:19] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:19] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-23 20:02:19] AppID 107410 preallocated 1 files (5 MB) 
+[2024-06-23 20:02:19] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:19] AppID 107410 update started : download 0/4748800, store 0/0, reuse 0/0, delta 0/0, stage 0/5738104 
+[2024-06-23 20:02:19] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-23 20:02:19] Downloading 11 chunks from depot 107410
+[2024-06-23 20:02:20] HTTPS (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:02:20] HTTPS (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:02:21] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:21] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 20:02:21] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 8 updated, 0 moved, 0 deleted files
+[2024-06-23 20:02:21] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:21] AppID 107410 update changed : None
+[2024-06-23 20:02:21] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-23 20:02:21] HTTP/2 (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 20:02:21] HTTP/2 (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 20:02:21] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-23 20:02:22] Client version: 1718904263
+[2024-06-23 20:02:22] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-23 20:02:22] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-23 20:02:22] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:02:25] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-23 20:02:25] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:02:25] AppID 107410 scheduler update : Priority First, not played for 263265 seconds, update disabled for 0 seconds
+[2024-06-23 20:02:25] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:25] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 20:02:26] Got 28 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-23 20:02:26] Moving to source priority class '6'
+[2024-06-23 20:02:26] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-23 20:02:26] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-23 20:02:26] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-23 20:02:26] HTTP/2 available
+[2024-06-23 20:02:26] Created ipv4-only http client
+[2024-06-23 20:02:27] HTTPS (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:02:27] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): cache1-iev-klnk.steamcontent.com/depot/107410/manifest/4876427869264926152/5/8450840957104055886 - received 200 (OK) HTTP response
+[2024-06-23 20:02:27] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:27] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-23 20:02:27] AppID 107410 preallocated 1 files (0 MB) 
+[2024-06-23 20:02:27] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:27] AppID 107410 update started : download 0/71568, store 0/0, reuse 0/175, delta 0/0, stage 0/416942 
+[2024-06-23 20:02:27] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-23 20:02:27] Downloading 5 chunks from depot 107410
+[2024-06-23 20:02:28] HTTPS (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:02:28] HTTPS (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:02:28] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:28] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 20:02:28] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 9 updated, 0 moved, 0 deleted files
+[2024-06-23 20:02:28] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:28] AppID 107410 update changed : None
+[2024-06-23 20:02:28] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-23 20:02:28] HTTP/2 (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 20:02:28] HTTP/2 (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 20:02:28] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-23 20:02:30] Client version: 1718904263
+[2024-06-23 20:02:30] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-23 20:02:30] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-23 20:02:30] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:02:34] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-23 20:02:34] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:02:34] AppID 107410 scheduler update : Priority First, not played for 263274 seconds, update disabled for 0 seconds
+[2024-06-23 20:02:34] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:34] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 20:02:35] Got 28 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-23 20:02:35] Moving to source priority class '6'
+[2024-06-23 20:02:35] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-23 20:02:35] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-23 20:02:35] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-23 20:02:35] HTTP/2 available
+[2024-06-23 20:02:35] Created ipv4-only http client
+[2024-06-23 20:02:36] HTTPS (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:02:36] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): cache1-iev-klnk.steamcontent.com/depot/107410/manifest/5118226968334008831/5/11238249939208877360 - received 200 (OK) HTTP response
+[2024-06-23 20:02:36] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:36] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-23 20:02:36] AppID 107410 preallocated 12 files (651 MB) 
+[2024-06-23 20:02:36] AppID 107410 update changed : Running Update,
+[2024-06-23 20:02:36] AppID 107410 update started : download 0/610430880, store 0/0, reuse 0/0, delta 0/0, stage 0/683310915 
+[2024-06-23 20:02:36] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-23 20:02:36] Downloading 675 chunks from depot 107410
+[2024-06-23 20:02:36] HTTPS (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:02:36] HTTPS (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:02:48] Increasing target number of download connections to 4 (rate was 0.000, now 70.746)
+[2024-06-23 20:02:48] Created download interface of type 'SteamCache' (7) to host cache3-iev-giga.steamcontent.com (cache3-iev-giga.steamcontent.com)
+[2024-06-23 20:02:49] HTTPS (SteamCache,393) - cache3-iev-giga.steamcontent.com (91.223.19.32:443 / 91.223.19.32:443, host: cache3-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-23 20:03:38] AppID 107410 update changed : Running Update,
+[2024-06-23 20:03:38] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 20:03:38] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 29 updated, 0 moved, 0 deleted files
+[2024-06-23 20:03:38] AppID 107410 update changed : Running Update,
+[2024-06-23 20:03:38] AppID 107410 update changed : None
+[2024-06-23 20:03:38] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-23 20:03:38] HTTP/2 (SteamCache,393) - cache3-iev-giga.steamcontent.com (91.223.19.32:443 / 91.223.19.32:443, host: cache3-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 20:03:38] HTTP/2 (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 20:03:38] HTTP/2 (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-23 20:03:38] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-23 20:05:54] Client version: 1718904263
+[2024-06-23 20:05:54] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-23 20:05:55] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-23 20:05:55] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:05:58] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-23 20:05:58] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:05:58] AppID 107410 scheduler update : Priority First, not played for 263478 seconds, update disabled for 0 seconds
+[2024-06-23 20:05:58] AppID 107410 update changed : Running Update,
+[2024-06-23 20:05:58] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 20:05:59] AppID 107410 update changed : Running Update,
+[2024-06-23 20:05:59] AppID 107410 update changed : Running Update,Validating,
+[2024-06-23 20:05:59] Validating active workshop item 3228741150 ...
+[2024-06-23 20:05:59] AppID 107410 update changed : Running Update,
+[2024-06-23 20:05:59] AppID 107410 has no changes, 6 active: 107410 (5118226968334008831),107410 (7627221832241609901),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755), 6 target: 107410 (5118226968334008831),107410 (7627221832241609901),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755),
+[2024-06-23 20:05:59] AppID 107410 update changed : Running Update,Staging,
+[2024-06-23 20:05:59] AppID 107410 update changed : Running Update,
+[2024-06-23 20:05:59] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 20:05:59] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 0 updated, 0 moved, 0 deleted files
+[2024-06-23 20:05:59] AppID 107410 update changed : Running Update,
+[2024-06-23 20:05:59] AppID 107410 update changed : None
+[2024-06-23 20:05:59] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+
+
+[2024-06-23 20:06:00] Client version: 1718904263
+[2024-06-23 20:06:00] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-23 20:06:00] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-23 20:06:00] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:06:02] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-23 20:06:02] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:06:03] AppID 107410 scheduler update : Priority First, not played for 263483 seconds, update disabled for 0 seconds
+[2024-06-23 20:06:03] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:03] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 20:06:03] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:03] AppID 107410 update changed : Running Update,Validating,
+[2024-06-23 20:06:03] Validating active workshop item 3234562620 ...
+[2024-06-23 20:06:03] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:03] AppID 107410 has no changes, 6 active: 107410 (5118226968334008831),107410 (7627221832241609901),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755), 6 target: 107410 (5118226968334008831),107410 (7627221832241609901),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755),
+[2024-06-23 20:06:03] AppID 107410 update changed : Running Update,Staging,
+[2024-06-23 20:06:03] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:03] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 20:06:03] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 0 updated, 0 moved, 0 deleted files
+[2024-06-23 20:06:03] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:03] AppID 107410 update changed : None
+[2024-06-23 20:06:03] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+
+
+[2024-06-23 20:06:04] Client version: 1718904263
+[2024-06-23 20:06:04] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-23 20:06:04] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-23 20:06:04] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:06:07] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-23 20:06:07] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:06:07] AppID 107410 scheduler update : Priority First, not played for 263487 seconds, update disabled for 0 seconds
+[2024-06-23 20:06:07] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:07] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 20:06:08] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:08] AppID 107410 update changed : Running Update,Validating,
+[2024-06-23 20:06:08] Validating active workshop item 3223868432 ...
+[2024-06-23 20:06:08] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:08] AppID 107410 has no changes, 6 active: 107410 (5118226968334008831),107410 (7627221832241609901),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755), 6 target: 107410 (5118226968334008831),107410 (7627221832241609901),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755),
+[2024-06-23 20:06:08] AppID 107410 update changed : Running Update,Staging,
+[2024-06-23 20:06:08] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:08] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 20:06:08] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 0 updated, 0 moved, 0 deleted files
+[2024-06-23 20:06:08] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:08] AppID 107410 update changed : None
+[2024-06-23 20:06:08] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+
+
+[2024-06-23 20:06:09] Client version: 1718904263
+[2024-06-23 20:06:09] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-23 20:06:09] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-23 20:06:09] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:06:12] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-23 20:06:12] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:06:12] AppID 107410 scheduler update : Priority First, not played for 263492 seconds, update disabled for 0 seconds
+[2024-06-23 20:06:12] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:12] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 20:06:13] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:13] AppID 107410 update changed : Running Update,Validating,
+[2024-06-23 20:06:13] Validating active workshop item 3256534418 ...
+[2024-06-23 20:06:13] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:13] AppID 107410 has no changes, 6 active: 107410 (5118226968334008831),107410 (7627221832241609901),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755), 6 target: 107410 (5118226968334008831),107410 (7627221832241609901),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755),
+[2024-06-23 20:06:13] AppID 107410 update changed : Running Update,Staging,
+[2024-06-23 20:06:13] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:13] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 20:06:13] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 0 updated, 0 moved, 0 deleted files
+[2024-06-23 20:06:13] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:13] AppID 107410 update changed : None
+[2024-06-23 20:06:13] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+
+
+[2024-06-23 20:06:14] Client version: 1718904263
+[2024-06-23 20:06:14] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-23 20:06:14] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-23 20:06:14] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:06:16] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-23 20:06:16] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-23 20:06:17] AppID 107410 scheduler update : Priority First, not played for 263497 seconds, update disabled for 0 seconds
+[2024-06-23 20:06:17] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:17] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-23 20:06:17] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:17] AppID 107410 update changed : Running Update,Validating,
+[2024-06-23 20:06:17] Validating active workshop item 3225716141 ...
+[2024-06-23 20:06:17] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:17] AppID 107410 has no changes, 6 active: 107410 (5118226968334008831),107410 (7627221832241609901),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755), 6 target: 107410 (5118226968334008831),107410 (7627221832241609901),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755),
+[2024-06-23 20:06:17] AppID 107410 update changed : Running Update,Staging,
+[2024-06-23 20:06:17] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:17] AppID 107410 update changed : Running Update,Committing,
+[2024-06-23 20:06:17] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 0 updated, 0 moved, 0 deleted files
+[2024-06-23 20:06:17] AppID 107410 update changed : Running Update,
+[2024-06-23 20:06:17] AppID 107410 update changed : None
+[2024-06-23 20:06:17] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+
+
+[2024-06-24 19:44:02] Client version: 1718904263
+[2024-06-24 19:44:02] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 19:44:02] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 19:44:02] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 19:44:06] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-24 19:44:06] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 19:44:07] AppID 107410 scheduler update : Priority First, not played for 348567 seconds, update disabled for 0 seconds
+[2024-06-24 19:44:07] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:07] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-24 19:44:07] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:07] AppID 107410 update changed : Running Update,Validating,
+[2024-06-24 19:44:07] Validating active workshop item 3225716141 ...
+[2024-06-24 19:44:07] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:07] AppID 107410 has no changes, 6 active: 107410 (5118226968334008831),107410 (7627221832241609901),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755), 6 target: 107410 (5118226968334008831),107410 (7627221832241609901),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755),
+[2024-06-24 19:44:07] AppID 107410 update changed : Running Update,Staging,
+[2024-06-24 19:44:07] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:07] AppID 107410 update changed : Running Update,Committing,
+[2024-06-24 19:44:07] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 0 updated, 0 moved, 0 deleted files
+[2024-06-24 19:44:07] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:07] AppID 107410 update changed : None
+[2024-06-24 19:44:07] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+
+
+[2024-06-24 19:44:13] Client version: 1718904263
+[2024-06-24 19:44:13] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 19:44:14] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 19:44:14] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 19:44:15] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-24 19:44:15] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 19:44:16] AppID 107410 scheduler update : Priority First, not played for 348576 seconds, update disabled for 0 seconds
+[2024-06-24 19:44:16] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:16] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-24 19:44:17] Got 26 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-24 19:44:17] Moving to source priority class '6'
+[2024-06-24 19:44:17] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-24 19:44:17] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-24 19:44:17] Created download interface of type 'SteamCache' (7) to host cache3-iev-giga.steamcontent.com (cache3-iev-giga.steamcontent.com)
+[2024-06-24 19:44:17] HTTP/2 available
+[2024-06-24 19:44:17] Created ipv4-only http client
+[2024-06-24 19:44:18] HTTPS (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 19:44:18] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): cache1-iev-klnk.steamcontent.com/depot/107410/manifest/2927763894754323829/5/10783148425630377644 - received 200 (OK) HTTP response
+[2024-06-24 19:44:18] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:18] AppID 107410 update changed : Running Update,Validating,
+[2024-06-24 19:44:18] Validating active workshop item 3256534418 ...
+[2024-06-24 19:44:18] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:18] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-24 19:44:18] AppID 107410 preallocated 0 files (0 MB) 
+[2024-06-24 19:44:18] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:18] AppID 107410 update started : download 0/48848, store 0/0, reuse 0/0, delta 0/0, stage 0/109034 
+[2024-06-24 19:44:18] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-24 19:44:18] Downloading 4 chunks from depot 107410
+[2024-06-24 19:44:19] HTTPS (SteamCache,393) - cache3-iev-giga.steamcontent.com (91.223.19.32:443 / 91.223.19.32:443, host: cache3-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 19:44:19] HTTPS (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 19:44:19] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:19] AppID 107410 update changed : Running Update,Committing,
+[2024-06-24 19:44:19] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 4 updated, 0 moved, 2 deleted files
+[2024-06-24 19:44:19] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:19] AppID 107410 update changed : None
+[2024-06-24 19:44:19] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-24 19:44:19] HTTP/2 (SteamCache,393) - cache3-iev-giga.steamcontent.com (91.223.19.32:443 / 91.223.19.32:443, host: cache3-iev-giga.steamcontent.com): Closing connection
+[2024-06-24 19:44:19] HTTP/2 (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-24 19:44:19] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-24 19:44:20] Client version: 1718904263
+[2024-06-24 19:44:20] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 19:44:20] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 19:44:20] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 19:44:23] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-24 19:44:23] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 19:44:23] AppID 107410 scheduler update : Priority First, not played for 348583 seconds, update disabled for 0 seconds
+[2024-06-24 19:44:24] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:24] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-24 19:44:24] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:24] AppID 107410 update changed : Running Update,Validating,
+[2024-06-24 19:44:24] Validating active workshop item 3223868432 ...
+[2024-06-24 19:44:24] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:24] AppID 107410 has no changes, 6 active: 107410 (5118226968334008831),107410 (2927763894754323829),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755), 6 target: 107410 (5118226968334008831),107410 (2927763894754323829),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755),
+[2024-06-24 19:44:24] AppID 107410 update changed : Running Update,Staging,
+[2024-06-24 19:44:24] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:24] AppID 107410 update changed : Running Update,Committing,
+[2024-06-24 19:44:24] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 0 updated, 0 moved, 0 deleted files
+[2024-06-24 19:44:24] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:24] AppID 107410 update changed : None
+[2024-06-24 19:44:24] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+
+
+[2024-06-24 19:44:25] Client version: 1718904263
+[2024-06-24 19:44:25] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 19:44:25] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 19:44:25] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 19:44:28] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-24 19:44:28] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 19:44:28] AppID 107410 scheduler update : Priority First, not played for 348588 seconds, update disabled for 0 seconds
+[2024-06-24 19:44:28] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:28] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-24 19:44:28] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:28] AppID 107410 update changed : Running Update,Validating,
+[2024-06-24 19:44:28] Validating active workshop item 3234562620 ...
+[2024-06-24 19:44:28] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:28] AppID 107410 has no changes, 6 active: 107410 (5118226968334008831),107410 (2927763894754323829),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755), 6 target: 107410 (5118226968334008831),107410 (2927763894754323829),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755),
+[2024-06-24 19:44:28] AppID 107410 update changed : Running Update,Staging,
+[2024-06-24 19:44:28] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:28] AppID 107410 update changed : Running Update,Committing,
+[2024-06-24 19:44:28] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 0 updated, 0 moved, 0 deleted files
+[2024-06-24 19:44:28] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:28] AppID 107410 update changed : None
+[2024-06-24 19:44:28] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+
+
+[2024-06-24 19:44:30] Client version: 1718904263
+[2024-06-24 19:44:30] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 19:44:30] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 19:44:30] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 19:44:32] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-24 19:44:32] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 19:44:33] AppID 107410 scheduler update : Priority First, not played for 348593 seconds, update disabled for 0 seconds
+[2024-06-24 19:44:33] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:33] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-24 19:44:33] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:33] AppID 107410 update changed : Running Update,Validating,
+[2024-06-24 19:44:33] Validating active workshop item 3228741150 ...
+[2024-06-24 19:44:33] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:33] AppID 107410 has no changes, 6 active: 107410 (5118226968334008831),107410 (2927763894754323829),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755), 6 target: 107410 (5118226968334008831),107410 (2927763894754323829),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755),
+[2024-06-24 19:44:33] AppID 107410 update changed : Running Update,Staging,
+[2024-06-24 19:44:33] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:33] AppID 107410 update changed : Running Update,Committing,
+[2024-06-24 19:44:33] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 0 updated, 0 moved, 0 deleted files
+[2024-06-24 19:44:33] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:33] AppID 107410 update changed : None
+[2024-06-24 19:44:33] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+
+
+[2024-06-24 19:44:34] Client version: 1718904263
+[2024-06-24 19:44:34] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 19:44:35] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 19:44:35] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 19:44:37] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-24 19:44:37] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 19:44:37] AppID 107410 scheduler update : Priority First, not played for 348597 seconds, update disabled for 0 seconds
+[2024-06-24 19:44:37] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:37] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-24 19:44:38] Got 26 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-24 19:44:38] Moving to source priority class '6'
+[2024-06-24 19:44:38] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-24 19:44:38] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-24 19:44:38] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-24 19:44:38] HTTP/2 available
+[2024-06-24 19:44:38] Created ipv4-only http client
+[2024-06-24 19:44:39] HTTPS (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 19:44:39] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): cache1-iev-klnk.steamcontent.com/depot/107410/manifest/1111608721759237943/5/5606064113942417030 - received 200 (OK) HTTP response
+[2024-06-24 19:44:39] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:39] AppID 107410 update changed : Running Update,Validating,
+[2024-06-24 19:44:39] Validating active workshop item 3270727957 ...
+[2024-06-24 19:44:39] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:39] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-24 19:44:39] AppID 107410 preallocated 3 files (213 MB, 114 MB as sparse files) 
+[2024-06-24 19:44:39] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:39] AppID 107410 update started : download 0/6181472, store 0/0, reuse 0/216546067, delta 0/0, stage 0/223497020 
+[2024-06-24 19:44:39] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-24 19:44:39] Downloading 12 chunks from depot 107410
+[2024-06-24 19:44:40] HTTPS (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 19:44:40] HTTPS (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 19:44:40] AppID 107410 update changed : Running Update,Staging,
+[2024-06-24 19:44:41] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:41] AppID 107410 update changed : Running Update,Committing,
+[2024-06-24 19:44:41] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 7 updated, 0 moved, 0 deleted files
+[2024-06-24 19:44:41] AppID 107410 update changed : Running Update,
+[2024-06-24 19:44:41] AppID 107410 update changed : None
+[2024-06-24 19:44:41] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-24 19:44:41] HTTP/2 (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-24 19:44:41] HTTP/2 (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-24 19:44:41] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-24 19:46:19] Client version: 1718904263
+[2024-06-24 19:46:19] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 19:46:19] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 19:46:19] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 19:46:22] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-24 19:46:22] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 19:46:23] AppID 107410 scheduler update : Priority First, not played for 348703 seconds, update disabled for 0 seconds
+[2024-06-24 19:46:23] AppID 107410 update changed : Running Update,
+[2024-06-24 19:46:23] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-24 19:46:23] AppID 107410 update changed : Running Update,
+[2024-06-24 19:46:23] AppID 107410 update changed : Running Update,Validating,
+[2024-06-24 19:46:23] Validating active workshop item 3256534418 ...
+[2024-06-24 19:46:23] AppID 107410 update changed : Running Update,
+[2024-06-24 19:46:23] AppID 107410 has no changes, 6 active: 107410 (1111608721759237943),107410 (2927763894754323829),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755), 6 target: 107410 (1111608721759237943),107410 (2927763894754323829),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755),
+[2024-06-24 19:46:23] AppID 107410 update changed : Running Update,Staging,
+[2024-06-24 19:46:23] AppID 107410 update changed : Running Update,
+[2024-06-24 19:46:23] AppID 107410 update changed : Running Update,Committing,
+[2024-06-24 19:46:23] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 0 updated, 0 moved, 0 deleted files
+[2024-06-24 19:46:23] AppID 107410 update changed : Running Update,
+[2024-06-24 19:46:23] AppID 107410 update changed : None
+[2024-06-24 19:46:23] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+
+
+[2024-06-24 19:46:32] Loaded 0 apps from install folder "c:\users\motosh\simple\steamapps\appmanifest_*.acf".
+[2024-06-24 19:46:32] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 19:46:33] AppID 107410 scheduler update : Priority First, not played for 348713 seconds, update disabled for 0 seconds
+[2024-06-24 19:46:33] AppID 107410 update changed : Running Update,
+[2024-06-24 19:46:33] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-24 19:46:33] AppID 107410 update changed : Running Update,
+[2024-06-24 19:46:33] AppID 107410 update changed : Running Update,Validating,
+[2024-06-24 19:46:33] Validating active workshop item 3256534418 ...
+[2024-06-24 19:46:33] AppID 107410 update changed : Running Update,
+[2024-06-24 19:46:33] AppID 107410 has no changes, 6 active: 107410 (1111608721759237943),107410 (2927763894754323829),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755), 6 target: 107410 (1111608721759237943),107410 (2927763894754323829),107410 (205180247943600480),107410 (4876427869264926152),107410 (2281077165043462460),107410 (141530921262123755),
+[2024-06-24 19:46:33] AppID 107410 update changed : Running Update,Staging,
+[2024-06-24 19:46:33] AppID 107410 update changed : Running Update,
+[2024-06-24 19:46:33] AppID 107410 update changed : Running Update,Committing,
+[2024-06-24 19:46:33] AppID 107410 starting commit from "c:\users\motosh\simple\steamapps\workshop/downloads/107410" to "c:\users\motosh\simple\steamapps\workshop/content/107410" : 0 updated, 0 moved, 0 deleted files
+[2024-06-24 19:46:33] AppID 107410 update changed : Running Update,
+[2024-06-24 19:46:33] AppID 107410 update changed : None
+[2024-06-24 19:46:33] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+
+
+[2024-06-24 19:47:21] Client version: 1718904263
+[2024-06-24 19:47:21] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 19:47:21] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 19:47:21] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 19:47:25] Loaded 0 apps from install folder "c:\tesr\steamapps\appmanifest_*.acf".
+[2024-06-24 19:47:25] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 19:47:25] AppID 107410 scheduler update : Priority First, not played for 348765 seconds, update disabled for 0 seconds
+[2024-06-24 19:47:25] AppID 107410 update changed : Running Update,
+[2024-06-24 19:47:25] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-24 19:47:25] AppID 107410 update changed : Running Update,
+[2024-06-24 19:47:25] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-24 19:47:25] AppID 107410 preallocated 0 files (0 MB) 
+[2024-06-24 19:47:25] AppID 107410 update changed : Running Update,
+[2024-06-24 19:47:25] AppID 107410 update started : download 0/52880, store 0/0, reuse 0/0, delta 0/0, stage 0/153476 
+[2024-06-24 19:47:25] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-24 19:47:26] Got 27 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-24 19:47:26] Moving to source priority class '6'
+[2024-06-24 19:47:26] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-24 19:47:26] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-24 19:47:26] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-24 19:47:26] Downloading 6 chunks from depot 107410
+[2024-06-24 19:47:26] HTTP/2 available
+[2024-06-24 19:47:26] Created ipv4-only http client
+[2024-06-24 19:47:26] HTTPS (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 19:47:26] HTTPS (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 19:47:26] HTTPS (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 19:47:27] AppID 107410 update changed : Running Update,
+[2024-06-24 19:47:27] AppID 107410 update changed : Running Update,Committing,
+[2024-06-24 19:47:27] AppID 107410 starting commit from "c:\tesr\steamapps\workshop/downloads/107410" to "c:\tesr\steamapps\workshop/content/107410" : 10 updated, 0 moved, 0 deleted files
+[2024-06-24 19:47:27] AppID 107410 update changed : Running Update,
+[2024-06-24 19:47:27] AppID 107410 update changed : None
+[2024-06-24 19:47:27] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-24 19:47:27] HTTP/2 (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-24 19:47:27] HTTP/2 (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-24 19:47:27] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-24 20:05:18] Client version: 1718904263
+[2024-06-24 20:05:18] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 20:05:18] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 20:05:18] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 20:05:22] Loaded 0 apps from install folder "c:\tesr\steamapps\appmanifest_*.acf".
+[2024-06-24 20:05:22] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 20:05:22] AppID 107410 scheduler update : Priority First, not played for 349842 seconds, update disabled for 0 seconds
+[2024-06-24 20:05:22] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:22] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-24 20:05:22] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:22] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-24 20:05:22] AppID 107410 preallocated 0 files (0 MB) 
+[2024-06-24 20:05:22] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:22] AppID 107410 update started : download 0/2000, store 0/0, reuse 0/0, delta 0/0, stage 0/17171 
+[2024-06-24 20:05:22] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-24 20:05:23] Got 27 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-24 20:05:23] Moving to source priority class '6'
+[2024-06-24 20:05:23] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-24 20:05:23] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-24 20:05:23] Created download interface of type 'SteamCache' (7) to host cache3-iev-giga.steamcontent.com (cache3-iev-giga.steamcontent.com)
+[2024-06-24 20:05:23] Downloading 2 chunks from depot 107410
+[2024-06-24 20:05:23] HTTP/2 available
+[2024-06-24 20:05:23] Created ipv4-only http client
+[2024-06-24 20:05:23] HTTPS (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 20:05:24] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:24] AppID 107410 update changed : Running Update,Committing,
+[2024-06-24 20:05:24] AppID 107410 starting commit from "c:\tesr\steamapps\workshop/downloads/107410" to "c:\tesr\steamapps\workshop/content/107410" : 3 updated, 0 moved, 0 deleted files
+[2024-06-24 20:05:24] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:24] AppID 107410 update changed : None
+[2024-06-24 20:05:24] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-24 20:05:24] HTTP (SteamCache,393) - cache3-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache3-iev-giga.steamcontent.com): Closing connection
+[2024-06-24 20:05:24] HTTP (SteamCache,394) - cache4-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-24 20:05:24] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-24 20:05:30] Client version: 1718904263
+[2024-06-24 20:05:30] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 20:05:30] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 20:05:30] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 20:05:33] Loaded 0 apps from install folder "c:\tesr\steamapps\appmanifest_*.acf".
+[2024-06-24 20:05:33] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 20:05:33] AppID 107410 scheduler update : Priority First, not played for 349853 seconds, update disabled for 0 seconds
+[2024-06-24 20:05:33] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:33] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-24 20:05:34] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:34] AppID 107410 update changed : Running Update,Validating,
+[2024-06-24 20:05:34] Validating active workshop item 3256534418 ...
+[2024-06-24 20:05:34] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:34] AppID 107410 has no changes, 2 active: 107410 (2927763894754323829),107410 (2281077165043462460), 2 target: 107410 (2927763894754323829),107410 (2281077165043462460),
+[2024-06-24 20:05:34] AppID 107410 update changed : Running Update,Staging,
+[2024-06-24 20:05:34] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:34] AppID 107410 update changed : Running Update,Committing,
+[2024-06-24 20:05:34] AppID 107410 starting commit from "c:\tesr\steamapps\workshop/downloads/107410" to "c:\tesr\steamapps\workshop/content/107410" : 0 updated, 0 moved, 0 deleted files
+[2024-06-24 20:05:34] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:34] AppID 107410 update changed : None
+[2024-06-24 20:05:34] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+
+
+[2024-06-24 20:05:35] Client version: 1718904263
+[2024-06-24 20:05:35] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 20:05:35] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 20:05:35] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 20:05:38] Loaded 0 apps from install folder "c:\tesr\steamapps\appmanifest_*.acf".
+[2024-06-24 20:05:38] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 20:05:38] AppID 107410 scheduler update : Priority First, not played for 349858 seconds, update disabled for 0 seconds
+[2024-06-24 20:05:38] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:38] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-24 20:05:39] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:39] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-24 20:05:39] AppID 107410 preallocated 1 files (14 MB) 
+[2024-06-24 20:05:39] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:39] AppID 107410 update started : download 0/10502416, store 0/0, reuse 0/0, delta 0/0, stage 0/15120757 
+[2024-06-24 20:05:39] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-24 20:05:39] Got 28 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-24 20:05:39] Moving to source priority class '6'
+[2024-06-24 20:05:39] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-24 20:05:39] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-24 20:05:39] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-24 20:05:39] Downloading 20 chunks from depot 107410
+[2024-06-24 20:05:39] HTTP/2 available
+[2024-06-24 20:05:39] Created ipv4-only http client
+[2024-06-24 20:05:39] HTTPS (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 20:05:40] HTTPS (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 20:05:40] HTTPS (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 20:05:41] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:41] AppID 107410 update changed : Running Update,Committing,
+[2024-06-24 20:05:41] AppID 107410 starting commit from "c:\tesr\steamapps\workshop/downloads/107410" to "c:\tesr\steamapps\workshop/content/107410" : 8 updated, 0 moved, 0 deleted files
+[2024-06-24 20:05:41] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:41] AppID 107410 update changed : None
+[2024-06-24 20:05:41] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-24 20:05:41] HTTP/2 (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-24 20:05:41] HTTP/2 (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-24 20:05:41] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-24 20:05:42] Client version: 1718904263
+[2024-06-24 20:05:42] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 20:05:43] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 20:05:43] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 20:05:46] Loaded 0 apps from install folder "c:\tesr\steamapps\appmanifest_*.acf".
+[2024-06-24 20:05:46] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 20:05:46] AppID 107410 scheduler update : Priority First, not played for 349866 seconds, update disabled for 0 seconds
+[2024-06-24 20:05:46] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:46] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-24 20:05:46] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:46] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-24 20:05:46] AppID 107410 preallocated 1 files (5 MB) 
+[2024-06-24 20:05:46] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:46] AppID 107410 update started : download 0/4748800, store 0/0, reuse 0/0, delta 0/0, stage 0/5738104 
+[2024-06-24 20:05:46] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-24 20:05:47] Got 28 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-24 20:05:47] Moving to source priority class '6'
+[2024-06-24 20:05:47] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-24 20:05:47] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-24 20:05:47] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-24 20:05:47] Downloading 11 chunks from depot 107410
+[2024-06-24 20:05:47] HTTP/2 available
+[2024-06-24 20:05:47] Created ipv4-only http client
+[2024-06-24 20:05:47] HTTPS (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 20:05:47] HTTPS (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 20:05:47] HTTPS (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 20:05:48] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:48] AppID 107410 update changed : Running Update,Committing,
+[2024-06-24 20:05:48] AppID 107410 starting commit from "c:\tesr\steamapps\workshop/downloads/107410" to "c:\tesr\steamapps\workshop/content/107410" : 8 updated, 0 moved, 0 deleted files
+[2024-06-24 20:05:48] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:48] AppID 107410 update changed : None
+[2024-06-24 20:05:48] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-24 20:05:48] HTTP/2 (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-24 20:05:48] HTTP/2 (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-24 20:05:48] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-24 20:05:49] Client version: 1718904263
+[2024-06-24 20:05:49] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 20:05:49] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 20:05:49] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 20:05:52] Loaded 0 apps from install folder "c:\tesr\steamapps\appmanifest_*.acf".
+[2024-06-24 20:05:52] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 20:05:52] AppID 107410 scheduler update : Priority First, not played for 349872 seconds, update disabled for 0 seconds
+[2024-06-24 20:05:52] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:52] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-24 20:05:52] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:52] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-24 20:05:52] AppID 107410 preallocated 1 files (0 MB) 
+[2024-06-24 20:05:52] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:52] AppID 107410 update started : download 0/71568, store 0/0, reuse 0/175, delta 0/0, stage 0/416942 
+[2024-06-24 20:05:52] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-24 20:05:53] Got 28 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-24 20:05:53] Moving to source priority class '6'
+[2024-06-24 20:05:53] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-24 20:05:53] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-24 20:05:53] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-24 20:05:53] Downloading 5 chunks from depot 107410
+[2024-06-24 20:05:53] HTTP/2 available
+[2024-06-24 20:05:53] Created ipv4-only http client
+[2024-06-24 20:05:53] HTTPS (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 20:05:53] HTTPS (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 20:05:53] HTTPS (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 20:05:54] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:54] AppID 107410 update changed : Running Update,Committing,
+[2024-06-24 20:05:54] AppID 107410 starting commit from "c:\tesr\steamapps\workshop/downloads/107410" to "c:\tesr\steamapps\workshop/content/107410" : 9 updated, 0 moved, 0 deleted files
+[2024-06-24 20:05:54] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:54] AppID 107410 update changed : None
+[2024-06-24 20:05:54] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-24 20:05:54] HTTP/2 (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-24 20:05:54] HTTP/2 (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-24 20:05:54] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-24 20:05:55] Client version: 1718904263
+[2024-06-24 20:05:55] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 20:05:55] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 20:05:55] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 20:05:57] Loaded 0 apps from install folder "c:\tesr\steamapps\appmanifest_*.acf".
+[2024-06-24 20:05:57] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 20:05:58] AppID 107410 scheduler update : Priority First, not played for 349878 seconds, update disabled for 0 seconds
+[2024-06-24 20:05:58] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:58] AppID 107410 update changed : Running Update,Reconfiguring,
+[2024-06-24 20:05:58] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:58] AppID 107410 update changed : Running Update,Preallocating,
+[2024-06-24 20:05:58] AppID 107410 preallocated 12 files (651 MB) 
+[2024-06-24 20:05:58] AppID 107410 update changed : Running Update,
+[2024-06-24 20:05:58] AppID 107410 update started : download 0/610430688, store 0/0, reuse 0/0, delta 0/0, stage 0/683310915 
+[2024-06-24 20:05:58] AppID 107410 update changed : Running Update,Downloading,Staging,
+[2024-06-24 20:05:58] Got 28 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 193 / Launcher 3)
+[2024-06-24 20:05:58] Moving to source priority class '6'
+[2024-06-24 20:05:58] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-06-24 20:05:58] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-06-24 20:05:58] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-06-24 20:05:58] Downloading 675 chunks from depot 107410
+[2024-06-24 20:05:58] HTTP/2 available
+[2024-06-24 20:05:58] Created ipv4-only http client
+[2024-06-24 20:05:59] HTTPS (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 20:05:59] HTTPS (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 20:05:59] HTTPS (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 20:06:11] Increasing target number of download connections to 4 (rate was 0.000, now 78.213)
+[2024-06-24 20:06:11] Created download interface of type 'SteamCache' (7) to host cache3-iev-giga.steamcontent.com (cache3-iev-giga.steamcontent.com)
+[2024-06-24 20:06:12] HTTPS (SteamCache,393) - cache3-iev-giga.steamcontent.com (91.223.19.32:443 / 91.223.19.32:443, host: cache3-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-06-24 20:07:00] AppID 107410 update changed : Running Update,
+[2024-06-24 20:07:00] AppID 107410 update changed : Running Update,Committing,
+[2024-06-24 20:07:00] AppID 107410 starting commit from "c:\tesr\steamapps\workshop/downloads/107410" to "c:\tesr\steamapps\workshop/content/107410" : 29 updated, 0 moved, 0 deleted files
+[2024-06-24 20:07:00] AppID 107410 update changed : Running Update,
+[2024-06-24 20:07:00] AppID 107410 update changed : None
+[2024-06-24 20:07:00] AppID 107410 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-06-24 20:07:00] HTTP/2 (SteamCache,393) - cache3-iev-giga.steamcontent.com (91.223.19.32:443 / 91.223.19.32:443, host: cache3-iev-giga.steamcontent.com): Closing connection
+[2024-06-24 20:07:00] HTTP/2 (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-06-24 20:07:00] HTTP/2 (SteamCache,74) - cache1-iev-giga.steamcontent.com (91.223.19.23:443 / 91.223.19.23:443, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-06-24 20:07:00] HTTP/2 (SteamCache,392) - cache1-iev-klnk.steamcontent.com (195.12.59.169:443 / 195.12.59.169:443, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-06-24 22:22:42] Client version: 1718904263
+[2024-06-24 22:22:42] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 22:22:43] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 22:22:43] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:22:46] Loaded 0 apps from install folder "c:\programs\teardown\steamapps\appmanifest_*.acf".
+[2024-06-24 22:22:46] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:22:46] AppID 1167630 scheduler update : Priority First, not played for 1719256966 seconds, update disabled for 0 seconds
+[2024-06-24 22:22:46] AppID 1167630 update changed : Running Update,
+[2024-06-24 22:22:46] AppID 1167630 update changed : Running Update,Reconfiguring,
+[2024-06-24 22:22:47] AppID 1167630 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-24 22:22:47] AppID 1167630 update changed : Running Update,Stopping,
+[2024-06-24 22:22:47] AppID 1167630 update changed : None
+[2024-06-24 22:22:47] AppID 1167630 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-24 22:22:48] Client version: 1718904263
+[2024-06-24 22:22:48] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 22:22:48] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 22:22:48] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:22:51] Loaded 0 apps from install folder "c:\programs\teardown\steamapps\appmanifest_*.acf".
+[2024-06-24 22:22:51] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:22:51] AppID 1167630 scheduler update : Priority First, not played for 1719256971 seconds, update disabled for 0 seconds
+[2024-06-24 22:22:51] AppID 1167630 update changed : Running Update,
+[2024-06-24 22:22:51] AppID 1167630 update changed : Running Update,Reconfiguring,
+[2024-06-24 22:22:52] AppID 1167630 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-24 22:22:52] AppID 1167630 update changed : Running Update,Stopping,
+[2024-06-24 22:22:52] AppID 1167630 update changed : None
+[2024-06-24 22:22:52] AppID 1167630 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-24 22:22:53] Client version: 1718904263
+[2024-06-24 22:22:53] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 22:22:53] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 22:22:53] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:22:56] Loaded 0 apps from install folder "c:\programs\teardown\steamapps\appmanifest_*.acf".
+[2024-06-24 22:22:56] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:22:56] AppID 1167630 scheduler update : Priority First, not played for 1719256976 seconds, update disabled for 0 seconds
+[2024-06-24 22:22:57] AppID 1167630 update changed : Running Update,
+[2024-06-24 22:22:57] AppID 1167630 update changed : Running Update,Reconfiguring,
+[2024-06-24 22:22:57] AppID 1167630 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-24 22:22:57] AppID 1167630 update changed : Running Update,Stopping,
+[2024-06-24 22:22:57] AppID 1167630 update changed : None
+[2024-06-24 22:22:57] AppID 1167630 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-24 22:22:58] Client version: 1718904263
+[2024-06-24 22:22:58] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 22:22:59] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 22:22:59] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:01] Loaded 0 apps from install folder "c:\programs\teardown\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:01] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:01] AppID 1167630 scheduler update : Priority First, not played for 1719256981 seconds, update disabled for 0 seconds
+[2024-06-24 22:23:01] AppID 1167630 update changed : Running Update,
+[2024-06-24 22:23:01] AppID 1167630 update changed : Running Update,Reconfiguring,
+[2024-06-24 22:23:02] AppID 1167630 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-24 22:23:02] AppID 1167630 update changed : Running Update,Stopping,
+[2024-06-24 22:23:02] AppID 1167630 update changed : None
+[2024-06-24 22:23:02] AppID 1167630 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-24 22:23:03] Client version: 1718904263
+[2024-06-24 22:23:03] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 22:23:03] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:03] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:06] Loaded 0 apps from install folder "c:\programs\teardown\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:06] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:06] AppID 1167630 scheduler update : Priority First, not played for 1719256986 seconds, update disabled for 0 seconds
+[2024-06-24 22:23:06] AppID 1167630 update changed : Running Update,
+[2024-06-24 22:23:06] AppID 1167630 update changed : Running Update,Reconfiguring,
+[2024-06-24 22:23:07] AppID 1167630 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-24 22:23:07] AppID 1167630 update changed : Running Update,Stopping,
+[2024-06-24 22:23:07] AppID 1167630 update changed : None
+[2024-06-24 22:23:07] AppID 1167630 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-24 22:23:08] Client version: 1718904263
+[2024-06-24 22:23:08] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 22:23:09] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:09] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:11] Loaded 0 apps from install folder "c:\programs\teardown\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:11] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:11] AppID 1167630 scheduler update : Priority First, not played for 1719256991 seconds, update disabled for 0 seconds
+[2024-06-24 22:23:12] AppID 1167630 update changed : Running Update,
+[2024-06-24 22:23:12] AppID 1167630 update changed : Running Update,Reconfiguring,
+[2024-06-24 22:23:13] AppID 1167630 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-24 22:23:13] AppID 1167630 update changed : Running Update,Stopping,
+[2024-06-24 22:23:13] AppID 1167630 update changed : None
+[2024-06-24 22:23:13] AppID 1167630 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-24 22:23:14] Client version: 1718904263
+[2024-06-24 22:23:14] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 22:23:14] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:14] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:17] Loaded 0 apps from install folder "c:\programs\teardown\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:17] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:17] AppID 1167630 scheduler update : Priority First, not played for 1719256997 seconds, update disabled for 0 seconds
+[2024-06-24 22:23:17] AppID 1167630 update changed : Running Update,
+[2024-06-24 22:23:17] AppID 1167630 update changed : Running Update,Reconfiguring,
+[2024-06-24 22:23:18] AppID 1167630 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-24 22:23:18] AppID 1167630 update changed : Running Update,Stopping,
+[2024-06-24 22:23:18] AppID 1167630 update changed : None
+[2024-06-24 22:23:18] AppID 1167630 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-24 22:23:19] Client version: 1718904263
+[2024-06-24 22:23:19] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 22:23:19] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:19] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:22] Loaded 0 apps from install folder "c:\programs\teardown\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:22] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:22] AppID 1167630 scheduler update : Priority First, not played for 1719257002 seconds, update disabled for 0 seconds
+[2024-06-24 22:23:22] AppID 1167630 update changed : Running Update,
+[2024-06-24 22:23:22] AppID 1167630 update changed : Running Update,Reconfiguring,
+[2024-06-24 22:23:23] AppID 1167630 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-24 22:23:23] AppID 1167630 update changed : Running Update,Stopping,
+[2024-06-24 22:23:23] AppID 1167630 update changed : None
+[2024-06-24 22:23:23] AppID 1167630 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-24 22:23:24] Client version: 1718904263
+[2024-06-24 22:23:24] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 22:23:24] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:24] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:27] Loaded 0 apps from install folder "c:\programs\teardown\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:27] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:27] AppID 1167630 scheduler update : Priority First, not played for 1719257007 seconds, update disabled for 0 seconds
+[2024-06-24 22:23:27] AppID 1167630 update changed : Running Update,
+[2024-06-24 22:23:27] AppID 1167630 update changed : Running Update,Reconfiguring,
+[2024-06-24 22:23:28] AppID 1167630 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-24 22:23:28] AppID 1167630 update changed : Running Update,Stopping,
+[2024-06-24 22:23:28] AppID 1167630 update changed : None
+[2024-06-24 22:23:28] AppID 1167630 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-24 22:23:29] Client version: 1718904263
+[2024-06-24 22:23:29] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 22:23:29] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:29] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:32] Loaded 0 apps from install folder "c:\programs\teardown\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:32] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:32] AppID 1167630 scheduler update : Priority First, not played for 1719257012 seconds, update disabled for 0 seconds
+[2024-06-24 22:23:32] AppID 1167630 update changed : Running Update,
+[2024-06-24 22:23:32] AppID 1167630 update changed : Running Update,Reconfiguring,
+[2024-06-24 22:23:33] AppID 1167630 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-24 22:23:33] AppID 1167630 update changed : Running Update,Stopping,
+[2024-06-24 22:23:33] AppID 1167630 update changed : None
+[2024-06-24 22:23:33] AppID 1167630 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-24 22:23:34] Client version: 1718904263
+[2024-06-24 22:23:34] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 22:23:34] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:34] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:38] Loaded 0 apps from install folder "c:\programs\teardown\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:38] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:38] AppID 1167630 scheduler update : Priority First, not played for 1719257018 seconds, update disabled for 0 seconds
+[2024-06-24 22:23:38] AppID 1167630 update changed : Running Update,
+[2024-06-24 22:23:38] AppID 1167630 update changed : Running Update,Reconfiguring,
+[2024-06-24 22:23:39] AppID 1167630 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-24 22:23:39] AppID 1167630 update changed : Running Update,Stopping,
+[2024-06-24 22:23:39] AppID 1167630 update changed : None
+[2024-06-24 22:23:39] AppID 1167630 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-24 22:23:40] Client version: 1718904263
+[2024-06-24 22:23:40] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 22:23:40] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:40] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:42] Loaded 0 apps from install folder "c:\programs\teardown\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:42] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:43] AppID 1167630 scheduler update : Priority First, not played for 1719257023 seconds, update disabled for 0 seconds
+[2024-06-24 22:23:43] AppID 1167630 update changed : Running Update,
+[2024-06-24 22:23:43] AppID 1167630 update changed : Running Update,Reconfiguring,
+[2024-06-24 22:23:43] AppID 1167630 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-24 22:23:43] AppID 1167630 update changed : Running Update,Stopping,
+[2024-06-24 22:23:43] AppID 1167630 update changed : None
+[2024-06-24 22:23:43] AppID 1167630 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-24 22:23:45] Client version: 1718904263
+[2024-06-24 22:23:45] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 22:23:45] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:45] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:48] Loaded 0 apps from install folder "c:\programs\teardown\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:48] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:48] AppID 1167630 scheduler update : Priority First, not played for 1719257028 seconds, update disabled for 0 seconds
+[2024-06-24 22:23:48] AppID 1167630 update changed : Running Update,
+[2024-06-24 22:23:48] AppID 1167630 update changed : Running Update,Reconfiguring,
+[2024-06-24 22:23:49] AppID 1167630 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-24 22:23:49] AppID 1167630 update changed : Running Update,Stopping,
+[2024-06-24 22:23:49] AppID 1167630 update changed : None
+[2024-06-24 22:23:49] AppID 1167630 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-24 22:23:50] Client version: 1718904263
+[2024-06-24 22:23:50] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 22:23:50] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:50] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:52] Loaded 0 apps from install folder "c:\programs\teardown\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:52] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:52] AppID 1167630 scheduler update : Priority First, not played for 1719257032 seconds, update disabled for 0 seconds
+[2024-06-24 22:23:53] AppID 1167630 update changed : Running Update,
+[2024-06-24 22:23:53] AppID 1167630 update changed : Running Update,Reconfiguring,
+[2024-06-24 22:23:53] AppID 1167630 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-24 22:23:53] AppID 1167630 update changed : Running Update,Stopping,
+[2024-06-24 22:23:53] AppID 1167630 update changed : None
+[2024-06-24 22:23:53] AppID 1167630 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 
+
+
+[2024-06-24 22:23:54] Client version: 1718904263
+[2024-06-24 22:23:54] Loaded Steam library folders configuration: C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\libraryfolders.vdf
+[2024-06-24 22:23:55] Loaded 0 apps from install folder "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:55] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:57] Loaded 0 apps from install folder "c:\programs\teardown\steamapps\appmanifest_*.acf".
+[2024-06-24 22:23:57] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-06-24 22:23:57] AppID 1167630 scheduler update : Priority First, not played for 1719257037 seconds, update disabled for 0 seconds
+[2024-06-24 22:23:57] AppID 1167630 update changed : Running Update,
+[2024-06-24 22:23:57] AppID 1167630 update changed : Running Update,Reconfiguring,
+[2024-06-24 22:23:58] AppID 1167630 update changed : Running Update,Reconfiguring,Stopping,
+[2024-06-24 22:23:58] AppID 1167630 update changed : Running Update,Stopping,
+[2024-06-24 22:23:58] AppID 1167630 update changed : None
+[2024-06-24 22:23:58] AppID 1167630 scheduler finished : removed from schedule (result Missing decryption key, state 0x0) 

@@ -1,0 +1,1119 @@
+
+
+[2024-06-23 13:36:58] Startup - updater built Dec  2 2013 18:43:44
+[2024-06-23 13:36:58] Checking for update on startup
+[2024-06-23 13:36:58] Checking for available update...
+[2024-06-23 13:36:58] Download failed: http error 0
+[2024-06-23 13:36:59] Package file steamcmd_public_all.zip.ea67e6dc83b60ab8bfb54756920e9ea394f81a90 missing or incorrect size
+[2024-06-23 13:36:59] Package file steamcmd_bins_win32.zip.da48b588b32af607274665426c44741df00dfda6 missing or incorrect size
+[2024-06-23 13:36:59] Package file steamcmd_steamservice_win32.zip.bb93e944d5209c0236a7af27cacfb5a484f709b9 missing or incorrect size
+[2024-06-23 13:36:59] Package file steamcmd_steamerrorreporter_win32.zip.a1cd9cd4307cb980472f60355888ce1a94cfa510 missing or incorrect size
+[2024-06-23 13:36:59] Package file steamcmd_siteserverui_win32.zip.24eee3722a77383749ae67b678313695e9fef36b missing or incorrect size
+[2024-06-23 13:36:59] Package file steamcmd_win32.zip.1ead4187d9888fc491447c60cad5f68118f0592c missing or incorrect size
+[2024-06-23 13:36:59] Downloading update (0 of 65,458 KB)...
+[2024-06-23 13:36:59] Error: Download of package (steamcmd_win32) failed after 0 bytes (0).
+[2024-06-23 13:36:59] Error: Download of package (steamcmd_siteserverui_win32) failed after 0 bytes (0).
+[2024-06-23 13:36:59] Error: Download of package (steamcmd_steamerrorreporter_win32) failed after 0 bytes (0).
+[2024-06-23 13:36:59] Error: Download of package (steamcmd_steamservice_win32) failed after 0 bytes (0).
+[2024-06-23 13:36:59] Error: Download of package (steamcmd_bins_win32) failed after 0 bytes (0).
+[2024-06-23 13:36:59] Error: Download of package (steamcmd_public_all) failed after 0 bytes (0).
+[2024-06-23 13:36:59] Package file steamcmd_public_all.zip.ea67e6dc83b60ab8bfb54756920e9ea394f81a90 missing or incorrect size
+[2024-06-23 13:36:59] Package file steamcmd_bins_win32.zip.da48b588b32af607274665426c44741df00dfda6 missing or incorrect size
+[2024-06-23 13:36:59] Package file steamcmd_steamservice_win32.zip.bb93e944d5209c0236a7af27cacfb5a484f709b9 missing or incorrect size
+[2024-06-23 13:36:59] Package file steamcmd_steamerrorreporter_win32.zip.a1cd9cd4307cb980472f60355888ce1a94cfa510 missing or incorrect size
+[2024-06-23 13:36:59] Package file steamcmd_siteserverui_win32.zip.24eee3722a77383749ae67b678313695e9fef36b missing or incorrect size
+[2024-06-23 13:36:59] Package file steamcmd_win32.zip.1ead4187d9888fc491447c60cad5f68118f0592c missing or incorrect size
+[2024-06-23 13:36:59] Downloading update (1,349 of 65,458 KB)...
+[2024-06-23 13:36:59] Downloading update (4,161 of 65,458 KB)...
+[2024-06-23 13:37:00] Downloading update (6,337 of 65,458 KB)...
+[2024-06-23 13:37:00] Downloading update (8,777 of 65,458 KB)...
+[2024-06-23 13:37:00] Downloading update (10,986 of 65,458 KB)...
+[2024-06-23 13:37:01] Downloading update (16,019 of 65,458 KB)...
+[2024-06-23 13:37:01] Downloading update (19,684 of 65,458 KB)...
+[2024-06-23 13:37:02] Downloading update (22,144 of 65,458 KB)...
+[2024-06-23 13:37:02] Downloading update (22,855 of 65,458 KB)...
+[2024-06-23 13:37:02] Downloading update (23,921 of 65,458 KB)...
+[2024-06-23 13:37:04] Downloading update (30,808 of 65,458 KB)...
+[2024-06-23 13:37:04] Downloading update (32,834 of 65,458 KB)...
+[2024-06-23 13:37:04] Downloading update (34,931 of 65,458 KB)...
+[2024-06-23 13:37:05] Downloading update (37,130 of 65,458 KB)...
+[2024-06-23 13:37:05] Downloading update (37,739 of 65,458 KB)...
+[2024-06-23 13:37:05] Downloading update (39,697 of 65,458 KB)...
+[2024-06-23 13:37:05] Downloading update (41,173 of 65,458 KB)...
+[2024-06-23 13:37:06] Downloading update (42,165 of 65,458 KB)...
+[2024-06-23 13:37:06] Downloading update (43,203 of 65,458 KB)...
+[2024-06-23 13:37:06] Downloading update (44,171 of 65,458 KB)...
+[2024-06-23 13:37:06] Downloading update (45,500 of 65,458 KB)...
+[2024-06-23 13:37:07] Downloading update (47,776 of 65,458 KB)...
+[2024-06-23 13:37:07] Downloading update (50,227 of 65,458 KB)...
+[2024-06-23 13:37:07] Downloading update (52,677 of 65,458 KB)...
+[2024-06-23 13:37:07] Downloading update (55,539 of 65,458 KB)...
+[2024-06-23 13:37:08] Downloading update (57,892 of 65,458 KB)...
+[2024-06-23 13:37:08] Downloading update (60,576 of 65,458 KB)...
+[2024-06-23 13:37:08] Downloading update (63,575 of 65,458 KB)...
+[2024-06-23 13:37:14] Downloading update (65,458 of 65,458 KB)...
+[2024-06-23 13:37:14] Download Complete.
+[2024-06-23 13:37:14] uninstalled manifest found in D:\Steamcmd\package\steam_cmd_win32 (1).
+[2024-06-23 13:37:14] Found pending update
+[2024-06-23 13:37:14] Applying update...
+[2024-06-23 13:37:14] Extracting package...
+[2024-06-23 13:37:46] Installing update...
+[2024-06-23 13:37:47] Committing NTFS transaction (1 non-transactional backup files)
+[2024-06-23 13:37:47] Failed to clear up temporary update files used for rollback, continuing anyway
+[2024-06-23 13:37:47] Cleaning up...
+[2024-06-23 13:37:47] Update complete, launching...
+[2024-06-23 13:37:47] Shutdown
+
+
+[2024-06-23 13:49:27] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 13:49:27] Startup - Steam Client launched with: D:/Steamcmd/steamcmd.exe  +login anonymous +workshop_download_item 107410 785032464 +quit
+[2024-06-23 13:49:27] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-06-23 13:49:27] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 13:49:27] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 13:49:27] Checking for update on startup
+[2024-06-23 13:49:27] Проверка на наличие обновлений...
+[2024-06-23 13:49:27] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-06-23 13:49:27] Manifest download: send request
+[2024-06-23 13:49:27] Manifest download: waiting for download to finish
+[2024-06-23 13:49:28] Manifest download: finished
+[2024-06-23 13:49:28] Download skipped: /client/steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 13:49:28] Nothing to do
+[2024-06-23 13:49:28] Проверка установки...
+[2024-06-23 13:49:28] Performing checksum verification of executable files
+[2024-06-23 13:49:38] Verification complete
+[2024-06-23 13:49:50] Shutdown
+
+
+[2024-06-23 13:50:12] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 13:50:12] Startup - Steam Client launched with: D:/Steamcmd/steamcmd.exe  +login anonymous +workshop_download_item 107410 785032464 +quit
+[2024-06-23 13:50:13] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-06-23 13:50:13] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 13:50:13] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 13:50:13] Checking for update on startup
+[2024-06-23 13:50:13] Проверка на наличие обновлений...
+[2024-06-23 13:50:13] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-06-23 13:50:13] Manifest download: send request
+[2024-06-23 13:50:13] Manifest download: waiting for download to finish
+[2024-06-23 13:50:13] Manifest download: finished
+[2024-06-23 13:50:13] Download skipped: /client/steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 13:50:13] Nothing to do
+[2024-06-23 13:50:13] Проверка установки...
+[2024-06-23 13:50:13] Performing checksum verification of executable files
+[2024-06-23 13:50:13] Verification complete
+[2024-06-23 13:50:18] Shutdown
+
+
+[2024-06-23 13:51:59] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 13:51:59] Startup - Steam Client launched with: D:/Steamcmd/steamcmd.exe  +login anonymous +workshop_download_item 107410 785032464 +quit
+[2024-06-23 13:51:59] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-06-23 13:51:59] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 13:51:59] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 13:51:59] Checking for update on startup
+[2024-06-23 13:51:59] Проверка на наличие обновлений...
+[2024-06-23 13:51:59] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-06-23 13:51:59] Manifest download: send request
+[2024-06-23 13:51:59] Manifest download: waiting for download to finish
+[2024-06-23 13:51:59] Manifest download: finished
+[2024-06-23 13:51:59] Download skipped: /client/steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 13:51:59] Nothing to do
+[2024-06-23 13:51:59] Проверка установки...
+[2024-06-23 13:51:59] Performing checksum verification of executable files
+[2024-06-23 13:52:00] Verification complete
+[2024-06-23 13:52:10] Shutdown
+
+
+[2024-06-23 13:53:29] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 13:53:29] Startup - Steam Client launched with: D:/Steamcmd/steamcmd.exe  +login anonymous +workshop_download_item 107410 785032464 +quit
+[2024-06-23 13:53:29] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-06-23 13:53:29] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 13:53:29] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 13:53:29] Checking for update on startup
+[2024-06-23 13:53:29] Проверка на наличие обновлений...
+[2024-06-23 13:53:29] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-06-23 13:53:29] Manifest download: send request
+[2024-06-23 13:53:30] Manifest download: waiting for download to finish
+[2024-06-23 13:53:30] Manifest download: finished
+[2024-06-23 13:53:30] Download skipped: /client/steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 13:53:30] Nothing to do
+[2024-06-23 13:53:30] Проверка установки...
+[2024-06-23 13:53:30] Performing checksum verification of executable files
+[2024-06-23 13:53:30] Verification complete
+[2024-06-23 13:53:40] Shutdown
+
+
+[2024-06-23 13:55:00] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 13:55:00] Startup - Steam Client launched with: "D:\Steamcmd\steamcmd.exe" 
+[2024-06-23 13:55:00] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-06-23 13:55:00] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 13:55:00] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 13:55:00] Checking for update on startup
+[2024-06-23 13:55:00] Проверка на наличие обновлений...
+[2024-06-23 13:55:00] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-06-23 13:55:00] Manifest download: send request
+[2024-06-23 13:55:00] Manifest download: waiting for download to finish
+[2024-06-23 13:55:01] Manifest download: finished
+[2024-06-23 13:55:01] Download skipped: /client/steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 13:55:01] Nothing to do
+[2024-06-23 13:55:01] Проверка установки...
+[2024-06-23 13:55:01] Performing checksum verification of executable files
+[2024-06-23 13:55:01] Verification complete
+
+
+[2024-06-23 13:56:10] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 13:56:10] Startup - Steam Client launched with: D:/Steamcmd/steamcmd.exe  +login anonymous +workshop_download_item 107410 785032464 +quit
+[2024-06-23 13:56:10] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 13:56:10] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 13:56:10] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 13:56:10] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 13:56:10] Checking for update on startup
+[2024-06-23 13:56:10] Проверка на наличие обновлений...
+[2024-06-23 13:56:10] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 13:56:10] Manifest download: send request
+[2024-06-23 13:56:10] Manifest download: waiting for download to finish
+[2024-06-23 13:56:11] Manifest download: finished
+[2024-06-23 13:56:11] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 13:56:11] Nothing to do
+[2024-06-23 13:56:11] Проверка установки...
+[2024-06-23 13:56:11] Performing checksum verification of executable files
+[2024-06-23 13:56:11] Verification complete
+[2024-06-23 13:56:15] Shutdown
+
+
+[2024-06-23 13:58:00] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 13:58:00] Startup - Steam Client launched with: D:/Steamcmd/steamcmd.exe  +login tiralasg +workshop_download_item 107410 785032464 +quit
+[2024-06-23 13:58:00] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 13:58:00] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 13:58:00] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 13:58:00] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 13:58:00] Checking for update on startup
+[2024-06-23 13:58:00] Проверка на наличие обновлений...
+[2024-06-23 13:58:00] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 13:58:00] Manifest download: send request
+[2024-06-23 13:58:00] Manifest download: waiting for download to finish
+[2024-06-23 13:58:00] Manifest download: finished
+[2024-06-23 13:58:00] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 13:58:00] Nothing to do
+[2024-06-23 13:58:00] Проверка установки...
+[2024-06-23 13:58:00] Performing checksum verification of executable files
+[2024-06-23 13:58:01] Verification complete
+[2024-06-23 13:58:11] Shutdown
+
+
+[2024-06-23 14:09:21] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 14:09:21] Startup - Steam Client launched with: D:/Steamcmd/steamcmd.exe  +login anonymous +workshop_download_item 107410 785032464 +quit
+[2024-06-23 14:09:21] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 14:09:21] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 14:09:21] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 14:09:21] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 14:09:21] Checking for update on startup
+[2024-06-23 14:09:21] Проверка на наличие обновлений...
+[2024-06-23 14:09:21] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 14:09:21] Manifest download: send request
+[2024-06-23 14:09:22] Manifest download: waiting for download to finish
+[2024-06-23 14:09:22] Manifest download: finished
+[2024-06-23 14:09:22] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 14:09:22] Nothing to do
+[2024-06-23 14:09:22] Проверка установки...
+[2024-06-23 14:09:22] Performing checksum verification of executable files
+[2024-06-23 14:09:31] Verification complete
+[2024-06-23 14:09:44] Shutdown
+
+
+[2024-06-23 14:10:27] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 14:10:27] Startup - Steam Client launched with: D:/Steamcmd/steamcmd.exe  +login anonymous +workshop_download_item 107410 3183602715 +quit
+[2024-06-23 14:10:27] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 14:10:27] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 14:10:27] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 14:10:27] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 14:10:27] Checking for update on startup
+[2024-06-23 14:10:27] Проверка на наличие обновлений...
+[2024-06-23 14:10:27] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 14:10:27] Manifest download: send request
+[2024-06-23 14:10:28] Manifest download: waiting for download to finish
+[2024-06-23 14:10:28] Manifest download: finished
+[2024-06-23 14:10:28] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 14:10:28] Nothing to do
+[2024-06-23 14:10:28] Проверка установки...
+[2024-06-23 14:10:28] Performing checksum verification of executable files
+[2024-06-23 14:10:28] Verification complete
+[2024-06-23 14:10:40] Shutdown
+
+
+[2024-06-23 14:16:54] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 14:16:54] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+workshop_download_item 107410 3183602715" +quit
+[2024-06-23 14:16:54] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 14:16:54] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 14:16:54] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 14:16:54] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 14:16:54] Checking for update on startup
+[2024-06-23 14:16:54] Проверка на наличие обновлений...
+[2024-06-23 14:16:54] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 14:16:54] Manifest download: send request
+[2024-06-23 14:16:54] Manifest download: waiting for download to finish
+[2024-06-23 14:16:56] Manifest download: finished
+[2024-06-23 14:16:56] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 14:16:56] Nothing to do
+[2024-06-23 14:16:56] Проверка установки...
+[2024-06-23 14:16:56] Performing checksum verification of executable files
+[2024-06-23 14:16:56] Verification complete
+[2024-06-23 14:17:06] Shutdown
+
+
+[2024-06-23 14:47:36] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 14:47:36] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+force_install_dir C:/mods" "+workshop_download_item 107410 3183602715" +quit
+[2024-06-23 14:47:36] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 14:47:36] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 14:47:36] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 14:47:36] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 14:47:36] Checking for update on startup
+[2024-06-23 14:47:36] Проверка на наличие обновлений...
+[2024-06-23 14:47:36] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 14:47:36] Manifest download: send request
+[2024-06-23 14:47:36] Manifest download: waiting for download to finish
+[2024-06-23 14:47:38] Manifest download: finished
+[2024-06-23 14:47:38] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 14:47:38] Nothing to do
+[2024-06-23 14:47:38] Проверка установки...
+[2024-06-23 14:47:38] Performing checksum verification of executable files
+[2024-06-23 14:47:38] Verification complete
+[2024-06-23 14:47:43] Shutdown
+
+
+[2024-06-23 14:49:04] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 14:49:04] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+force_install_dir C:/mods" "+workshop_download_item 107410 3183602715" +quit
+[2024-06-23 14:49:05] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 14:49:05] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 14:49:05] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 14:49:05] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 14:49:05] Checking for update on startup
+[2024-06-23 14:49:05] Проверка на наличие обновлений...
+[2024-06-23 14:49:05] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 14:49:05] Manifest download: send request
+[2024-06-23 14:49:05] Manifest download: waiting for download to finish
+[2024-06-23 14:49:05] Manifest download: finished
+[2024-06-23 14:49:05] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 14:49:05] Nothing to do
+[2024-06-23 14:49:05] Проверка установки...
+[2024-06-23 14:49:05] Performing checksum verification of executable files
+[2024-06-23 14:49:05] Verification complete
+[2024-06-23 14:49:16] Shutdown
+
+
+[2024-06-23 14:49:19] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 14:49:19] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+force_install_dir C:/mods" "+workshop_download_item 107410 785032464" +quit
+[2024-06-23 14:49:19] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 14:49:19] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 14:49:19] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 14:49:19] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 14:49:19] Checking for update on startup
+[2024-06-23 14:49:19] Проверка на наличие обновлений...
+[2024-06-23 14:49:19] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 14:49:19] Manifest download: send request
+[2024-06-23 14:49:19] Manifest download: waiting for download to finish
+[2024-06-23 14:49:20] Manifest download: finished
+[2024-06-23 14:49:20] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 14:49:20] Nothing to do
+[2024-06-23 14:49:20] Проверка установки...
+[2024-06-23 14:49:20] Performing checksum verification of executable files
+[2024-06-23 14:49:20] Verification complete
+[2024-06-23 14:49:25] Shutdown
+
+
+[2024-06-23 20:01:48] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 20:01:48] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3225716141" +quit
+[2024-06-23 20:01:48] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 20:01:48] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:01:48] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:01:48] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 20:01:48] Checking for update on startup
+[2024-06-23 20:01:48] Проверка на наличие обновлений...
+[2024-06-23 20:01:48] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 20:01:48] Manifest download: send request
+[2024-06-23 20:01:49] Manifest download: waiting for download to finish
+[2024-06-23 20:01:49] Manifest download: finished
+[2024-06-23 20:01:49] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 20:01:49] Nothing to do
+[2024-06-23 20:01:49] Проверка установки...
+[2024-06-23 20:01:49] Performing checksum verification of executable files
+[2024-06-23 20:01:50] Verification complete
+[2024-06-23 20:01:58] Shutdown
+
+
+[2024-06-23 20:01:58] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 20:01:58] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3256534418" +quit
+[2024-06-23 20:01:58] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 20:01:58] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:01:58] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:01:58] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 20:01:58] Checking for update on startup
+[2024-06-23 20:01:58] Проверка на наличие обновлений...
+[2024-06-23 20:01:58] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 20:01:58] Manifest download: send request
+[2024-06-23 20:01:58] Manifest download: waiting for download to finish
+[2024-06-23 20:01:58] Manifest download: finished
+[2024-06-23 20:01:58] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 20:01:58] Nothing to do
+[2024-06-23 20:01:58] Проверка установки...
+[2024-06-23 20:01:58] Performing checksum verification of executable files
+[2024-06-23 20:01:59] Verification complete
+[2024-06-23 20:02:05] Shutdown
+
+
+[2024-06-23 20:02:06] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 20:02:06] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3223868432" +quit
+[2024-06-23 20:02:06] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 20:02:06] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:02:06] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:02:06] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 20:02:06] Checking for update on startup
+[2024-06-23 20:02:06] Проверка на наличие обновлений...
+[2024-06-23 20:02:06] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 20:02:06] Manifest download: send request
+[2024-06-23 20:02:06] Manifest download: waiting for download to finish
+[2024-06-23 20:02:06] Manifest download: finished
+[2024-06-23 20:02:06] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 20:02:06] Nothing to do
+[2024-06-23 20:02:06] Проверка установки...
+[2024-06-23 20:02:06] Performing checksum verification of executable files
+[2024-06-23 20:02:06] Verification complete
+[2024-06-23 20:02:13] Shutdown
+
+
+[2024-06-23 20:02:14] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 20:02:14] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3234562620" +quit
+[2024-06-23 20:02:14] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 20:02:14] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:02:14] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:02:14] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 20:02:14] Checking for update on startup
+[2024-06-23 20:02:14] Проверка на наличие обновлений...
+[2024-06-23 20:02:14] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 20:02:14] Manifest download: send request
+[2024-06-23 20:02:14] Manifest download: waiting for download to finish
+[2024-06-23 20:02:14] Manifest download: finished
+[2024-06-23 20:02:14] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 20:02:14] Nothing to do
+[2024-06-23 20:02:14] Проверка установки...
+[2024-06-23 20:02:14] Performing checksum verification of executable files
+[2024-06-23 20:02:14] Verification complete
+[2024-06-23 20:02:21] Shutdown
+
+
+[2024-06-23 20:02:21] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 20:02:21] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3228741150" +quit
+[2024-06-23 20:02:21] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 20:02:21] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:02:21] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:02:21] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 20:02:21] Checking for update on startup
+[2024-06-23 20:02:21] Проверка на наличие обновлений...
+[2024-06-23 20:02:21] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 20:02:21] Manifest download: send request
+[2024-06-23 20:02:21] Manifest download: waiting for download to finish
+[2024-06-23 20:02:22] Manifest download: finished
+[2024-06-23 20:02:22] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 20:02:22] Nothing to do
+[2024-06-23 20:02:22] Проверка установки...
+[2024-06-23 20:02:22] Performing checksum verification of executable files
+[2024-06-23 20:02:22] Verification complete
+[2024-06-23 20:02:28] Shutdown
+
+
+[2024-06-23 20:02:28] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 20:02:28] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3270727957" +quit
+[2024-06-23 20:02:28] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 20:02:28] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:02:28] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:02:28] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 20:02:28] Checking for update on startup
+[2024-06-23 20:02:28] Проверка на наличие обновлений...
+[2024-06-23 20:02:28] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 20:02:28] Manifest download: send request
+[2024-06-23 20:02:28] Manifest download: waiting for download to finish
+[2024-06-23 20:02:30] Manifest download: finished
+[2024-06-23 20:02:30] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 20:02:30] Nothing to do
+[2024-06-23 20:02:30] Проверка установки...
+[2024-06-23 20:02:30] Performing checksum verification of executable files
+[2024-06-23 20:02:30] Verification complete
+[2024-06-23 20:03:38] Shutdown
+
+
+[2024-06-23 20:05:53] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 20:05:53] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3228741150" +quit
+[2024-06-23 20:05:54] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 20:05:54] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:05:54] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:05:54] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 20:05:54] Checking for update on startup
+[2024-06-23 20:05:54] Проверка на наличие обновлений...
+[2024-06-23 20:05:54] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 20:05:54] Manifest download: send request
+[2024-06-23 20:05:54] Manifest download: waiting for download to finish
+[2024-06-23 20:05:54] Manifest download: finished
+[2024-06-23 20:05:54] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 20:05:54] Nothing to do
+[2024-06-23 20:05:54] Проверка установки...
+[2024-06-23 20:05:54] Performing checksum verification of executable files
+[2024-06-23 20:05:54] Verification complete
+[2024-06-23 20:05:59] Shutdown
+
+
+[2024-06-23 20:05:59] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 20:05:59] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3234562620" +quit
+[2024-06-23 20:05:59] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 20:05:59] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:05:59] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:05:59] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 20:05:59] Checking for update on startup
+[2024-06-23 20:05:59] Проверка на наличие обновлений...
+[2024-06-23 20:05:59] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 20:05:59] Manifest download: send request
+[2024-06-23 20:05:59] Manifest download: waiting for download to finish
+[2024-06-23 20:05:59] Manifest download: finished
+[2024-06-23 20:05:59] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 20:05:59] Nothing to do
+[2024-06-23 20:05:59] Проверка установки...
+[2024-06-23 20:05:59] Performing checksum verification of executable files
+[2024-06-23 20:06:00] Verification complete
+[2024-06-23 20:06:03] Shutdown
+
+
+[2024-06-23 20:06:03] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 20:06:03] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3223868432" +quit
+[2024-06-23 20:06:03] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 20:06:03] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:06:03] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:06:03] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 20:06:03] Checking for update on startup
+[2024-06-23 20:06:03] Проверка на наличие обновлений...
+[2024-06-23 20:06:03] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 20:06:03] Manifest download: send request
+[2024-06-23 20:06:04] Manifest download: waiting for download to finish
+[2024-06-23 20:06:04] Manifest download: finished
+[2024-06-23 20:06:04] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 20:06:04] Nothing to do
+[2024-06-23 20:06:04] Проверка установки...
+[2024-06-23 20:06:04] Performing checksum verification of executable files
+[2024-06-23 20:06:04] Verification complete
+[2024-06-23 20:06:08] Shutdown
+
+
+[2024-06-23 20:06:08] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 20:06:08] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3256534418" +quit
+[2024-06-23 20:06:08] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 20:06:08] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:06:08] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:06:08] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 20:06:08] Checking for update on startup
+[2024-06-23 20:06:08] Проверка на наличие обновлений...
+[2024-06-23 20:06:08] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 20:06:08] Manifest download: send request
+[2024-06-23 20:06:08] Manifest download: waiting for download to finish
+[2024-06-23 20:06:09] Manifest download: finished
+[2024-06-23 20:06:09] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 20:06:09] Nothing to do
+[2024-06-23 20:06:09] Проверка установки...
+[2024-06-23 20:06:09] Performing checksum verification of executable files
+[2024-06-23 20:06:09] Verification complete
+[2024-06-23 20:06:13] Shutdown
+
+
+[2024-06-23 20:06:13] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-23 20:06:13] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3225716141" +quit
+[2024-06-23 20:06:13] Using the following download hosts for Public, Realm steamglobal
+[2024-06-23 20:06:13] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:06:13] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-23 20:06:13] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-23 20:06:13] Checking for update on startup
+[2024-06-23 20:06:13] Проверка на наличие обновлений...
+[2024-06-23 20:06:13] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-23 20:06:13] Manifest download: send request
+[2024-06-23 20:06:13] Manifest download: waiting for download to finish
+[2024-06-23 20:06:14] Manifest download: finished
+[2024-06-23 20:06:14] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-23 20:06:14] Nothing to do
+[2024-06-23 20:06:14] Проверка установки...
+[2024-06-23 20:06:14] Performing checksum verification of executable files
+[2024-06-23 20:06:14] Verification complete
+[2024-06-23 20:06:17] Shutdown
+
+
+[2024-06-24 19:44:01] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 19:44:01] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3225716141" +quit
+[2024-06-24 19:44:01] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 19:44:01] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 19:44:01] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 19:44:01] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 19:44:01] Checking for update on startup
+[2024-06-24 19:44:01] Проверка на наличие обновлений...
+[2024-06-24 19:44:01] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 19:44:01] Manifest download: send request
+[2024-06-24 19:44:01] Manifest download: waiting for download to finish
+[2024-06-24 19:44:01] Manifest download: finished
+[2024-06-24 19:44:01] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 19:44:01] Nothing to do
+[2024-06-24 19:44:01] Проверка установки...
+[2024-06-24 19:44:01] Performing checksum verification of executable files
+[2024-06-24 19:44:02] Verification complete
+[2024-06-24 19:44:12] Shutdown
+
+
+[2024-06-24 19:44:12] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 19:44:12] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3256534418" +quit
+[2024-06-24 19:44:13] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 19:44:13] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 19:44:13] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 19:44:13] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 19:44:13] Checking for update on startup
+[2024-06-24 19:44:13] Проверка на наличие обновлений...
+[2024-06-24 19:44:13] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 19:44:13] Manifest download: send request
+[2024-06-24 19:44:13] Manifest download: waiting for download to finish
+[2024-06-24 19:44:13] Manifest download: finished
+[2024-06-24 19:44:13] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 19:44:13] Nothing to do
+[2024-06-24 19:44:13] Проверка установки...
+[2024-06-24 19:44:13] Performing checksum verification of executable files
+[2024-06-24 19:44:13] Verification complete
+[2024-06-24 19:44:19] Shutdown
+
+
+[2024-06-24 19:44:19] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 19:44:19] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3223868432" +quit
+[2024-06-24 19:44:19] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 19:44:19] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 19:44:19] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 19:44:19] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 19:44:19] Checking for update on startup
+[2024-06-24 19:44:19] Проверка на наличие обновлений...
+[2024-06-24 19:44:19] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 19:44:19] Manifest download: send request
+[2024-06-24 19:44:20] Manifest download: waiting for download to finish
+[2024-06-24 19:44:20] Manifest download: finished
+[2024-06-24 19:44:20] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 19:44:20] Nothing to do
+[2024-06-24 19:44:20] Проверка установки...
+[2024-06-24 19:44:20] Performing checksum verification of executable files
+[2024-06-24 19:44:20] Verification complete
+[2024-06-24 19:44:24] Shutdown
+
+
+[2024-06-24 19:44:24] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 19:44:24] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3234562620" +quit
+[2024-06-24 19:44:24] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 19:44:24] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 19:44:24] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 19:44:24] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 19:44:24] Checking for update on startup
+[2024-06-24 19:44:24] Проверка на наличие обновлений...
+[2024-06-24 19:44:24] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 19:44:24] Manifest download: send request
+[2024-06-24 19:44:25] Manifest download: waiting for download to finish
+[2024-06-24 19:44:25] Manifest download: finished
+[2024-06-24 19:44:25] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 19:44:25] Nothing to do
+[2024-06-24 19:44:25] Проверка установки...
+[2024-06-24 19:44:25] Performing checksum verification of executable files
+[2024-06-24 19:44:25] Verification complete
+[2024-06-24 19:44:29] Shutdown
+
+
+[2024-06-24 19:44:29] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 19:44:29] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3228741150" +quit
+[2024-06-24 19:44:29] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 19:44:29] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 19:44:29] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 19:44:29] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 19:44:29] Checking for update on startup
+[2024-06-24 19:44:29] Проверка на наличие обновлений...
+[2024-06-24 19:44:29] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 19:44:29] Manifest download: send request
+[2024-06-24 19:44:29] Manifest download: waiting for download to finish
+[2024-06-24 19:44:29] Manifest download: finished
+[2024-06-24 19:44:29] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 19:44:29] Nothing to do
+[2024-06-24 19:44:29] Проверка установки...
+[2024-06-24 19:44:29] Performing checksum verification of executable files
+[2024-06-24 19:44:30] Verification complete
+[2024-06-24 19:44:33] Shutdown
+
+
+[2024-06-24 19:44:34] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 19:44:34] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3270727957" +quit
+[2024-06-24 19:44:34] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 19:44:34] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 19:44:34] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 19:44:34] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 19:44:34] Checking for update on startup
+[2024-06-24 19:44:34] Проверка на наличие обновлений...
+[2024-06-24 19:44:34] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 19:44:34] Manifest download: send request
+[2024-06-24 19:44:34] Manifest download: waiting for download to finish
+[2024-06-24 19:44:34] Manifest download: finished
+[2024-06-24 19:44:34] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 19:44:34] Nothing to do
+[2024-06-24 19:44:34] Проверка установки...
+[2024-06-24 19:44:34] Performing checksum verification of executable files
+[2024-06-24 19:44:34] Verification complete
+[2024-06-24 19:44:42] Shutdown
+
+
+[2024-06-24 19:46:18] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 19:46:18] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Users/motosh/Simple Steam Workshop Downloader" "+workshop_download_item 107410 3256534418" +quit
+[2024-06-24 19:46:18] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 19:46:18] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 19:46:18] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 19:46:18] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 19:46:18] Checking for update on startup
+[2024-06-24 19:46:18] Проверка на наличие обновлений...
+[2024-06-24 19:46:18] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 19:46:18] Manifest download: send request
+[2024-06-24 19:46:18] Manifest download: waiting for download to finish
+[2024-06-24 19:46:19] Manifest download: finished
+[2024-06-24 19:46:19] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 19:46:19] Nothing to do
+[2024-06-24 19:46:19] Проверка установки...
+[2024-06-24 19:46:19] Performing checksum verification of executable files
+[2024-06-24 19:46:19] Verification complete
+[2024-06-24 19:46:30] Shutdown
+
+
+[2024-06-24 19:47:20] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 19:47:20] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+force_install_dir C:\tesr" "+workshop_download_item 107410 3256534418" +quit
+[2024-06-24 19:47:20] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 19:47:20] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 19:47:20] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 19:47:20] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 19:47:20] Checking for update on startup
+[2024-06-24 19:47:20] Проверка на наличие обновлений...
+[2024-06-24 19:47:20] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 19:47:20] Manifest download: send request
+[2024-06-24 19:47:21] Manifest download: waiting for download to finish
+[2024-06-24 19:47:21] Manifest download: finished
+[2024-06-24 19:47:21] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 19:47:21] Nothing to do
+[2024-06-24 19:47:21] Проверка установки...
+[2024-06-24 19:47:21] Performing checksum verification of executable files
+[2024-06-24 19:47:21] Verification complete
+[2024-06-24 19:47:31] Shutdown
+
+
+[2024-06-24 20:05:17] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 20:05:17] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+force_install_dir C:\tesr" "+workshop_download_item 107410 3225716141" +quit
+[2024-06-24 20:05:17] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 20:05:17] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 20:05:17] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 20:05:17] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 20:05:17] Checking for update on startup
+[2024-06-24 20:05:17] Проверка на наличие обновлений...
+[2024-06-24 20:05:17] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 20:05:17] Manifest download: send request
+[2024-06-24 20:05:18] Manifest download: waiting for download to finish
+[2024-06-24 20:05:18] Manifest download: finished
+[2024-06-24 20:05:18] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 20:05:18] Nothing to do
+[2024-06-24 20:05:18] Проверка установки...
+[2024-06-24 20:05:18] Performing checksum verification of executable files
+[2024-06-24 20:05:18] Verification complete
+[2024-06-24 20:05:28] Shutdown
+
+
+[2024-06-24 20:05:29] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 20:05:29] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+force_install_dir C:\tesr" "+workshop_download_item 107410 3256534418" +quit
+[2024-06-24 20:05:29] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 20:05:29] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 20:05:29] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 20:05:29] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 20:05:29] Checking for update on startup
+[2024-06-24 20:05:29] Проверка на наличие обновлений...
+[2024-06-24 20:05:29] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 20:05:29] Manifest download: send request
+[2024-06-24 20:05:29] Manifest download: waiting for download to finish
+[2024-06-24 20:05:29] Manifest download: finished
+[2024-06-24 20:05:29] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 20:05:29] Nothing to do
+[2024-06-24 20:05:29] Проверка установки...
+[2024-06-24 20:05:29] Performing checksum verification of executable files
+[2024-06-24 20:05:30] Verification complete
+[2024-06-24 20:05:34] Shutdown
+
+
+[2024-06-24 20:05:34] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 20:05:34] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+force_install_dir C:\tesr" "+workshop_download_item 107410 3223868432" +quit
+[2024-06-24 20:05:34] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 20:05:34] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 20:05:34] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 20:05:34] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 20:05:34] Checking for update on startup
+[2024-06-24 20:05:34] Проверка на наличие обновлений...
+[2024-06-24 20:05:34] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 20:05:34] Manifest download: send request
+[2024-06-24 20:05:34] Manifest download: waiting for download to finish
+[2024-06-24 20:05:35] Manifest download: finished
+[2024-06-24 20:05:35] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 20:05:35] Nothing to do
+[2024-06-24 20:05:35] Проверка установки...
+[2024-06-24 20:05:35] Performing checksum verification of executable files
+[2024-06-24 20:05:35] Verification complete
+[2024-06-24 20:05:41] Shutdown
+
+
+[2024-06-24 20:05:41] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 20:05:41] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+force_install_dir C:\tesr" "+workshop_download_item 107410 3234562620" +quit
+[2024-06-24 20:05:42] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 20:05:42] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 20:05:42] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 20:05:42] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 20:05:42] Checking for update on startup
+[2024-06-24 20:05:42] Проверка на наличие обновлений...
+[2024-06-24 20:05:42] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 20:05:42] Manifest download: send request
+[2024-06-24 20:05:42] Manifest download: waiting for download to finish
+[2024-06-24 20:05:42] Manifest download: finished
+[2024-06-24 20:05:42] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 20:05:42] Nothing to do
+[2024-06-24 20:05:42] Проверка установки...
+[2024-06-24 20:05:42] Performing checksum verification of executable files
+[2024-06-24 20:05:42] Verification complete
+[2024-06-24 20:05:48] Shutdown
+
+
+[2024-06-24 20:05:48] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 20:05:48] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+force_install_dir C:\tesr" "+workshop_download_item 107410 3228741150" +quit
+[2024-06-24 20:05:48] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 20:05:48] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 20:05:48] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 20:05:48] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 20:05:48] Checking for update on startup
+[2024-06-24 20:05:48] Проверка на наличие обновлений...
+[2024-06-24 20:05:48] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 20:05:48] Manifest download: send request
+[2024-06-24 20:05:49] Manifest download: waiting for download to finish
+[2024-06-24 20:05:49] Manifest download: finished
+[2024-06-24 20:05:49] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 20:05:49] Nothing to do
+[2024-06-24 20:05:49] Проверка установки...
+[2024-06-24 20:05:49] Performing checksum verification of executable files
+[2024-06-24 20:05:49] Verification complete
+[2024-06-24 20:05:54] Shutdown
+
+
+[2024-06-24 20:05:54] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 20:05:54] Startup - Steam Client launched with: "c:\Users\motosh\Simple Steam Workshop Downloader\steamcmd.exe" "+login tiralasg" "+force_install_dir C:\tesr" "+workshop_download_item 107410 3270727957" +quit
+[2024-06-24 20:05:54] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 20:05:54] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 20:05:54] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 20:05:54] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 20:05:54] Checking for update on startup
+[2024-06-24 20:05:54] Проверка на наличие обновлений...
+[2024-06-24 20:05:54] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 20:05:54] Manifest download: send request
+[2024-06-24 20:05:54] Manifest download: waiting for download to finish
+[2024-06-24 20:05:55] Manifest download: finished
+[2024-06-24 20:05:55] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 20:05:55] Nothing to do
+[2024-06-24 20:05:55] Проверка установки...
+[2024-06-24 20:05:55] Performing checksum verification of executable files
+[2024-06-24 20:05:55] Verification complete
+[2024-06-24 20:07:00] Shutdown
+
+
+[2024-06-24 22:22:41] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 22:22:41] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Programs/Teardown" "+workshop_download_item 1167630 3271398359" +quit
+[2024-06-24 22:22:41] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 22:22:41] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:22:41] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:22:41] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 22:22:41] Checking for update on startup
+[2024-06-24 22:22:41] Проверка на наличие обновлений...
+[2024-06-24 22:22:41] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 22:22:41] Manifest download: send request
+[2024-06-24 22:22:41] Manifest download: waiting for download to finish
+[2024-06-24 22:22:42] Manifest download: finished
+[2024-06-24 22:22:42] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 22:22:42] Nothing to do
+[2024-06-24 22:22:42] Проверка установки...
+[2024-06-24 22:22:42] Performing checksum verification of executable files
+[2024-06-24 22:22:42] Verification complete
+[2024-06-24 22:22:47] Shutdown
+
+
+[2024-06-24 22:22:47] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 22:22:47] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Programs/Teardown" "+workshop_download_item 1167630 3262683359" +quit
+[2024-06-24 22:22:47] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 22:22:47] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:22:47] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:22:47] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 22:22:47] Checking for update on startup
+[2024-06-24 22:22:47] Проверка на наличие обновлений...
+[2024-06-24 22:22:47] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 22:22:47] Manifest download: send request
+[2024-06-24 22:22:48] Manifest download: waiting for download to finish
+[2024-06-24 22:22:48] Manifest download: finished
+[2024-06-24 22:22:48] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 22:22:48] Nothing to do
+[2024-06-24 22:22:48] Проверка установки...
+[2024-06-24 22:22:48] Performing checksum verification of executable files
+[2024-06-24 22:22:48] Verification complete
+[2024-06-24 22:22:52] Shutdown
+
+
+[2024-06-24 22:22:52] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 22:22:52] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Programs/Teardown" "+workshop_download_item 1167630 3148138736" +quit
+[2024-06-24 22:22:53] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 22:22:53] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:22:53] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:22:53] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 22:22:53] Checking for update on startup
+[2024-06-24 22:22:53] Проверка на наличие обновлений...
+[2024-06-24 22:22:53] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 22:22:53] Manifest download: send request
+[2024-06-24 22:22:53] Manifest download: waiting for download to finish
+[2024-06-24 22:22:53] Manifest download: finished
+[2024-06-24 22:22:53] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 22:22:53] Nothing to do
+[2024-06-24 22:22:53] Проверка установки...
+[2024-06-24 22:22:53] Performing checksum verification of executable files
+[2024-06-24 22:22:53] Verification complete
+[2024-06-24 22:22:57] Shutdown
+
+
+[2024-06-24 22:22:58] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 22:22:58] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Programs/Teardown" "+workshop_download_item 1167630 2400346027" +quit
+[2024-06-24 22:22:58] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 22:22:58] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:22:58] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:22:58] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 22:22:58] Checking for update on startup
+[2024-06-24 22:22:58] Проверка на наличие обновлений...
+[2024-06-24 22:22:58] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 22:22:58] Manifest download: send request
+[2024-06-24 22:22:58] Manifest download: waiting for download to finish
+[2024-06-24 22:22:58] Manifest download: finished
+[2024-06-24 22:22:58] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 22:22:58] Nothing to do
+[2024-06-24 22:22:58] Проверка установки...
+[2024-06-24 22:22:58] Performing checksum verification of executable files
+[2024-06-24 22:22:58] Verification complete
+[2024-06-24 22:23:02] Shutdown
+
+
+[2024-06-24 22:23:02] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 22:23:02] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Programs/Teardown" "+workshop_download_item 1167630 3148143301" +quit
+[2024-06-24 22:23:02] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 22:23:02] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:02] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:02] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 22:23:02] Checking for update on startup
+[2024-06-24 22:23:02] Проверка на наличие обновлений...
+[2024-06-24 22:23:02] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 22:23:03] Manifest download: send request
+[2024-06-24 22:23:03] Manifest download: waiting for download to finish
+[2024-06-24 22:23:03] Manifest download: finished
+[2024-06-24 22:23:03] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 22:23:03] Nothing to do
+[2024-06-24 22:23:03] Проверка установки...
+[2024-06-24 22:23:03] Performing checksum verification of executable files
+[2024-06-24 22:23:03] Verification complete
+[2024-06-24 22:23:07] Shutdown
+
+
+[2024-06-24 22:23:07] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 22:23:07] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Programs/Teardown" "+workshop_download_item 1167630 2668505408" +quit
+[2024-06-24 22:23:08] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 22:23:08] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:08] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:08] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 22:23:08] Checking for update on startup
+[2024-06-24 22:23:08] Проверка на наличие обновлений...
+[2024-06-24 22:23:08] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 22:23:08] Manifest download: send request
+[2024-06-24 22:23:08] Manifest download: waiting for download to finish
+[2024-06-24 22:23:08] Manifest download: finished
+[2024-06-24 22:23:08] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 22:23:08] Nothing to do
+[2024-06-24 22:23:08] Проверка установки...
+[2024-06-24 22:23:08] Performing checksum verification of executable files
+[2024-06-24 22:23:08] Verification complete
+[2024-06-24 22:23:13] Shutdown
+
+
+[2024-06-24 22:23:13] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 22:23:13] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Programs/Teardown" "+workshop_download_item 1167630 3259863888" +quit
+[2024-06-24 22:23:13] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 22:23:13] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:13] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:13] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 22:23:13] Checking for update on startup
+[2024-06-24 22:23:13] Проверка на наличие обновлений...
+[2024-06-24 22:23:13] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 22:23:13] Manifest download: send request
+[2024-06-24 22:23:13] Manifest download: waiting for download to finish
+[2024-06-24 22:23:14] Manifest download: finished
+[2024-06-24 22:23:14] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 22:23:14] Nothing to do
+[2024-06-24 22:23:14] Проверка установки...
+[2024-06-24 22:23:14] Performing checksum verification of executable files
+[2024-06-24 22:23:14] Verification complete
+[2024-06-24 22:23:18] Shutdown
+
+
+[2024-06-24 22:23:18] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 22:23:18] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Programs/Teardown" "+workshop_download_item 1167630 3260487803" +quit
+[2024-06-24 22:23:18] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 22:23:18] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:18] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:18] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 22:23:18] Checking for update on startup
+[2024-06-24 22:23:18] Проверка на наличие обновлений...
+[2024-06-24 22:23:18] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 22:23:18] Manifest download: send request
+[2024-06-24 22:23:19] Manifest download: waiting for download to finish
+[2024-06-24 22:23:19] Manifest download: finished
+[2024-06-24 22:23:19] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 22:23:19] Nothing to do
+[2024-06-24 22:23:19] Проверка установки...
+[2024-06-24 22:23:19] Performing checksum verification of executable files
+[2024-06-24 22:23:19] Verification complete
+[2024-06-24 22:23:23] Shutdown
+
+
+[2024-06-24 22:23:23] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 22:23:23] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Programs/Teardown" "+workshop_download_item 1167630 3257037722" +quit
+[2024-06-24 22:23:23] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 22:23:23] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:23] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:23] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 22:23:23] Checking for update on startup
+[2024-06-24 22:23:23] Проверка на наличие обновлений...
+[2024-06-24 22:23:23] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 22:23:23] Manifest download: send request
+[2024-06-24 22:23:23] Manifest download: waiting for download to finish
+[2024-06-24 22:23:24] Manifest download: finished
+[2024-06-24 22:23:24] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 22:23:24] Nothing to do
+[2024-06-24 22:23:24] Проверка установки...
+[2024-06-24 22:23:24] Performing checksum verification of executable files
+[2024-06-24 22:23:24] Verification complete
+[2024-06-24 22:23:28] Shutdown
+
+
+[2024-06-24 22:23:28] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 22:23:28] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Programs/Teardown" "+workshop_download_item 1167630 3213630268" +quit
+[2024-06-24 22:23:28] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 22:23:28] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:28] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:28] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 22:23:28] Checking for update on startup
+[2024-06-24 22:23:28] Проверка на наличие обновлений...
+[2024-06-24 22:23:28] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 22:23:28] Manifest download: send request
+[2024-06-24 22:23:29] Manifest download: waiting for download to finish
+[2024-06-24 22:23:29] Manifest download: finished
+[2024-06-24 22:23:29] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 22:23:29] Nothing to do
+[2024-06-24 22:23:29] Проверка установки...
+[2024-06-24 22:23:29] Performing checksum verification of executable files
+[2024-06-24 22:23:29] Verification complete
+[2024-06-24 22:23:33] Shutdown
+
+
+[2024-06-24 22:23:33] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 22:23:33] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Programs/Teardown" "+workshop_download_item 1167630 3259724340" +quit
+[2024-06-24 22:23:33] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 22:23:33] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:33] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:33] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 22:23:33] Checking for update on startup
+[2024-06-24 22:23:33] Проверка на наличие обновлений...
+[2024-06-24 22:23:33] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 22:23:33] Manifest download: send request
+[2024-06-24 22:23:34] Manifest download: waiting for download to finish
+[2024-06-24 22:23:34] Manifest download: finished
+[2024-06-24 22:23:34] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 22:23:34] Nothing to do
+[2024-06-24 22:23:34] Проверка установки...
+[2024-06-24 22:23:34] Performing checksum verification of executable files
+[2024-06-24 22:23:34] Verification complete
+[2024-06-24 22:23:39] Shutdown
+
+
+[2024-06-24 22:23:39] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 22:23:39] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Programs/Teardown" "+workshop_download_item 1167630 3209525959" +quit
+[2024-06-24 22:23:39] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 22:23:39] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:39] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:39] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 22:23:39] Checking for update on startup
+[2024-06-24 22:23:39] Проверка на наличие обновлений...
+[2024-06-24 22:23:39] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 22:23:39] Manifest download: send request
+[2024-06-24 22:23:39] Manifest download: waiting for download to finish
+[2024-06-24 22:23:40] Manifest download: finished
+[2024-06-24 22:23:40] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 22:23:40] Nothing to do
+[2024-06-24 22:23:40] Проверка установки...
+[2024-06-24 22:23:40] Performing checksum verification of executable files
+[2024-06-24 22:23:40] Verification complete
+[2024-06-24 22:23:44] Shutdown
+
+
+[2024-06-24 22:23:44] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 22:23:44] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Programs/Teardown" "+workshop_download_item 1167630 3231687934" +quit
+[2024-06-24 22:23:44] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 22:23:44] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:44] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:44] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 22:23:44] Checking for update on startup
+[2024-06-24 22:23:44] Проверка на наличие обновлений...
+[2024-06-24 22:23:44] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 22:23:44] Manifest download: send request
+[2024-06-24 22:23:44] Manifest download: waiting for download to finish
+[2024-06-24 22:23:44] Manifest download: finished
+[2024-06-24 22:23:44] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 22:23:44] Nothing to do
+[2024-06-24 22:23:44] Проверка установки...
+[2024-06-24 22:23:44] Performing checksum verification of executable files
+[2024-06-24 22:23:45] Verification complete
+[2024-06-24 22:23:49] Shutdown
+
+
+[2024-06-24 22:23:49] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 22:23:49] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Programs/Teardown" "+workshop_download_item 1167630 3268665659" +quit
+[2024-06-24 22:23:49] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 22:23:49] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:49] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:49] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 22:23:49] Checking for update on startup
+[2024-06-24 22:23:49] Проверка на наличие обновлений...
+[2024-06-24 22:23:49] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 22:23:49] Manifest download: send request
+[2024-06-24 22:23:49] Manifest download: waiting for download to finish
+[2024-06-24 22:23:50] Manifest download: finished
+[2024-06-24 22:23:50] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 22:23:50] Nothing to do
+[2024-06-24 22:23:50] Проверка установки...
+[2024-06-24 22:23:50] Performing checksum verification of executable files
+[2024-06-24 22:23:50] Verification complete
+[2024-06-24 22:23:53] Shutdown
+
+
+[2024-06-24 22:23:54] Startup - updater built Jun 20 2024 10:16:03
+[2024-06-24 22:23:54] Startup - Steam Client launched with: "C:/Users/motosh/Simple Steam Workshop Downloader/steamcmd.exe" "+login tiralasg" "+force_install_dir C:/Programs/Teardown" "+workshop_download_item 1167630 3236689857" +quit
+[2024-06-24 22:23:54] Using the following download hosts for Public, Realm steamglobal
+[2024-06-24 22:23:54] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:54] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2024-06-24 22:23:54] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-06-24 22:23:54] Checking for update on startup
+[2024-06-24 22:23:54] Проверка на наличие обновлений...
+[2024-06-24 22:23:54] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2024-06-24 22:23:54] Manifest download: send request
+[2024-06-24 22:23:54] Manifest download: waiting for download to finish
+[2024-06-24 22:23:54] Manifest download: finished
+[2024-06-24 22:23:54] Download skipped: /steam_cmd_win32 version 1718904263, installed version 1718904263, existing pending version 0
+[2024-06-24 22:23:54] Nothing to do
+[2024-06-24 22:23:54] Проверка установки...
+[2024-06-24 22:23:54] Performing checksum verification of executable files
+[2024-06-24 22:23:54] Verification complete
+[2024-06-24 22:23:59] Shutdown

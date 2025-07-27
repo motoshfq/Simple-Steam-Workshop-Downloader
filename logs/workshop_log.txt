@@ -1,0 +1,605 @@
+
+
+[2024-06-23 13:38:43] Client version: 1718904263
+[2024-06-23 13:38:43] Loading workshop items for 0 installed apps for user [a:1:1717723172]:
+[2024-06-23 13:38:50] [AppID 107410] Loaded workshop items in "D:\Steamcmd\steamapps\workshop" (0 installed, 0 needed)
+[2024-06-23 13:38:50] [AppID 107410] Download item 785032464 requested by app
+[2024-06-23 13:38:50] [AppID 107410] Starting Workshop download job (requested item 785032464 )
+[2024-06-23 13:38:51] [AppID 107410] Detected workshop change (latest from server) : changed cached item 785032464, new manifest 1881240143358661751
+[2024-06-23 13:38:51] [AppID 107410] Update canceled: Failed to initialize depot 107410, manifest 1881240143358661751 (Missing decryption key) (Missing decryption key)
+[2024-06-23 13:38:51] [AppID 107410] Download item 785032464 result : Failure
+[2024-06-23 13:38:52] [AppID 107410] Updating workshop item details failed with Access Denied
+[2024-06-23 13:38:52] Loading workshop items for 0 installed apps for user [a:1:1717723172]:
+
+
+[2024-06-23 13:39:42] Client version: 1718904263
+[2024-06-23 13:39:42] Loading workshop items for 0 installed apps for user [a:1:673866108]:
+[2024-06-23 13:39:44] [AppID 107410] Loaded workshop items in "D:\Steamcmd\steamapps\workshop" (0 installed, 1 needed)
+[2024-06-23 13:39:44] [AppID 107410] Download item 785032464 requested by app
+[2024-06-23 13:39:44] [AppID 107410] Starting Workshop download job (requested item 785032464 )
+[2024-06-23 13:39:45] [AppID 107410] Update canceled: Failed to initialize depot 107410, manifest 1881240143358661751 (Missing decryption key) (Missing decryption key)
+[2024-06-23 13:39:45] [AppID 107410] Download item 785032464 result : Failure
+
+
+[2024-06-23 13:49:40] Client version: 1718904263
+[2024-06-23 13:49:40] Loading workshop items for 0 installed apps for user [a:1:1421029796]:
+[2024-06-23 13:49:42] [AppID 107410] Loaded workshop items in "D:\Steamcmd\steamapps\workshop" (0 installed, 1 needed)
+[2024-06-23 13:49:42] [AppID 107410] Download item 785032464 requested by app
+[2024-06-23 13:49:42] [AppID 107410] Starting Workshop download job (requested item 785032464 )
+[2024-06-23 13:49:43] [AppID 107410] Update canceled: Failed to initialize depot 107410, manifest 1881240143358661751 (Missing decryption key) (Missing decryption key)
+[2024-06-23 13:49:43] [AppID 107410] Download item 785032464 result : Failure
+
+
+[2024-06-23 13:50:15] Client version: 1718904263
+[2024-06-23 13:50:15] Loading workshop items for 0 installed apps for user [a:1:893857856]:
+[2024-06-23 13:50:17] [AppID 107410] Loaded workshop items in "D:\Steamcmd\steamapps\workshop" (0 installed, 1 needed)
+[2024-06-23 13:50:17] [AppID 107410] Download item 785032464 requested by app
+[2024-06-23 13:50:17] [AppID 107410] Starting Workshop download job (requested item 785032464 )
+[2024-06-23 13:50:18] [AppID 107410] Update canceled: Failed to initialize depot 107410, manifest 1881240143358661751 (Missing decryption key) (Missing decryption key)
+[2024-06-23 13:50:18] [AppID 107410] Download item 785032464 result : Failure
+
+
+[2024-06-23 13:52:01] Client version: 1718904263
+[2024-06-23 13:52:01] Loading workshop items for 0 installed apps for user [a:1:3729581273]:
+[2024-06-23 13:52:03] [AppID 107410] Loaded workshop items in "D:\Steamcmd\steamapps\workshop" (0 installed, 1 needed)
+[2024-06-23 13:52:03] [AppID 107410] Download item 785032464 requested by app
+[2024-06-23 13:52:03] [AppID 107410] Starting Workshop download job (requested item 785032464 )
+[2024-06-23 13:52:03] [AppID 107410] Update canceled: Failed to initialize depot 107410, manifest 1881240143358661751 (Missing decryption key) (Missing decryption key)
+[2024-06-23 13:52:03] [AppID 107410] Download item 785032464 result : Failure
+
+
+[2024-06-23 13:53:32] Client version: 1718904263
+[2024-06-23 13:53:32] Loading workshop items for 0 installed apps for user [a:1:3576088865]:
+[2024-06-23 13:53:34] [AppID 107410] Loaded workshop items in "D:\Steamcmd\steamapps\workshop" (0 installed, 1 needed)
+[2024-06-23 13:53:34] [AppID 107410] Download item 785032464 requested by app
+[2024-06-23 13:53:34] [AppID 107410] Starting Workshop download job (requested item 785032464 )
+[2024-06-23 13:53:34] [AppID 107410] Update canceled: Failed to initialize depot 107410, manifest 1881240143358661751 (Missing decryption key) (Missing decryption key)
+[2024-06-23 13:53:34] [AppID 107410] Download item 785032464 result : Failure
+
+
+[2024-06-23 13:56:01] Client version: 1718904263
+[2024-06-23 13:56:01] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+
+
+[2024-06-23 13:56:13] Client version: 1718904263
+[2024-06-23 13:56:13] Loading workshop items for 0 installed apps for user [a:1:1303407866]:
+[2024-06-23 13:56:14] [AppID 107410] Loaded workshop items in "D:\Steamcmd\steamapps\workshop" (0 installed, 1 needed)
+[2024-06-23 13:56:14] [AppID 107410] Download item 785032464 requested by app
+[2024-06-23 13:56:14] [AppID 107410] Starting Workshop download job (requested item 785032464 )
+[2024-06-23 13:56:15] [AppID 107410] Update canceled: Failed to initialize depot 107410, manifest 1881240143358661751 (Missing decryption key) (Missing decryption key)
+[2024-06-23 13:56:15] [AppID 107410] Download item 785032464 result : Failure
+
+
+[2024-06-23 13:58:01] Client version: 1718904263
+[2024-06-23 13:58:01] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 13:58:05] [AppID 107410] Loaded workshop items in "D:\Steamcmd\steamapps\workshop" (0 installed, 1 needed)
+[2024-06-23 13:58:05] [AppID 107410] Download item 785032464 requested by app
+[2024-06-23 13:58:05] [AppID 107410] Starting Workshop download job (requested item 785032464 )
+[2024-06-23 13:58:10] [AppID 107410] Download item 785032464 result : OK
+[2024-06-23 13:58:10] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-23 13:58:10] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-23 14:04:26] Client version: 1718904263
+[2024-06-23 14:04:26] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 14:04:29] [AppID 107410] Loaded workshop items in "D:\Steamcmd\steamapps\workshop" (1 installed, 1 needed)
+[2024-06-23 14:04:29] [AppID 107410] Download item 785032464 requested by app
+[2024-06-23 14:04:29] [AppID 107410] Starting Workshop download job (requested item 785032464 )
+[2024-06-23 14:04:29] [AppID 107410] Download item 785032464 result : OK
+[2024-06-23 14:04:29] [AppID 107410] Finished Workshop download job : No Error
+
+
+[2024-06-23 14:09:34] Client version: 1718904263
+[2024-06-23 14:09:34] Loading workshop items for 0 installed apps for user [a:1:3919153250]:
+[2024-06-23 14:09:35] [AppID 107410] Loaded workshop items in "D:\Steamcmd\steamapps\workshop" (1 installed, 1 needed)
+[2024-06-23 14:09:35] [AppID 107410] Download item 785032464 requested by app
+[2024-06-23 14:09:35] [AppID 107410] Starting Workshop download job (requested item 785032464 )
+[2024-06-23 14:09:36] [AppID 107410] Download item 785032464 result : OK
+[2024-06-23 14:09:36] [AppID 107410] Finished Workshop download job : No Error
+
+
+[2024-06-23 14:10:30] Client version: 1718904263
+[2024-06-23 14:10:30] Loading workshop items for 0 installed apps for user [a:1:1748905345]:
+[2024-06-23 14:10:31] [AppID 107410] Loaded workshop items in "D:\Steamcmd\steamapps\workshop" (1 installed, 1 needed)
+[2024-06-23 14:10:31] [AppID 107410] Download item 3183602715 requested by app
+[2024-06-23 14:10:31] [AppID 107410] Starting Workshop download job (requested item 3183602715 )
+[2024-06-23 14:10:31] [AppID 107410] Detected workshop change (latest from server) : changed cached item 3183602715, new manifest 7048853541890251635
+[2024-06-23 14:10:40] [AppID 107410] Update canceled: Failed to download manifest 7048853541890251635 (Access Denied) (Manifest unavailable)
+[2024-06-23 14:10:40] [AppID 107410] Cleared workshop info for needed item 3183602715, manifest 7048853541890251635
+[2024-06-23 14:10:40] [AppID 107410] Download item 3183602715 result : Failure
+
+
+[2024-06-23 14:16:56] Client version: 1718904263
+[2024-06-23 14:16:56] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 14:16:59] [AppID 107410] Loaded workshop items in "C:\Users\motosh\Simple Steam Workshop Downloader\steamapps\workshop" (1 installed, 2 needed)
+[2024-06-23 14:16:59] [AppID 107410] Download item 3183602715 requested by app
+[2024-06-23 14:16:59] [AppID 107410] Starting Workshop download job (requested item 3183602715 )
+[2024-06-23 14:17:00] [AppID 107410] Detected workshop change (latest from server) : changed cached item 3183602715, new manifest 7048853541890251635
+[2024-06-23 14:17:02] [AppID 107410] Download item 3183602715 result : OK
+[2024-06-23 14:17:02] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-23 14:17:02] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-23 14:47:38] Client version: 1718904263
+[2024-06-23 14:47:38] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 14:47:41] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 14:47:41] [AppID 107410] Loaded workshop items in "c:\mods\steamapps\workshop" (0 installed, 0 needed)
+[2024-06-23 14:47:41] [AppID 107410] Download item 3183602715 requested by app
+[2024-06-23 14:47:42] [AppID 107410] Starting Workshop download job (requested item 3183602715 )
+[2024-06-23 14:47:42] [AppID 107410] Detected workshop change (latest from server) : changed cached item 3183602715, new manifest 7048853541890251635
+[2024-06-23 14:47:43] [AppID 107410] Download item 3183602715 result : OK
+[2024-06-23 14:47:43] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-23 14:47:43] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-23 14:49:06] Client version: 1718904263
+[2024-06-23 14:49:06] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 14:49:08] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 14:49:08] [AppID 107410] Loaded workshop items in "c:\mods\steamapps\workshop" (1 installed, 1 needed)
+[2024-06-23 14:49:08] [AppID 107410] Download item 3183602715 requested by app
+[2024-06-23 14:49:08] [AppID 107410] Starting Workshop download job (requested item 3183602715 )
+[2024-06-23 14:49:09] [AppID 107410] Download item 3183602715 result : OK
+[2024-06-23 14:49:09] [AppID 107410] Finished Workshop download job : No Error
+
+
+[2024-06-23 14:49:20] Client version: 1718904263
+[2024-06-23 14:49:20] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 14:49:22] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 14:49:23] [AppID 107410] Loaded workshop items in "c:\mods\steamapps\workshop" (1 installed, 1 needed)
+[2024-06-23 14:49:23] [AppID 107410] Download item 785032464 requested by app
+[2024-06-23 14:49:23] [AppID 107410] Starting Workshop download job (requested item 785032464 )
+[2024-06-23 14:49:23] [AppID 107410] Detected workshop change (latest from server) : changed cached item 785032464, new manifest 1881240143358661751
+[2024-06-23 14:49:25] [AppID 107410] Download item 785032464 result : OK
+[2024-06-23 14:49:25] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-23 14:49:25] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-23 20:01:50] Client version: 1718904263
+[2024-06-23 20:01:50] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:01:54] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:01:55] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (0 installed, 0 needed)
+[2024-06-23 20:01:55] [AppID 107410] Download item 3225716141 requested by app
+[2024-06-23 20:01:55] [AppID 107410] Starting Workshop download job (requested item 3225716141 )
+[2024-06-23 20:01:55] [AppID 107410] Detected workshop change (latest from server) : changed cached item 3225716141, new manifest 2281077165043462460
+[2024-06-23 20:01:57] [AppID 107410] Download item 3225716141 result : OK
+[2024-06-23 20:01:57] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-23 20:01:58] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-23 20:01:59] Client version: 1718904263
+[2024-06-23 20:01:59] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:02:02] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:02:02] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (1 installed, 1 needed)
+[2024-06-23 20:02:02] [AppID 107410] Download item 3256534418 requested by app
+[2024-06-23 20:02:02] [AppID 107410] Starting Workshop download job (requested item 3256534418 )
+[2024-06-23 20:02:03] [AppID 107410] Detected workshop change (latest from server) : changed cached item 3256534418, new manifest 7627221832241609901
+[2024-06-23 20:02:05] [AppID 107410] Download item 3256534418 result : OK
+[2024-06-23 20:02:05] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-23 20:02:05] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-23 20:02:07] Client version: 1718904263
+[2024-06-23 20:02:07] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:02:09] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:02:10] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (2 installed, 2 needed)
+[2024-06-23 20:02:10] [AppID 107410] Download item 3223868432 requested by app
+[2024-06-23 20:02:10] [AppID 107410] Starting Workshop download job (requested item 3223868432 )
+[2024-06-23 20:02:10] [AppID 107410] Detected workshop change (latest from server) : changed cached item 3223868432, new manifest 141530921262123755
+[2024-06-23 20:02:13] [AppID 107410] Download item 3223868432 result : OK
+[2024-06-23 20:02:13] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-23 20:02:13] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-23 20:02:15] Client version: 1718904263
+[2024-06-23 20:02:15] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:02:17] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:02:17] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (3 installed, 3 needed)
+[2024-06-23 20:02:17] [AppID 107410] Download item 3234562620 requested by app
+[2024-06-23 20:02:17] [AppID 107410] Starting Workshop download job (requested item 3234562620 )
+[2024-06-23 20:02:18] [AppID 107410] Detected workshop change (latest from server) : changed cached item 3234562620, new manifest 205180247943600480
+[2024-06-23 20:02:21] [AppID 107410] Download item 3234562620 result : OK
+[2024-06-23 20:02:21] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-23 20:02:21] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-23 20:02:22] Client version: 1718904263
+[2024-06-23 20:02:22] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:02:25] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:02:25] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (4 installed, 4 needed)
+[2024-06-23 20:02:25] [AppID 107410] Download item 3228741150 requested by app
+[2024-06-23 20:02:25] [AppID 107410] Starting Workshop download job (requested item 3228741150 )
+[2024-06-23 20:02:25] [AppID 107410] Detected workshop change (latest from server) : changed cached item 3228741150, new manifest 4876427869264926152
+[2024-06-23 20:02:28] [AppID 107410] Download item 3228741150 result : OK
+[2024-06-23 20:02:28] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-23 20:02:28] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-23 20:02:30] Client version: 1718904263
+[2024-06-23 20:02:30] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:02:34] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:02:34] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (5 installed, 5 needed)
+[2024-06-23 20:02:34] [AppID 107410] Download item 3270727957 requested by app
+[2024-06-23 20:02:34] [AppID 107410] Starting Workshop download job (requested item 3270727957 )
+[2024-06-23 20:02:34] [AppID 107410] Detected workshop change (latest from server) : changed cached item 3270727957, new manifest 5118226968334008831
+[2024-06-23 20:03:38] [AppID 107410] Download item 3270727957 result : OK
+[2024-06-23 20:03:38] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-23 20:03:38] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-23 20:05:55] Client version: 1718904263
+[2024-06-23 20:05:55] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:05:58] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:05:58] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (6 installed, 6 needed)
+[2024-06-23 20:05:58] [AppID 107410] Download item 3228741150 requested by app
+[2024-06-23 20:05:58] [AppID 107410] Starting Workshop download job (requested item 3228741150 )
+[2024-06-23 20:05:59] [AppID 107410] Download item 3228741150 result : OK
+[2024-06-23 20:05:59] [AppID 107410] Finished Workshop download job : No Error
+
+
+[2024-06-23 20:06:00] Client version: 1718904263
+[2024-06-23 20:06:00] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:06:02] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:06:03] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (6 installed, 6 needed)
+[2024-06-23 20:06:03] [AppID 107410] Download item 3234562620 requested by app
+[2024-06-23 20:06:03] [AppID 107410] Starting Workshop download job (requested item 3234562620 )
+[2024-06-23 20:06:03] [AppID 107410] Download item 3234562620 result : OK
+[2024-06-23 20:06:03] [AppID 107410] Finished Workshop download job : No Error
+
+
+[2024-06-23 20:06:04] Client version: 1718904263
+[2024-06-23 20:06:04] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:06:07] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:06:07] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (6 installed, 6 needed)
+[2024-06-23 20:06:07] [AppID 107410] Download item 3223868432 requested by app
+[2024-06-23 20:06:07] [AppID 107410] Starting Workshop download job (requested item 3223868432 )
+[2024-06-23 20:06:08] [AppID 107410] Download item 3223868432 result : OK
+[2024-06-23 20:06:08] [AppID 107410] Finished Workshop download job : No Error
+
+
+[2024-06-23 20:06:09] Client version: 1718904263
+[2024-06-23 20:06:09] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:06:12] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:06:12] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (6 installed, 6 needed)
+[2024-06-23 20:06:12] [AppID 107410] Download item 3256534418 requested by app
+[2024-06-23 20:06:12] [AppID 107410] Starting Workshop download job (requested item 3256534418 )
+[2024-06-23 20:06:13] [AppID 107410] Download item 3256534418 result : OK
+[2024-06-23 20:06:13] [AppID 107410] Finished Workshop download job : No Error
+
+
+[2024-06-23 20:06:14] Client version: 1718904263
+[2024-06-23 20:06:14] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:06:16] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-23 20:06:17] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (6 installed, 6 needed)
+[2024-06-23 20:06:17] [AppID 107410] Download item 3225716141 requested by app
+[2024-06-23 20:06:17] [AppID 107410] Starting Workshop download job (requested item 3225716141 )
+[2024-06-23 20:06:17] [AppID 107410] Download item 3225716141 result : OK
+[2024-06-23 20:06:17] [AppID 107410] Finished Workshop download job : No Error
+
+
+[2024-06-24 19:44:02] Client version: 1718904263
+[2024-06-24 19:44:02] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 19:44:06] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 19:44:07] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (6 installed, 6 needed)
+[2024-06-24 19:44:07] [AppID 107410] Download item 3225716141 requested by app
+[2024-06-24 19:44:07] [AppID 107410] Starting Workshop download job (requested item 3225716141 )
+[2024-06-24 19:44:07] [AppID 107410] Download item 3225716141 result : OK
+[2024-06-24 19:44:07] [AppID 107410] Finished Workshop download job : No Error
+
+
+[2024-06-24 19:44:14] Client version: 1718904263
+[2024-06-24 19:44:14] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 19:44:15] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 19:44:16] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (6 installed, 6 needed)
+[2024-06-24 19:44:16] [AppID 107410] Download item 3256534418 requested by app
+[2024-06-24 19:44:16] [AppID 107410] Starting Workshop download job (requested item 3256534418 )
+[2024-06-24 19:44:17] [AppID 107410] Detected workshop change (latest from server) : changed cached item 3256534418, new manifest 2927763894754323829
+[2024-06-24 19:44:19] [AppID 107410] Download item 3256534418 result : OK
+[2024-06-24 19:44:19] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-24 19:44:19] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-24 19:44:20] Client version: 1718904263
+[2024-06-24 19:44:20] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 19:44:23] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 19:44:23] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (6 installed, 6 needed)
+[2024-06-24 19:44:23] [AppID 107410] Download item 3223868432 requested by app
+[2024-06-24 19:44:24] [AppID 107410] Starting Workshop download job (requested item 3223868432 )
+[2024-06-24 19:44:24] [AppID 107410] Download item 3223868432 result : OK
+[2024-06-24 19:44:24] [AppID 107410] Finished Workshop download job : No Error
+
+
+[2024-06-24 19:44:25] Client version: 1718904263
+[2024-06-24 19:44:25] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 19:44:28] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 19:44:28] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (6 installed, 6 needed)
+[2024-06-24 19:44:28] [AppID 107410] Download item 3234562620 requested by app
+[2024-06-24 19:44:28] [AppID 107410] Starting Workshop download job (requested item 3234562620 )
+[2024-06-24 19:44:28] [AppID 107410] Download item 3234562620 result : OK
+[2024-06-24 19:44:28] [AppID 107410] Finished Workshop download job : No Error
+
+
+[2024-06-24 19:44:30] Client version: 1718904263
+[2024-06-24 19:44:30] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 19:44:32] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 19:44:33] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (6 installed, 6 needed)
+[2024-06-24 19:44:33] [AppID 107410] Download item 3228741150 requested by app
+[2024-06-24 19:44:33] [AppID 107410] Starting Workshop download job (requested item 3228741150 )
+[2024-06-24 19:44:33] [AppID 107410] Download item 3228741150 result : OK
+[2024-06-24 19:44:33] [AppID 107410] Finished Workshop download job : No Error
+
+
+[2024-06-24 19:44:35] Client version: 1718904263
+[2024-06-24 19:44:35] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 19:44:37] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 19:44:37] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (6 installed, 6 needed)
+[2024-06-24 19:44:37] [AppID 107410] Download item 3270727957 requested by app
+[2024-06-24 19:44:37] [AppID 107410] Starting Workshop download job (requested item 3270727957 )
+[2024-06-24 19:44:38] [AppID 107410] Detected workshop change (latest from server) : changed cached item 3270727957, new manifest 1111608721759237943
+[2024-06-24 19:44:41] [AppID 107410] Download item 3270727957 result : OK
+[2024-06-24 19:44:41] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-24 19:44:41] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-24 19:46:19] Client version: 1718904263
+[2024-06-24 19:46:19] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 19:46:22] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 19:46:23] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (6 installed, 6 needed)
+[2024-06-24 19:46:23] [AppID 107410] Download item 3256534418 requested by app
+[2024-06-24 19:46:23] [AppID 107410] Starting Workshop download job (requested item 3256534418 )
+[2024-06-24 19:46:23] [AppID 107410] Download item 3256534418 result : OK
+[2024-06-24 19:46:23] [AppID 107410] Finished Workshop download job : No Error
+
+
+[2024-06-24 19:46:32] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 19:46:33] [AppID 107410] Loaded workshop items in "c:\users\motosh\simple\steamapps\workshop" (6 installed, 6 needed)
+[2024-06-24 19:46:33] [AppID 107410] Download item 3256534418 requested by app
+[2024-06-24 19:46:33] [AppID 107410] Starting Workshop download job (requested item 3256534418 )
+[2024-06-24 19:46:33] [AppID 107410] Download item 3256534418 result : OK
+[2024-06-24 19:46:33] [AppID 107410] Finished Workshop download job : No Error
+
+
+[2024-06-24 19:47:21] Client version: 1718904263
+[2024-06-24 19:47:21] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 19:47:25] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 19:47:25] [AppID 107410] Loaded workshop items in "c:\tesr\steamapps\workshop" (0 installed, 0 needed)
+[2024-06-24 19:47:25] [AppID 107410] Download item 3256534418 requested by app
+[2024-06-24 19:47:25] [AppID 107410] Starting Workshop download job (requested item 3256534418 )
+[2024-06-24 19:47:25] [AppID 107410] Detected workshop change (latest from server) : changed cached item 3256534418, new manifest 2927763894754323829
+[2024-06-24 19:47:27] [AppID 107410] Download item 3256534418 result : OK
+[2024-06-24 19:47:27] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-24 19:47:27] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-24 20:05:18] Client version: 1718904263
+[2024-06-24 20:05:18] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 20:05:22] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 20:05:22] [AppID 107410] Loaded workshop items in "c:\tesr\steamapps\workshop" (1 installed, 1 needed)
+[2024-06-24 20:05:22] [AppID 107410] Download item 3225716141 requested by app
+[2024-06-24 20:05:22] [AppID 107410] Starting Workshop download job (requested item 3225716141 )
+[2024-06-24 20:05:22] [AppID 107410] Detected workshop change (latest from server) : changed cached item 3225716141, new manifest 2281077165043462460
+[2024-06-24 20:05:24] [AppID 107410] Download item 3225716141 result : OK
+[2024-06-24 20:05:24] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-24 20:05:24] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-24 20:05:30] Client version: 1718904263
+[2024-06-24 20:05:30] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 20:05:33] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 20:05:33] [AppID 107410] Loaded workshop items in "c:\tesr\steamapps\workshop" (2 installed, 2 needed)
+[2024-06-24 20:05:33] [AppID 107410] Download item 3256534418 requested by app
+[2024-06-24 20:05:33] [AppID 107410] Starting Workshop download job (requested item 3256534418 )
+[2024-06-24 20:05:34] [AppID 107410] Download item 3256534418 result : OK
+[2024-06-24 20:05:34] [AppID 107410] Finished Workshop download job : No Error
+
+
+[2024-06-24 20:05:35] Client version: 1718904263
+[2024-06-24 20:05:35] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 20:05:38] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 20:05:38] [AppID 107410] Loaded workshop items in "c:\tesr\steamapps\workshop" (2 installed, 2 needed)
+[2024-06-24 20:05:38] [AppID 107410] Download item 3223868432 requested by app
+[2024-06-24 20:05:38] [AppID 107410] Starting Workshop download job (requested item 3223868432 )
+[2024-06-24 20:05:39] [AppID 107410] Detected workshop change (latest from server) : changed cached item 3223868432, new manifest 141530921262123755
+[2024-06-24 20:05:41] [AppID 107410] Download item 3223868432 result : OK
+[2024-06-24 20:05:41] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-24 20:05:41] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-24 20:05:43] Client version: 1718904263
+[2024-06-24 20:05:43] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 20:05:46] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 20:05:46] [AppID 107410] Loaded workshop items in "c:\tesr\steamapps\workshop" (3 installed, 3 needed)
+[2024-06-24 20:05:46] [AppID 107410] Download item 3234562620 requested by app
+[2024-06-24 20:05:46] [AppID 107410] Starting Workshop download job (requested item 3234562620 )
+[2024-06-24 20:05:46] [AppID 107410] Detected workshop change (latest from server) : changed cached item 3234562620, new manifest 205180247943600480
+[2024-06-24 20:05:48] [AppID 107410] Download item 3234562620 result : OK
+[2024-06-24 20:05:48] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-24 20:05:48] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-24 20:05:49] Client version: 1718904263
+[2024-06-24 20:05:49] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 20:05:52] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 20:05:52] [AppID 107410] Loaded workshop items in "c:\tesr\steamapps\workshop" (4 installed, 4 needed)
+[2024-06-24 20:05:52] [AppID 107410] Download item 3228741150 requested by app
+[2024-06-24 20:05:52] [AppID 107410] Starting Workshop download job (requested item 3228741150 )
+[2024-06-24 20:05:52] [AppID 107410] Detected workshop change (latest from server) : changed cached item 3228741150, new manifest 4876427869264926152
+[2024-06-24 20:05:54] [AppID 107410] Download item 3228741150 result : OK
+[2024-06-24 20:05:54] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-24 20:05:54] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-24 20:05:55] Client version: 1718904263
+[2024-06-24 20:05:55] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 20:05:57] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 20:05:58] [AppID 107410] Loaded workshop items in "c:\tesr\steamapps\workshop" (5 installed, 5 needed)
+[2024-06-24 20:05:58] [AppID 107410] Download item 3270727957 requested by app
+[2024-06-24 20:05:58] [AppID 107410] Starting Workshop download job (requested item 3270727957 )
+[2024-06-24 20:05:58] [AppID 107410] Detected workshop change (latest from server) : changed cached item 3270727957, new manifest 1111608721759237943
+[2024-06-24 20:07:00] [AppID 107410] Download item 3270727957 result : OK
+[2024-06-24 20:07:00] [AppID 107410] Finished Workshop download job : No Error
+[2024-06-24 20:07:00] [AppID 107410] Updating workshop item details failed with Failure
+
+
+[2024-06-24 22:22:43] Client version: 1718904263
+[2024-06-24 22:22:43] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:22:46] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:22:46] [AppID 1167630] Loaded workshop items in "c:\programs\teardown\steamapps\workshop" (0 installed, 0 needed)
+[2024-06-24 22:22:46] [AppID 1167630] Download item 3271398359 requested by app
+[2024-06-24 22:22:46] [AppID 1167630] Starting Workshop download job (requested item 3271398359 )
+[2024-06-24 22:22:47] [AppID 1167630] Detected workshop change (latest from server) : changed cached item 3271398359, new manifest 2732461624785879562
+[2024-06-24 22:22:47] [AppID 1167630] Update canceled: Failed to initialize depot 1167630, manifest 2732461624785879562 (Missing decryption key) (Missing decryption key)
+[2024-06-24 22:22:47] [AppID 1167630] Download item 3271398359 result : Failure
+
+
+[2024-06-24 22:22:48] Client version: 1718904263
+[2024-06-24 22:22:48] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:22:51] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:22:51] [AppID 1167630] Loaded workshop items in "c:\programs\teardown\steamapps\workshop" (0 installed, 1 needed)
+[2024-06-24 22:22:51] [AppID 1167630] Download item 3262683359 requested by app
+[2024-06-24 22:22:51] [AppID 1167630] Starting Workshop download job (requested item 3262683359 )
+[2024-06-24 22:22:52] [AppID 1167630] Detected workshop change (latest from server) : changed cached item 3262683359, new manifest 3239878654601885854
+[2024-06-24 22:22:52] [AppID 1167630] Update canceled: Failed to initialize depot 1167630, manifest 3239878654601885854 (Missing decryption key) (Missing decryption key)
+[2024-06-24 22:22:52] [AppID 1167630] Download item 3262683359 result : Failure
+
+
+[2024-06-24 22:22:53] Client version: 1718904263
+[2024-06-24 22:22:53] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:22:56] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:22:56] [AppID 1167630] Loaded workshop items in "c:\programs\teardown\steamapps\workshop" (0 installed, 2 needed)
+[2024-06-24 22:22:56] [AppID 1167630] Download item 3148138736 requested by app
+[2024-06-24 22:22:57] [AppID 1167630] Starting Workshop download job (requested item 3148138736 )
+[2024-06-24 22:22:57] [AppID 1167630] Detected workshop change (latest from server) : changed cached item 3148138736, new manifest 8416478074097231867
+[2024-06-24 22:22:57] [AppID 1167630] Update canceled: Failed to initialize depot 1167630, manifest 8416478074097231867 (Missing decryption key) (Missing decryption key)
+[2024-06-24 22:22:57] [AppID 1167630] Download item 3148138736 result : Failure
+
+
+[2024-06-24 22:22:59] Client version: 1718904263
+[2024-06-24 22:22:59] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:01] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:01] [AppID 1167630] Loaded workshop items in "c:\programs\teardown\steamapps\workshop" (0 installed, 3 needed)
+[2024-06-24 22:23:01] [AppID 1167630] Download item 2400346027 requested by app
+[2024-06-24 22:23:01] [AppID 1167630] Starting Workshop download job (requested item 2400346027 )
+[2024-06-24 22:23:02] [AppID 1167630] Detected workshop change (latest from server) : changed cached item 2400346027, new manifest 5586947814954820582
+[2024-06-24 22:23:02] [AppID 1167630] Update canceled: Failed to initialize depot 1167630, manifest 5586947814954820582 (Missing decryption key) (Missing decryption key)
+[2024-06-24 22:23:02] [AppID 1167630] Download item 2400346027 result : Failure
+
+
+[2024-06-24 22:23:03] Client version: 1718904263
+[2024-06-24 22:23:03] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:06] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:06] [AppID 1167630] Loaded workshop items in "c:\programs\teardown\steamapps\workshop" (0 installed, 4 needed)
+[2024-06-24 22:23:06] [AppID 1167630] Download item 3148143301 requested by app
+[2024-06-24 22:23:06] [AppID 1167630] Starting Workshop download job (requested item 3148143301 )
+[2024-06-24 22:23:07] [AppID 1167630] Detected workshop change (latest from server) : changed cached item 3148143301, new manifest 4706335223219650773
+[2024-06-24 22:23:07] [AppID 1167630] Update canceled: Failed to initialize depot 1167630, manifest 4706335223219650773 (Missing decryption key) (Missing decryption key)
+[2024-06-24 22:23:07] [AppID 1167630] Download item 3148143301 result : Failure
+
+
+[2024-06-24 22:23:09] Client version: 1718904263
+[2024-06-24 22:23:09] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:11] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:11] [AppID 1167630] Loaded workshop items in "c:\programs\teardown\steamapps\workshop" (0 installed, 5 needed)
+[2024-06-24 22:23:11] [AppID 1167630] Download item 2668505408 requested by app
+[2024-06-24 22:23:12] [AppID 1167630] Starting Workshop download job (requested item 2668505408 )
+[2024-06-24 22:23:12] [AppID 1167630] Detected workshop change (latest from server) : changed cached item 2668505408, new manifest 8694286472814895933
+[2024-06-24 22:23:13] [AppID 1167630] Update canceled: Failed to initialize depot 1167630, manifest 8694286472814895933 (Missing decryption key) (Missing decryption key)
+[2024-06-24 22:23:13] [AppID 1167630] Download item 2668505408 result : Failure
+
+
+[2024-06-24 22:23:14] Client version: 1718904263
+[2024-06-24 22:23:14] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:17] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:17] [AppID 1167630] Loaded workshop items in "c:\programs\teardown\steamapps\workshop" (0 installed, 6 needed)
+[2024-06-24 22:23:17] [AppID 1167630] Download item 3259863888 requested by app
+[2024-06-24 22:23:17] [AppID 1167630] Starting Workshop download job (requested item 3259863888 )
+[2024-06-24 22:23:18] [AppID 1167630] Detected workshop change (latest from server) : changed cached item 3259863888, new manifest 2437747873813798949
+[2024-06-24 22:23:18] [AppID 1167630] Update canceled: Failed to initialize depot 1167630, manifest 2437747873813798949 (Missing decryption key) (Missing decryption key)
+[2024-06-24 22:23:18] [AppID 1167630] Download item 3259863888 result : Failure
+
+
+[2024-06-24 22:23:19] Client version: 1718904263
+[2024-06-24 22:23:19] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:22] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:22] [AppID 1167630] Loaded workshop items in "c:\programs\teardown\steamapps\workshop" (0 installed, 7 needed)
+[2024-06-24 22:23:22] [AppID 1167630] Download item 3260487803 requested by app
+[2024-06-24 22:23:22] [AppID 1167630] Starting Workshop download job (requested item 3260487803 )
+[2024-06-24 22:23:22] [AppID 1167630] Detected workshop change (latest from server) : changed cached item 3260487803, new manifest 1130437315862118933
+[2024-06-24 22:23:23] [AppID 1167630] Update canceled: Failed to initialize depot 1167630, manifest 1130437315862118933 (Missing decryption key) (Missing decryption key)
+[2024-06-24 22:23:23] [AppID 1167630] Download item 3260487803 result : Failure
+
+
+[2024-06-24 22:23:24] Client version: 1718904263
+[2024-06-24 22:23:24] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:27] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:27] [AppID 1167630] Loaded workshop items in "c:\programs\teardown\steamapps\workshop" (0 installed, 8 needed)
+[2024-06-24 22:23:27] [AppID 1167630] Download item 3257037722 requested by app
+[2024-06-24 22:23:27] [AppID 1167630] Starting Workshop download job (requested item 3257037722 )
+[2024-06-24 22:23:28] [AppID 1167630] Detected workshop change (latest from server) : changed cached item 3257037722, new manifest 8583333713650974082
+[2024-06-24 22:23:28] [AppID 1167630] Update canceled: Failed to initialize depot 1167630, manifest 8583333713650974082 (Missing decryption key) (Missing decryption key)
+[2024-06-24 22:23:28] [AppID 1167630] Download item 3257037722 result : Failure
+
+
+[2024-06-24 22:23:29] Client version: 1718904263
+[2024-06-24 22:23:29] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:32] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:32] [AppID 1167630] Loaded workshop items in "c:\programs\teardown\steamapps\workshop" (0 installed, 9 needed)
+[2024-06-24 22:23:32] [AppID 1167630] Download item 3213630268 requested by app
+[2024-06-24 22:23:32] [AppID 1167630] Starting Workshop download job (requested item 3213630268 )
+[2024-06-24 22:23:32] [AppID 1167630] Detected workshop change (latest from server) : changed cached item 3213630268, new manifest 7003785935646551879
+[2024-06-24 22:23:33] [AppID 1167630] Update canceled: Failed to initialize depot 1167630, manifest 7003785935646551879 (Missing decryption key) (Missing decryption key)
+[2024-06-24 22:23:33] [AppID 1167630] Download item 3213630268 result : Failure
+
+
+[2024-06-24 22:23:34] Client version: 1718904263
+[2024-06-24 22:23:34] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:38] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:38] [AppID 1167630] Loaded workshop items in "c:\programs\teardown\steamapps\workshop" (0 installed, 10 needed)
+[2024-06-24 22:23:38] [AppID 1167630] Download item 3259724340 requested by app
+[2024-06-24 22:23:38] [AppID 1167630] Starting Workshop download job (requested item 3259724340 )
+[2024-06-24 22:23:38] [AppID 1167630] Detected workshop change (latest from server) : changed cached item 3259724340, new manifest 5246290111324938928
+[2024-06-24 22:23:39] [AppID 1167630] Update canceled: Failed to initialize depot 1167630, manifest 5246290111324938928 (Missing decryption key) (Missing decryption key)
+[2024-06-24 22:23:39] [AppID 1167630] Download item 3259724340 result : Failure
+
+
+[2024-06-24 22:23:40] Client version: 1718904263
+[2024-06-24 22:23:40] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:42] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:43] [AppID 1167630] Loaded workshop items in "c:\programs\teardown\steamapps\workshop" (0 installed, 11 needed)
+[2024-06-24 22:23:43] [AppID 1167630] Download item 3209525959 requested by app
+[2024-06-24 22:23:43] [AppID 1167630] Starting Workshop download job (requested item 3209525959 )
+[2024-06-24 22:23:43] [AppID 1167630] Detected workshop change (latest from server) : changed cached item 3209525959, new manifest 4010379677675532746
+[2024-06-24 22:23:43] [AppID 1167630] Update canceled: Failed to initialize depot 1167630, manifest 4010379677675532746 (Missing decryption key) (Missing decryption key)
+[2024-06-24 22:23:43] [AppID 1167630] Download item 3209525959 result : Failure
+
+
+[2024-06-24 22:23:45] Client version: 1718904263
+[2024-06-24 22:23:45] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:48] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:48] [AppID 1167630] Loaded workshop items in "c:\programs\teardown\steamapps\workshop" (0 installed, 12 needed)
+[2024-06-24 22:23:48] [AppID 1167630] Download item 3231687934 requested by app
+[2024-06-24 22:23:48] [AppID 1167630] Starting Workshop download job (requested item 3231687934 )
+[2024-06-24 22:23:48] [AppID 1167630] Detected workshop change (latest from server) : changed cached item 3231687934, new manifest 7769865259355314982
+[2024-06-24 22:23:49] [AppID 1167630] Update canceled: Failed to initialize depot 1167630, manifest 7769865259355314982 (Missing decryption key) (Missing decryption key)
+[2024-06-24 22:23:49] [AppID 1167630] Download item 3231687934 result : Failure
+
+
+[2024-06-24 22:23:50] Client version: 1718904263
+[2024-06-24 22:23:50] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:52] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:52] [AppID 1167630] Loaded workshop items in "c:\programs\teardown\steamapps\workshop" (0 installed, 13 needed)
+[2024-06-24 22:23:52] [AppID 1167630] Download item 3268665659 requested by app
+[2024-06-24 22:23:53] [AppID 1167630] Starting Workshop download job (requested item 3268665659 )
+[2024-06-24 22:23:53] [AppID 1167630] Detected workshop change (latest from server) : changed cached item 3268665659, new manifest 4033129793326706500
+[2024-06-24 22:23:53] [AppID 1167630] Update canceled: Failed to initialize depot 1167630, manifest 4033129793326706500 (Missing decryption key) (Missing decryption key)
+[2024-06-24 22:23:53] [AppID 1167630] Download item 3268665659 result : Failure
+
+
+[2024-06-24 22:23:55] Client version: 1718904263
+[2024-06-24 22:23:55] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:57] Loading workshop items for 0 installed apps for user [U:1:1254168323]:
+[2024-06-24 22:23:57] [AppID 1167630] Loaded workshop items in "c:\programs\teardown\steamapps\workshop" (0 installed, 14 needed)
+[2024-06-24 22:23:57] [AppID 1167630] Download item 3236689857 requested by app
+[2024-06-24 22:23:57] [AppID 1167630] Starting Workshop download job (requested item 3236689857 )
+[2024-06-24 22:23:58] [AppID 1167630] Detected workshop change (latest from server) : changed cached item 3236689857, new manifest 957220453012736165
+[2024-06-24 22:23:58] [AppID 1167630] Update canceled: Failed to initialize depot 1167630, manifest 957220453012736165 (Missing decryption key) (Missing decryption key)
+[2024-06-24 22:23:58] [AppID 1167630] Download item 3236689857 result : Failure

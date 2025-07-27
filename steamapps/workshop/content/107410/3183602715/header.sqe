@@ -1,0 +1,9 @@
+version=54;
+name="3D Briefing Tables";
+author="Miss Heda";
+category="EdSubcat_Utilities";
+requiredAddons[]=
+{
+	"A3_Props_F_AoW_Civilian_Gallery",
+	"A3_Props_F_Orange_Humanitarian_Camps"
+};
